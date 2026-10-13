@@ -56,15 +56,42 @@ const categoryOf = (name) =>
   config.categories.find((c) => c.name.toLowerCase() === String(name).toLowerCase());
 
 // ---------- layout ----------
-function layout({ title, description, body, bodyClass = "" }) {
+const SITE_URL = config.siteUrl.replace(/\/$/, "");
+
+function layout({ title, description, body, bodyClass = "", path: pagePath = "/" }) {
   const fullTitle = title ? `${title} · ${config.siteName}` : `${config.siteName} — ${config.tagline}`;
+  const url = SITE_URL + pagePath;
+  const desc = description || config.tagline;
+  // On the home page, tell Google the site's name so results show "The Other Side"
+  const siteSchema =
+    pagePath === "/"
+      ? `<script type="application/ld+json">${JSON.stringify({
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          name: config.siteName,
+          url: SITE_URL + "/",
+          potentialAction: {
+            "@type": "SearchAction",
+            target: SITE_URL + "/search/?q={search_term_string}",
+            "query-input": "required name=search_term_string",
+          },
+        })}</script>`
+      : "";
   return `<!doctype html>
 <html lang="en" class="no-js">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(fullTitle)}</title>
-<meta name="description" content="${esc(description || config.tagline)}">
+<meta name="description" content="${esc(desc)}">
+<link rel="canonical" href="${esc(url)}">
+<meta property="og:site_name" content="${esc(config.siteName)}">
+<meta property="og:title" content="${esc(title || config.siteName)}">
+<meta property="og:description" content="${esc(desc)}">
+<meta property="og:url" content="${esc(url)}">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+${siteSchema}
 <script>document.documentElement.classList.replace("no-js","js")</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -191,7 +218,7 @@ function buildCategories() {
 <p class="lede">${esc(c.blurb || "")}</p>
 ${content}
 ${adSlot(`category-${slugify(c.name)}-bottom`)}`;
-    write(`category/${slugify(c.name)}/index.html`, layout({ title: c.name, description: c.blurb, body }));
+    write(`category/${slugify(c.name)}/index.html`, layout({ title: c.name, description: c.blurb, body, path: `/category/${slugify(c.name)}/` }));
   }
 }
 
@@ -302,7 +329,7 @@ ${adSlot("topic-top")}
 ${adSlot("topic-bottom")}
 ${disclaimer}`;
 
-  write(`topic/${e.slug}/index.html`, layout({ title: e.topic, description: e.hook, body, bodyClass: "page-topic" }));
+  write(`topic/${e.slug}/index.html`, layout({ title: e.topic, description: e.hook, body, bodyClass: "page-topic", path: `/topic/${e.slug}/` }));
 }
 
 // ---------- search ----------
@@ -326,7 +353,7 @@ ${searchForm("", true)}
   <p class="request-thanks" id="request-thanks" hidden>Thanks! It's on the list. 🙌</p>
 </section>
 ${adSlot("search-bottom")}`;
-  write("search/index.html", layout({ title: "Search", body }));
+  write("search/index.html", layout({ title: "Search", body, path: "/search/" }));
 
   const index = entries.map((e) => ({
     slug: e.slug,
@@ -344,7 +371,29 @@ function build404() {
 <h1 class="page-title">Hmm, nothing on this side.</h1>
 <p class="lede">That page doesn't exist. Try searching instead.</p>
 ${searchForm()}`;
-  write("404.html", layout({ title: "Not found", body }));
+  const html = layout({ title: "Not found", body, path: "/404" });
+  write("404.html", html.replace("<head>", '<head>\n<meta name="robots" content="noindex">'));
+}
+
+// sitemap.xml + robots.txt so search engines can find every page
+function buildSeoFiles() {
+  const paths = [
+    "/",
+    "/search/",
+    ...config.categories.map((c) => `/category/${slugify(c.name)}/`),
+    ...entries.map((e) => `/topic/${e.slug}/`),
+  ];
+  const lastmod = (p) => {
+    const e = entries.find((x) => p === `/topic/${x.slug}/`);
+    return e?.generated_at ? `<lastmod>${String(e.generated_at).slice(0, 10)}</lastmod>` : "";
+  };
+  write(
+    "sitemap.xml",
+    `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${paths
+      .map((p) => `  <url><loc>${esc(SITE_URL + p)}</loc>${lastmod(p)}</url>`)
+      .join("\n")}\n</urlset>\n`
+  );
+  write("robots.txt", `User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 }
 
 // ---------- run ----------
@@ -356,6 +405,7 @@ buildCategories();
 entries.forEach(buildTopic);
 buildSearch();
 build404();
+buildSeoFiles();
 
 const unknown = entries.filter((e) => !categoryOf(e.cat.parent));
 console.log(`Built ${entries.length} topic page(s) into dist/`);

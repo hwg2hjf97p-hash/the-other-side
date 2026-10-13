@@ -1,5 +1,6 @@
 {
   "siteName": "The Other Side",
+  "siteUrl": "https://the-otherside.netlify.app",
   "tagline": "Your feed shows you one side. Here are the rest.",
   "trending": ["do-aliens-exist"],
   "categories": [
