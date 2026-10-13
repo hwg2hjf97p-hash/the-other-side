@@ -1,0 +1,74 @@
+{
+  "topic": "Do aliens exist?",
+  "category": "Aliens",
+  "hook": "Somewhere between 'the universe is huge' and 'my uncle saw lights over the highway', people land in very different places. Pull up a chair — everyone here has a reason.",
+  "camps": [
+    {
+      "name": "Life is out there, just far away",
+      "one_liner": "The universe is so big that life almost certainly exists elsewhere, but it probably hasn't visited us.",
+      "why_people_believe_this": "For many people this view comes from a sense of scale: billions of galaxies, each with billions of stars, make Earth feel unlikely to be unique. It appeals to people who value scientific caution — open to the idea, but wanting evidence before believing in visits.",
+      "strongest_arguments": [
+        { "point": "The numbers are enormous", "explanation": "With so many stars and planets, even a tiny chance of life per planet could add up to a lot of life overall." },
+        { "point": "Life's ingredients are common", "explanation": "The chemical building blocks of life show up in space, meteorites and on other worlds in our own solar system." },
+        { "point": "Life on Earth started early", "explanation": "Life appeared fairly soon after Earth became habitable, which some read as a sign it isn't hard to get going." }
+      ],
+      "weakest_arguments": [
+        { "point": "We only have one example", "explanation": "Every estimate is built on a single data point — Earth — so the odds could be far lower than they feel." },
+        { "point": "Big numbers aren't evidence", "explanation": "A huge universe makes life possible, not proven. Until something is detected, it remains a reasonable guess." }
+      ]
+    },
+    {
+      "name": "They're already here",
+      "one_liner": "Some unexplained sightings and encounters are best explained by non-human visitors.",
+      "why_people_believe_this": "People in this camp often start from testimony — their own, or from pilots and witnesses who seem credible and have little to gain. Many also distrust official explanations, feeling that institutions have been slow or unwilling to share what they know.",
+      "strongest_arguments": [
+        { "point": "Credible witnesses", "explanation": "Trained observers such as military pilots have described objects that seemed to move in ways they couldn't explain." },
+        { "point": "Governments take it seriously", "explanation": "Official investigations into unidentified aerial phenomena suggest there are cases even experts haven't resolved." },
+        { "point": "Patterns across cultures", "explanation": "Similar accounts come from many countries and decades, which believers see as more than coincidence." }
+      ],
+      "weakest_arguments": [
+        { "point": "Unexplained isn't the same as alien", "explanation": "A sighting nobody can explain could still be equipment, weather, drones or perception — 'unknown' doesn't point to one answer." },
+        { "point": "No physical evidence made public", "explanation": "Despite many decades of reports, there's no widely verified object or material that settles the question." }
+      ]
+    },
+    {
+      "name": "We may well be alone",
+      "one_liner": "Life — especially complex or intelligent life — may be so rare that Earth is the only place it exists, at least nearby.",
+      "why_people_believe_this": "This view often comes from looking closely at how many lucky conditions Earth needed: the right star, a stable orbit, a protective atmosphere and billions of years of calm. For some it's also a source of meaning — if we're rare, we're precious.",
+      "strongest_arguments": [
+        { "point": "The great silence", "explanation": "If the galaxy were full of civilisations, some argue we'd expect to have noticed signs by now — and we haven't." },
+        { "point": "Many steps had to go right", "explanation": "From simple cells to complex animals to technology, each step may have been a long shot." },
+        { "point": "Earth's setup is unusual", "explanation": "Features like a large moon and a stable climate may be less common than we assume." }
+      ],
+      "weakest_arguments": [
+        { "point": "We've barely looked", "explanation": "Our searches cover a tiny fraction of space and time, so silence so far may not mean much." },
+        { "point": "Assumes life must be like ours", "explanation": "Life elsewhere might not need Earth-like conditions, which would make 'rare Earth' reasoning less relevant." }
+      ]
+    },
+    {
+      "name": "We can't know yet",
+      "one_liner": "There isn't enough evidence to say either way, so the honest answer is 'we don't know'.",
+      "why_people_believe_this": "People here value intellectual honesty and are wary of both excitement and dismissal. They'd rather hold the question open than pick an answer the evidence can't yet support.",
+      "strongest_arguments": [
+        { "point": "Evidence is genuinely missing", "explanation": "No confirmed detection exists, and no one can prove a negative, so suspending judgement fits the facts." },
+        { "point": "Guesses depend on unknowns", "explanation": "Estimates of alien life rest on numbers nobody knows, so confident answers in any direction are premature." }
+      ],
+      "weakest_arguments": [
+        { "point": "Can feel like dodging", "explanation": "Critics say we make reasonable bets under uncertainty all the time, and refusing to lean either way avoids the question." },
+        { "point": "'Not yet' can last forever", "explanation": "If the evidence never comes, permanent fence-sitting may not be a satisfying position." }
+      ]
+    }
+  ],
+  "common_ground": "Almost everyone agrees the universe is vast, that we haven't explored much of it, and that a confirmed discovery — of microbes or messages — would be one of the biggest moments in human history. Most also agree that unexplained sightings deserve honest investigation rather than ridicule.",
+  "questions_to_sit_with": [
+    "How would you feel if we found microbes on another planet tomorrow — and would that change how you see Earth?",
+    "What kind of evidence would it take to change your mind, in either direction?",
+    "Why do you think this question matters so much to people?"
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-13T00:00:00.000Z",
+  "audit": {
+    "problems_fixed": [],
+    "note": "Sample entry written by hand for testing the site. Replace it by running: node generate-entry.js \"Do aliens exist?\" \"Aliens\""
+  }
+}

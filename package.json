@@ -1,0 +1,14 @@
+{
+  "name": "the-other-side",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "dev": "node build.js && node dev.js",
+    "generate": "node generate-entry.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest"
+  }
+}
