@@ -1,21 +1,21 @@
-﻿{
+{
   "siteName": "The Other Side",
   "siteUrl": "https://meettheotherside.com",
   "tagline": "Your feed shows you one side. Here are the rest.",
   "trending": ["do-aliens-exist"],
   "categories": [
-    { "name": "Aliens", "emoji": "ðŸ‘½", "blurb": "Are we alone, visited, or just lonely?" },
-    { "name": "AI", "emoji": "ðŸ¤–", "blurb": "Saviour, threat, overhyped autocomplete?" },
+    { "name": "Aliens", "emoji": "👽", "blurb": "Are we alone, visited, or just lonely?" },
+    { "name": "AI", "emoji": "🤖", "blurb": "Saviour, threat, overhyped autocomplete?" },
     {
       "name": "Politics",
-      "emoji": "ðŸ—³ï¸",
+      "emoji": "🗳️",
       "blurb": "The big fights, every camp explained.",
       "subcategories": ["Elections", "Economy", "Immigration", "Climate Policy", "Guns", "Free Speech", "Healthcare"]
     },
-    { "name": "Health", "emoji": "ðŸ©º", "blurb": "Diets, meds, and what to actually trust." },
-    { "name": "Science", "emoji": "ðŸ”­", "blurb": "Where the evidence gets argued about." },
-    { "name": "Society", "emoji": "ðŸ™ï¸", "blurb": "How we live together (or don't)." },
-    { "name": "Conspiracies", "emoji": "ðŸ•µï¸", "blurb": "What believers and sceptics each see." },
-    { "name": "Philosophy", "emoji": "ðŸ¤”", "blurb": "Questions with no answer key." }
+    { "name": "Health", "emoji": "🩺", "blurb": "Diets, meds, and what to actually trust." },
+    { "name": "Science", "emoji": "🔭", "blurb": "Where the evidence gets argued about." },
+    { "name": "Society", "emoji": "🏙️", "blurb": "How we live together (or don't)." },
+    { "name": "Conspiracies", "emoji": "🕵️", "blurb": "What believers and sceptics each see." },
+    { "name": "Philosophy", "emoji": "🤔", "blurb": "Questions with no answer key." }
   ]
 }
