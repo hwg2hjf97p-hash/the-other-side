@@ -10,7 +10,13 @@
       "name": "Politics",
       "emoji": "🗳️",
       "blurb": "The big fights, every camp explained.",
-      "subcategories": ["Elections", "Economy", "Immigration", "Climate Policy", "Guns", "Free Speech", "Healthcare"]
+      "subcategories": ["Elections", "Economy", "Immigration", "Climate Policy", "Guns", "Free Speech", "Healthcare", "Privacy"]
+    },
+    {
+      "name": "Religion",
+      "emoji": "🕯️",
+      "blurb": "Faith, doubt, and everything in between.",
+      "subcategories": ["Christianity", "Islam", "Judaism", "Hinduism", "Buddhism", "Non-religious"]
     },
     { "name": "Health", "emoji": "🩺", "blurb": "Diets, meds, and what to actually trust." },
     { "name": "Science", "emoji": "🔭", "blurb": "Where the evidence gets argued about." },
