@@ -1,0 +1,274 @@
+{
+  "topic": "Is AI going to take our jobs?",
+  "category": "AI",
+  "hook": "Every few decades, a new machine arrives and people argue about whether work is about to change for good. Some point to history and say we adapt. Others say this time is different. Others ask who ends up with the gains, and a few say a world with less work might be a good thing. Here's the beer-table version of a very big argument.",
+  "camps": [
+    {
+      "name": "The 'Same Pattern as Before' Camp",
+      "one_liner": "New technology destroys some jobs but creates others, and AI will probably follow the same pattern as the loom, the tractor and the spreadsheet.",
+      "why_people_believe_this": "These people look at the long sweep of history and see a pattern: earlier waves of automation came with predictions of mass unemployment, and each time, people ended up doing new kinds of work. They tend to be cautious about confident forecasts of dramatic change, and many have watched their own jobs change through earlier tech shifts rather than disappear.",
+      "strongest_arguments": [
+        {
+          "point": "History shows job transformation more than job extinction.",
+          "explanation": "Farming once employed most people and now employs a small fraction, yet economies did not end up with a permanently jobless majority. Occupations such as web developer, data analyst and app designer would have sounded unfamiliar a century ago. Supporters argue this suggests new wants and new work tend to emerge alongside productivity gains."
+        },
+        {
+          "point": "Jobs are bundles of tasks, and AI automates tasks, not whole jobs.",
+          "explanation": "Most roles mix talking to people, judgment calls, handling exceptions and taking responsibility. If AI handles part of the bundle, supporters argue the worker may shift toward the rest and could become more productive in doing so."
+        },
+        {
+          "point": "Cheaper output can mean more demand, not less work.",
+          "explanation": "When something becomes cheaper to produce, people often want more of it. If AI makes software, design or legal drafting cheaper, supporters expect new markets that still involve people directing, checking and selling the results."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'It has always worked out, so it will again.'",
+          "explanation": "This rests on a limited number of past cases, mostly involving technologies that replaced physical effort or routine procedure. If AI is a different kind of technology, the track record may not carry over. Critics say history is a reason for hope, not a guarantee."
+        },
+        {
+          "point": "'The long run will even out.'",
+          "explanation": "Historical transitions sometimes took a generation, with particular workers and regions bearing the costs. Critics say a long-run average does not help people living through the adjustment, and that it can overlook retraining difficulties for people late in their careers."
+        },
+        {
+          "point": "'New jobs will appear in time and in the right places.'",
+          "explanation": "This can skip over who gets the new jobs. They may need different skills, be in different places, or pay differently. Critics note that 'jobs will exist' and 'displaced people can get those jobs' are separate claims."
+        }
+      ]
+    },
+    {
+      "name": "The 'This Time Is Different' Camp",
+      "one_liner": "AI targets cognitive work, which earlier displaced workers moved into, so it could displace human labour faster than society can adapt.",
+      "why_people_believe_this": "Earlier machines mostly took over physical or narrow routine tasks, and people moved into thinking, creating and communicating. These people see AI moving into that area. Many are concerned about the effects on ordinary workers, and some work close to the technology and have seen its abilities improve faster than they expected.",
+      "strongest_arguments": [
+        {
+          "point": "AI targets cognitive work, where displaced workers used to go.",
+          "explanation": "If machines can do both physical and mental tasks, supporters ask what the next category of work would be. They argue earlier transitions had somewhere obvious to move to, and that it is unclear whether this one does."
+        },
+        {
+          "point": "The speed of change may outrun our ability to adapt.",
+          "explanation": "Retraining, education and safety nets move over years or decades. Supporters argue that if capabilities improve in months, many people could be caught mid-transition without a workable path, even if the wider economy eventually rebalances."
+        },
+        {
+          "point": "Entry-level jobs may shrink first, weakening the career ladder.",
+          "explanation": "Junior roles often consist of simpler tasks that AI handles reasonably well. Supporters argue that if those shrink, it is harder for people to build the experience to become senior."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'Rapid recent progress means rapid progress will continue.'",
+          "explanation": "Progress in technology can plateau, and moving from a demo to everyday workplace use often takes years because of cost, regulation, trust and inertia. Critics say extrapolating from recent gains is risky."
+        },
+        {
+          "point": "'If AI can do the tasks, it can do the jobs.'",
+          "explanation": "Doing well on a task or test is different from doing a job reliably day after day with accountability, context and edge cases. Critics say this view can treat a capable tool as a complete replacement."
+        },
+        {
+          "point": "'There may be little new work left for humans.'",
+          "explanation": "Critics say this can treat the amount of work as fixed, when historically people have found new things to want and do. A claim that little will be left is hard to prove in advance."
+        }
+      ]
+    },
+    {
+      "name": "The 'Who Holds the Power' Camp",
+      "one_liner": "Whether AI takes jobs matters, but so does who owns it, who captures the gains, and what choices we make about sharing them.",
+      "why_people_believe_this": "These people focus on how economic power is distributed. They point to earlier technologies that raised productivity while some workers' pay lagged, and conclude outcomes depend on rules and bargaining as well as on the technology. For them, 'will AI take jobs?' sits alongside 'for whose benefit?'",
+      "strongest_arguments": [
+        {
+          "point": "Technology does not decide outcomes alone; institutions shape them.",
+          "explanation": "The same tool can lead to shorter workweeks and higher pay or to layoffs and bigger profits, depending on unions, laws, taxes and company choices. Supporters argue that treating AI as an unstoppable force hides those choices."
+        },
+        {
+          "point": "Productivity gains have not always reached workers.",
+          "explanation": "Supporters point to periods when output grew while typical pay lagged. Economists debate how large the gap is and how it should be measured, but supporters say it raises the question of whether workers would share in AI-driven gains."
+        },
+        {
+          "point": "Concentrated ownership of AI could concentrate wealth and leverage.",
+          "explanation": "If a handful of firms control the most capable systems, they may hold a lot of bargaining power over those who depend on them. Supporters suggest worker voice, competition rules or shared ownership as responses."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'Better rules will fix it.'",
+          "explanation": "Ideas like redistribution or new ownership models are easy to sketch but hard to detail: who pays, how it is enforced, what happens across borders. Critics say the camp can point to 'better rules' without showing they are workable."
+        },
+        {
+          "point": "'It's really about distribution.'",
+          "explanation": "Sometimes a technology makes certain skills less valuable regardless of who owns what. Critics say focusing on distribution can underplay the possibility that the disruption itself is large and needs direct attention."
+        },
+        {
+          "point": "'Rules can redirect the gains at little cost.'",
+          "explanation": "Critics argue heavy regulation or redistribution could slow useful tools or push development elsewhere, shrinking what there is to share. Supporters would reply that well-designed policy need not do this, but the trade-off is contested."
+        }
+      ]
+    },
+    {
+      "name": "The 'Capabilities Are Overstated' Camp",
+      "one_liner": "Current AI is less capable and reliable than often claimed, so the job-loss concern is premature or inflated.",
+      "why_people_believe_this": "These people focus on what the tools demonstrably do in real work. Many have tried them and run into confident mistakes, odd failures and results needing heavy correction. They have also seen earlier technology hype cycles, and they note that some of those making big predictions have a financial interest in them.",
+      "strongest_arguments": [
+        {
+          "point": "Current systems make errors that matter in real work.",
+          "explanation": "AI tools can produce fluent but wrong answers, and in areas like medicine, law, engineering or finance, checking the output can eat the time saved. Where mistakes are costly, supporters expect humans to stay in the loop."
+        },
+        {
+          "point": "Forecasts are shaped by incentives, so deployment evidence matters.",
+          "explanation": "Companies and investors can benefit from excitement, and dramatic claims attract funding and attention. That does not make the claims false, but supporters argue it is a reason to look at what is actually being deployed and measured."
+        },
+        {
+          "point": "Real workplaces are messy, and adoption is slow.",
+          "explanation": "Jobs involve relationships, unwritten rules, legacy systems and legal responsibility. Supporters argue that turning a clever tool into a reliable replacement across an organisation usually takes longer than demos suggest."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'Judge it by what it does today.'",
+          "explanation": "Capabilities have improved quickly, and tools that were clumsy not long ago are now useful for many tasks. Critics say current flaws may shrink, and a tool need not be perfect to change hiring."
+        },
+        {
+          "point": "'Those warning of job loss have a motive.'",
+          "explanation": "Pointing out financial incentives is fair, but it does not settle whether a claim is true, and the same logic applies to those who downplay AI. Critics say the argument needs to be tested against evidence."
+        },
+        {
+          "point": "'If it can't fully replace a job, there's little to worry about.'",
+          "explanation": "Even a partly capable tool can lower demand for some work, reduce pay or let one person do what several did. Critics say jobs can be squeezed without being fully automated."
+        }
+      ]
+    },
+    {
+      "name": "The 'Less Work Could Be Good' Camp",
+      "one_liner": "If AI can do much of the work, that is an opportunity, and the goal should be a good life that does not depend on having a traditional job.",
+      "why_people_believe_this": "These people see work as a means to income, goods and services rather than as an end in itself. They are often drawn to ideas like shorter work weeks, income guarantees or shared ownership, and they see automation as a chance to reduce drudgery rather than something to resist.",
+      "strongest_arguments": [
+        {
+          "point": "The goal is a decent life, not jobs for their own sake.",
+          "explanation": "Supporters argue that if goods and services can be produced with less human labour, the sensible question is how to share the results, not how to keep people busy."
+        },
+        {
+          "point": "Working hours have already fallen over the long run.",
+          "explanation": "Average working hours have fallen substantially in many wealthy countries over the past century or so. Supporters see further reductions as a continuation of that trend rather than a crisis."
+        },
+        {
+          "point": "Competing with machines for jobs is a losing frame.",
+          "explanation": "Supporters argue that building policy around protecting every job may be less effective than building security that does not depend on any single job, such as income floors, public services or reduced hours."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'Abundance will arrive and be shared.'",
+          "explanation": "This assumes AI will deliver large productivity gains and that political systems will distribute them. Critics say neither is guaranteed, and that funding such schemes at scale is a hard practical question."
+        },
+        {
+          "point": "'Work is mostly just a burden.'",
+          "explanation": "For many people, jobs provide structure, identity, community and status as well as income. Critics say this view can underestimate what people would lose if work shrinks, even if money were provided."
+        },
+        {
+          "point": "'The transition is a detail to be handled later.'",
+          "explanation": "Critics say the path from here to a low-work society matters, including who is hurt along the way, and that it should not be treated as an afterthought."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Most people on all sides agree that AI will change how at least some jobs are done and that the effects are likely to be uneven, with some people and places affected more than others. Most also accept that nobody can forecast the pace with confidence. The disagreements are about how capable the technology really is, how fast and how far it will spread, who ends up with the benefits, and what, if anything, should be done about it.",
+  "questions_to_sit_with": [
+    "If past patterns of new jobs replacing old ones hold, is that enough, or do the timing, location and quality of those jobs also matter?",
+    "How much should we rely on forecasts and demos, and how much on evidence from real workplaces?",
+    "How much of the outcome is driven by the technology, and how much by choices about rules, ownership and bargaining?",
+    "If a job survives but pays less or becomes less satisfying, has AI 'taken' it?"
+  ],
+  "key_facts": [
+    {
+      "fact": "The World Economic Forum’s Future of Jobs Report 2025 projects that job disruption from all causes, including technology, demographic shifts, economic pressures and geopolitics, will equate to 22% of jobs by 2030, with 170 million roles created and 92 million displaced. These are projections, not measurements.",
+      "source_title": "Future of Jobs Report 2025: 78 Million New Job Opportunities by 2030 but Urgent Upskilling Needed to Prepare Workforces",
+      "source_url": "https://www.weforum.org/media/future-of-jobs-report-2025-78-million-new-job-opportunities-by-2030-but-urgent-upskilling-needed-to-prepare-workforces/"
+    },
+    {
+      "fact": "The U.S. Bureau of Labor Statistics now factors AI’s expected effects into its official 10-year employment projections, and has published case studies on how it does this.",
+      "source_title": "Incorporating AI impacts in BLS employment projections: occupational case studies",
+      "source_url": "https://www.bls.gov/opub/mlr/2025/article/incorporating-ai-impacts-in-bls-employment-projections.htm"
+    },
+    {
+      "fact": "Researchers at Yale’s Budget Lab found the broader U.S. labour market had not experienced a discernible disruption in the 33 months after ChatGPT’s release. They caution that a snapshot in time can’t determine what the future holds, and plan to keep updating the analysis.",
+      "source_title": "Evaluating the Impact of AI on the Labor Market: Current State of Affairs",
+      "source_url": "https://budgetlab.yale.edu/research/evaluating-impact-ai-labor-market-current-state-affairs"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T02:50:19.611Z",
+  "audit": {
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "The hook sides with the 'seen this movie' camp. 'Work has stubbornly refused to die' presents continuity as the established fact. 'The people who say this time is different would like a word' makes the other camp sound like interrupters. Only two camps are mentioned.",
+        "favoured_camp": "The 'We've Seen This Movie' Camp",
+        "fix": "Rewrote the hook to describe the argument neutrally and to preview all camps without a verdict or a mocking tone."
+      },
+      {
+        "issue": "The 'why people believe this' sections flatter some camps and are neutral or pointed toward others. Camp 1 gets 'humility about forecasting' and 'the future has a habit of embarrassing confident predictors', which is a jab at camp 2. Camp 2 gets 'protective instinct for ordinary workers'. Camp 3 'care most about fairness'. Camp 4 'value hands-on evidence over big promises' and are 'wary of companies with a financial stake', which implies the other camps lack evidence.",
+        "favoured_camp": "Camps 1, 3 and 4 (flattering virtues); camp 2 (sympathetic motive)",
+        "fix": "Rewrote all of them in the same register: what each camp observes, what it weighs most, and what experience shapes it. I removed virtue-signalling and digs at other camps."
+      },
+      {
+        "issue": "The camp 2 one-liner ('general-purpose replacement for thinking itself', 'across the board') is more dramatic than most holders of that view would put it, so it is a partial strawman. Its weakest arguments also include 'predicting a sudden cliff', which many in this camp don't claim.",
+        "favoured_camp": "The 'We've Seen This Movie' and 'Overhyped' Camps (at camp 2's expense)",
+        "fix": "Toned down the one-liner. Replaced the 'cliff' weak argument with 'rapid recent progress will continue', which camp 2 supporters do make."
+      },
+      {
+        "issue": "Camp 1's strongest arguments end on conclusion-asserting phrases ('human wants expand to fill the productivity gains', 'those need humans to direct, check and sell them'). Camp 2's 'it's a fair question whether this one does' reads as editorial endorsement. Camp 3's 'lets decision-makers off the hook' is an accusation made in the entry's own voice.",
+        "favoured_camp": "Camps 1, 2 and 3 (each gets editorial endorsement in places)",
+        "fix": "Reworded so each claim is attributed to the camp ('supporters argue', 'may'). Removed accusatory or endorsing phrasing."
+      },
+      {
+        "issue": "Camp 1's weakest arguments use emotive imagery ('loses a career at 50', 'left behind', 'can sound dismissive'), and two of them are really camp 3's arguments imported as critiques. Camp 2's weakest arguments are drier. The emotional register is uneven across camps.",
+        "favoured_camp": "Camp 2 and Camp 3 (camp 1's weak points are made more vivid)",
+        "fix": "Neutralised the language. Framed each weak argument as a claim the camp might make, followed by the usual objection."
+      },
+      {
+        "issue": "Camp 3's third 'weak argument' (discouraging innovation) is an opponent's objection, not an argument camp 3 makes, so it is not parallel to the other weak arguments. Camp 3's 'productivity gains haven't reached workers' is stated flatly, though economists dispute how to measure the productivity-pay gap.",
+        "favoured_camp": "Camp 3 (its strongest arguments go undisputed)",
+        "fix": "Reframed the weak argument as 'rules can redirect gains without costs'. Added that the productivity-pay link is debated and depends on how pay is measured."
+      },
+      {
+        "issue": "Camp 4's strongest argument, 'loudest predictors have something to sell', is a motive-based argument, and the same camp's weak list says motive-based dismissal doesn't settle truth. The entry is inconsistent. The camp also gets an unsupported claim that 'plenty of people with no stake' report real changes.",
+        "favoured_camp": "Camp 4 (it is both defended and critiqued on the same point)",
+        "fix": "Reframed the strong argument as 'forecasts are shaped by incentives, so look at deployment evidence'. Reframed the weak one as 'relying on motives instead of evidence'. Removed the unsupported claim about unaffiliated reporters."
+      },
+      {
+        "issue": "A real camp is missing: people who welcome automation and think the goal should be decoupling a decent life from having a job (post-work, shorter weeks, income floors). They are neither 'it'll work out' nor 'it's about power'. The entry also has no explicit camp that is optimistic about market adaptation without policy intervention, but camp 1 partly covers that.",
+        "favoured_camp": "None explicitly; the omission skews the field toward worry about loss and about distribution",
+        "fix": "Added a fifth camp for the 'post-work / welcome automation' view, with parallel strong and weak arguments and no invented statistics."
+      },
+      {
+        "issue": "Camp labels carry attitude. 'Overhyped' and 'We've Seen This Movie' are dismissive framings, 'Really Is Different' is wry, and 'Mostly About Who Holds the Power' contains a verdict ('mostly').",
+        "favoured_camp": "Camps 2 and 3 (named as the more extreme or reductive positions)",
+        "fix": "Renamed the camps with more descriptive, less judgmental labels."
+      },
+      {
+        "issue": "Common ground says 'Nearly everyone agrees' that tasks will be automated and that support for workers 'matters a great deal'. Camp 4 may dispute the first, and camp 1 and some market-oriented voices would rank the second lower. It also says the real disagreements are speed, scale and benefits, which leaves out the dispute over whether the capabilities are real.",
+        "favoured_camp": "Camps 2 and 3",
+        "fix": "Softened to 'most', added the capability dispute, and made the claims more modest."
+      },
+      {
+        "issue": "The reflection questions mostly reflect camps 1 and 3: whether new jobs are 'enough' and whether outcomes are decided or 'happen to us'. None address camp 4's issue (how much to trust forecasts and capability claims).",
+        "favoured_camp": "Camps 1 and 3",
+        "fix": "Rewrote the questions to be neutral and added one on evidence and forecasts."
+      },
+      {
+        "issue": "Key fact 1 (WEF) is worded as 'net increase of 78 million', and the headline favours the optimistic reading. It is also a forward projection, not a measurement, and some camps would dispute it.",
+        "favoured_camp": "Camp 1",
+        "fix": "Reworded as a projection that shows both created and displaced roles, with no 'net increase' framing. The source fields are unchanged."
+      },
+      {
+        "issue": "Key fact 2 (BLS) includes 'AI advanced rapidly... growing applications across industries', which is the framing of camp 2 and could be disputed by camp 4. It also says little about what BLS concluded.",
+        "favoured_camp": "Camp 2",
+        "fix": "Removed the characterisation of AI progress and kept only the verifiable fact that BLS published case studies on incorporating AI into its projections."
+      },
+      {
+        "issue": "Key fact 3 (Yale Budget Lab) is a caution about snapshots, which can be read as support for 'nothing much has happened yet' (camps 1/4) or for 'wait and see'. It is a methodological statement and not a finding.",
+        "favoured_camp": "Camps 1 and 4 (mildly)",
+        "fix": "Reworded to say clearly that it is a methodological caution that applies to conclusions in any direction."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14; all three were edited for accuracy, context and balance, and one broken source link was fixed."
+  }
+}
