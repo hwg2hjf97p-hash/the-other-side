@@ -1,0 +1,269 @@
+{
+  "topic": "Should kids under 16 be banned from social media?",
+  "category": "Society",
+  "hook": "Many people share a sense that kids' relationship with screens deserves attention, but the moment you ask 'so what do we do about it?', dinner tables turn into parliaments. Is this a safety rule, a freedom issue, a parenting problem, a design problem, or a question the evidence hasn't yet settled? Depending on who you ask, the answer is yes.",
+  "camps": [
+    {
+      "name": "The Hard-Line Protectors",
+      "one_liner": "They argue that social media is designed to capture attention, that kids are poorly placed to resist it, and that society should set a firm age limit.",
+      "why_people_believe_this": "This camp includes many parents, teachers, pediatric professionals, and people who recall their own teenage years going badly online. They see a mismatch between companies optimizing for engagement and young people who are still developing impulse control. They value childhood as a space with some protection, and they note that alcohol, tobacco, and gambling are restricted for kids not because every child would be harmed, but because the risks are uneven.",
+      "strongest_arguments": [
+        {
+          "point": "It addresses the 'everyone else is on it' problem.",
+          "explanation": "Supporters say individual parents who refuse often leave their child socially isolated, because the group chat is where plans get made. A universal rule would remove that penalty, since nobody is the odd one out if nobody is allowed. They see this as a collective-action problem that law is suited to address."
+        },
+        {
+          "point": "Kids may handle these products differently from adults.",
+          "explanation": "Supporters argue that teenagers are more sensitive to social comparison and peer approval, and that features such as infinite scroll, streaks, and notifications are built to bring users back. On this view, treating teens as adults making free choices overlooks how these products are designed."
+        },
+        {
+          "point": "Society already sets age limits for things with mixed risks.",
+          "explanation": "Driving, drinking, and signing contracts all have age thresholds. Supporters argue that a technology with potential effects on sleep, attention, body image, and contact with strangers belongs in the same category, even though it also has upsides."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Social media is the main cause of teen mental health problems.",
+          "explanation": "Researchers disagree about how much social media itself causes such problems versus being correlated with other factors. Critics say treating causation as settled overreaches, and supporters of a limit may do better to rest their case on precaution and design concerns than on proven causation."
+        },
+        {
+          "point": "Once a ban is law, it will work as intended.",
+          "explanation": "Critics point to fake birthdates, borrowed accounts, and VPNs, and to the possibility that use moves to less visible corners. Supporters can reply that imperfectly enforced laws still shift norms, but a ban cannot be assumed to be self-executing."
+        },
+        {
+          "point": "Today's teens are uniquely worse off than earlier generations.",
+          "explanation": "Comparisons across eras are hard to make, and earlier teens also faced bullying, isolation, and risk. Critics say this claim can rely on memory or on the worst current cases rather than on like-for-like evidence."
+        }
+      ]
+    },
+    {
+      "name": "The Rights and Access Defenders",
+      "one_liner": "They argue that young people have real stakes in online life, including expression, community, and information, and that a blanket ban takes those away.",
+      "why_people_believe_this": "This camp includes civil liberties advocates, some teens and young adults, and people who found community online when they couldn't find it locally, such as kids who are LGBTQ, disabled, rural, or out of step with their school. They value autonomy and free expression, and they see young people as developing citizens with their own interests. They worry that well-intended rules can fall hardest on the kids who rely most on online connection.",
+      "strongest_arguments": [
+        {
+          "point": "For some kids, social media is a lifeline.",
+          "explanation": "A teenager in a small town who is working out their identity, or who has a rare health condition, may find peers and support online that aren't available nearby. Supporters say a blanket ban treats that kid the same as everyone else and removes something valuable."
+        },
+        {
+          "point": "Age verification can threaten everyone's privacy.",
+          "explanation": "To enforce a ban, platforms must check ages, which may mean collecting ID or biometric data from all users, adults included. Critics see a trade-off: a safety measure that creates new data-collection infrastructure and data that could be leaked or misused."
+        },
+        {
+          "point": "Young people have rights to information and expression.",
+          "explanation": "On this view, kids are current citizens, not just future ones, with legitimate interests in speaking, organizing, and learning. Supporters argue that cutting them off until 16 treats the internet as an adult-only space, even though much civic, creative, and social life now happens there."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Teens are the best judges of their own online experience.",
+          "explanation": "Rights-based arguments can slide toward implying that a 12-year-old faces the same pressures and has the same self-regulation as an adult. Critics say developmental differences are real, and that glossing over them makes the position look like it is dodging the risks."
+        },
+        {
+          "point": "The harms are mostly a moral panic.",
+          "explanation": "Every new medium, from novels to comics to television, set off adult fears about corrupted youth, and that history is worth remembering. Critics reply that it doesn't show there is nothing to worry about this time, and that using it as a trump card can wave away real cases of harm."
+        },
+        {
+          "point": "Kids will find a way, so rules are pointless.",
+          "explanation": "Critics note that a rule can be evaded and still have an effect, since many laws are imperfectly followed but still change norms and behavior. They argue the reasoning proves too much if applied consistently."
+        }
+      ]
+    },
+    {
+      "name": "The 'Fix the Product, Not the Kid' Camp",
+      "one_liner": "They argue the problem is how platforms are designed, so regulate the features and the companies rather than banning children.",
+      "why_people_believe_this": "People here often work in technology, policy, or child development, or are parents who want kids to learn to navigate the digital world gradually rather than meet it for the first time at 16. They value practical results and are wary of blunt tools. Their reasoning is that if a feature is harmful for a 14-year-old, it may be questionable for a 40-year-old too, so the feature itself should change.",
+      "strongest_arguments": [
+        {
+          "point": "Targeting design addresses the mechanism directly.",
+          "explanation": "Rules on autoplay, endless feeds, late-night notifications, default privacy settings, and targeted advertising to minors aim at the specific features people are concerned about. Supporters say this could benefit all users, not just those under a certain age."
+        },
+        {
+          "point": "A ban may only delay the problem.",
+          "explanation": "Supporters argue that a teen who gets unrestricted access at 16 with no prior experience may be less prepared than one who learned gradually with guidance. They compare digital skills to swimming, which is learned in shallow water first."
+        },
+        {
+          "point": "It avoids many privacy and enforcement difficulties.",
+          "explanation": "Rules aimed at companies don't necessarily require identifying every user. Supporters say they put the burden on the businesses that profit rather than on families or on the kids themselves."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Design regulation can be written and enforced quickly.",
+          "explanation": "Platforms have strong financial incentives tied to engagement, and regulating complex, fast-changing products is hard. Critics say design rules can take years to pass and enforce while kids keep using the current versions."
+        },
+        {
+          "point": "There's a clean line between 'harmful design' and 'the product itself.'",
+          "explanation": "For many platforms, the engaging features are central to the service. Critics say removing them may change the product so much that companies resist, or that the rules end up too weak to matter, so the distinction is blurrier than the slogan suggests."
+        },
+        {
+          "point": "Education and digital literacy will be enough on their own.",
+          "explanation": "Critics say literacy helps but places much of the responsibility on children to manage systems built by experts. Supporters often present it as one part of a package alongside design rules, not as a stand-alone answer."
+        }
+      ]
+    },
+    {
+      "name": "The Family-First Camp",
+      "one_liner": "They argue that parents know their own kids best, so decisions about social media should stay in the home, not in the law.",
+      "why_people_believe_this": "This camp values family autonomy and is often wary of government involvement in child-rearing. Some are parents who have set limits and are satisfied with how they work. Others have kids with very different needs and believe one rule can't fit all of them. They tend to trust close relationships over distant regulators, and they are concerned about the precedent of the state deciding what is best for every child.",
+      "strongest_arguments": [
+        {
+          "point": "Kids and families differ enormously.",
+          "explanation": "A mature, well-supported 14-year-old using social media to follow a hobby is in a very different situation from a struggling 13-year-old who is up all night scrolling. Supporters say parents can adapt to that difference and a law can't."
+        },
+        {
+          "point": "Parental involvement matters.",
+          "explanation": "Talking with kids, setting boundaries, and staying aware of what they do online is something supporters say a ban can't replace. Some also argue that a ban might let certain parents off the hook by assuming the law has handled the issue."
+        },
+        {
+          "point": "Government overreach is a real risk.",
+          "explanation": "Once the state decides which parts of childhood are off limits, supporters ask where that stops. They prefer to keep family choice as the default and treat state intervention as a last resort."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Parents can just say no.",
+          "explanation": "Critics say this overlooks the social cost a refusal can impose on a child, and that many parents are busy or less tech-savvy than their kids. Supporters might reply that families are still best placed to weigh those costs."
+        },
+        {
+          "point": "Parental controls solve the problem.",
+          "explanation": "The tools exist, but critics say they can be confusing, inconsistent across apps, and easy for kids to work around. Relying on them assumes time, knowledge, and cooperation that some households may not have."
+        },
+        {
+          "point": "Parenting is private, so the state should stay out.",
+          "explanation": "Critics note that the law already limits parental discretion in areas like school attendance, car seats, and child labor. The question becomes where to draw the line for this technology, and 'parents decide' does not answer that on its own."
+        }
+      ]
+    },
+    {
+      "name": "The 'Show Me the Evidence' Camp",
+      "one_liner": "They argue that research on the harms and benefits of social media is still contested, so major restrictions should wait for clearer evidence or be tested carefully first.",
+      "why_people_believe_this": "This camp includes researchers, some clinicians, and policymakers who are wary of costly or hard-to-reverse laws built on uncertain findings. Some recall earlier waves of concern about new media that faded or were overstated. They are not necessarily dismissing the risks. They want policies to be proportionate and measurable, and to rest on what is actually known.",
+      "strongest_arguments": [
+        {
+          "point": "Causation is still debated.",
+          "explanation": "Researchers disagree about how much social media itself drives mental health outcomes versus being associated with other factors. Supporters say a sweeping rule should rest on firmer findings."
+        },
+        {
+          "point": "Policies can be piloted and evaluated.",
+          "explanation": "Supporters argue that staged or limited rollouts, with data collected, let societies learn what works before committing everyone to one approach. They point out that new laws in this area can be studied as they take effect."
+        },
+        {
+          "point": "Bans could have unintended side effects.",
+          "explanation": "Supporters raise the possibility that restricted teens move to less moderated spaces, lose access to useful communities, or lose protective features. They argue these costs should be weighed against uncertain benefits."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "No proof of harm means no reason to act.",
+          "explanation": "Critics say the absence of conclusive evidence is not evidence of safety, and that precaution can be reasonable when the stakes involve children. Waiting for certainty can mean waiting a very long time."
+        },
+        {
+          "point": "Small average effects mean nobody is seriously hurt.",
+          "explanation": "Critics say population averages can hide serious harm to particular groups of kids, so a small average effect does not rule out meaningful risk for some."
+        },
+        {
+          "point": "We should wait for perfect evidence before doing anything.",
+          "explanation": "Platforms and teen behavior change quickly, and evidence may always lag. Critics argue that a standard of certainty can become an argument for permanent inaction."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Many people across these camps agree that some of what kids encounter online, such as bullying and predatory contact, can be harmful, and many are dissatisfied with how things work for at least some families. Most also accept that kids are not all alike and that enforcement is difficult, and many believe tech companies should carry more responsibility than they do now, though they differ on how far. The disagreements are about how strong the evidence of harm is, how to weigh protection against rights and access, how much to trust parents versus the state, and which tool to use (a law, a design rule, or a family decision).",
+  "questions_to_sit_with": [
+    "If a rule helps some kids but cuts off others for whom online communities are a lifeline, how should we weigh those two groups?",
+    "How much should policy rely on evidence that is still being debated, and how should we weigh the risk of acting too soon against the risk of acting too late?",
+    "Who should hold the main responsibility for how kids use social media: parents, platforms, or the government?",
+    "How much privacy are we willing to give up to enforce an age limit, and would the answer change as evidence on harms or benefits becomes clearer?"
+  ],
+  "key_facts": [
+    {
+      "fact": "A Pew Research Center survey of U.S. teens aged 13 to 17, conducted in September and October 2024, found that nearly half say they are online almost constantly. Nine in ten use YouTube, roughly six in ten use TikTok and Instagram, and 55% use Snapchat. The survey measures reported use, not harm or benefit.",
+      "source_title": "Teens, Social Media and Technology 2024 (Pew Research Center)",
+      "source_url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/"
+    },
+    {
+      "fact": "Australia’s social media minimum age took effect on 10 December 2025, requiring age-restricted platforms to take reasonable steps to stop under-16s having accounts. In January 2026, the eSafety Commissioner reported that platforms had removed access to about 4.7 million accounts identified as belonging to under-16s in the first half of December. The Commissioner said the full impact may take years to show, and eSafety is running a long-term evaluation.",
+      "source_title": "Platforms restrict access to 4.7 million under-16 accounts across Australia (eSafety Commissioner, January 2026)",
+      "source_url": "https://www.esafety.gov.au/newsroom/media-releases/platforms-restrict-access-to-47-million-under-16-accounts-across-australia"
+    },
+    {
+      "fact": "A December 2023 National Academies of Sciences, Engineering, and Medicine consensus report found that published research did not support the conclusion that social media causes changes in adolescent health at the population level. It said research linking social media to health shows small effects and weak associations, and that effects, both helpful and harmful, vary from person to person. It still recommended steps to protect young people, such as better platform design and action on online harassment.",
+      "source_title": "Highlights for Social Media and Adolescent Health (National Academies Press, December 2023)",
+      "source_url": "https://nap.nationalacademies.org/resource/27396/Highlights_for_Social_Media_and_Adolescent_Health.pdf"
+    },
+    {
+      "fact": "The U.S. Surgeon General’s 2023 advisory on social media and youth mental health said “we cannot conclude social media is sufficiently safe for children and adolescents”, and outlined immediate steps to reduce the risk of harm.",
+      "source_title": "Social Media and Youth Mental Health - The U.S. Surgeon General's Advisory (schoolsafety.gov)",
+      "source_url": "https://www.schoolsafety.gov/resource/social-media-and-youth-mental-health-us-surgeon-generals-advisory"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:33:23.110Z",
+  "audit": {
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "The hook opens with 'Everyone agrees something about kids and screens feels off'. This presents the Protectors' premise as universal. Skeptics who see a moral panic, or who think the evidence is unsettled, don't accept it.",
+        "favoured_camp": "The Hard-Line Protectors",
+        "fix": "Reworded the hook to say that many people share a concern or want to discuss it. Added 'a question the evidence hasn't settled' to the list of framings."
+      },
+      {
+        "issue": "The Protectors' one-liner and background are written in the entry's own voice and use loaded imagery: 'built to hook people', 'teams of engineers optimizing for attention versus a 12-year-old', 'childhood as a protected space'. The empirical claims are stated as fact rather than as the camp's view. This section is also the warmest and most detailed.",
+        "favoured_camp": "The Hard-Line Protectors",
+        "fix": "Attributed the claims to the camp ('they argue', 'they see'). Replaced the emotive contrast with plainer wording. Trimmed the warm detail so the camp's background is no longer longer or kinder than the others."
+      },
+      {
+        "issue": "Several Protector arguments carry the author's endorsement: 'the environment is stacked', 'Collective action problems like this are exactly where law can do something individual choices can't', and 'Treating them like adults … ignores'. These read as conclusions rather than as the camp's reasoning.",
+        "favoured_camp": "The Hard-Line Protectors",
+        "fix": "Reframed these as what supporters argue or believe. Removed 'stacked' and the authorial verdict."
+      },
+      {
+        "issue": "The Rights camp's background uses a dig at the Protectors ('not just packages to protect') and emotive phrasing ('quietly hurt the kids who most need a lifeline'). The Family-First camp's background says some parents 'feel they're doing fine', which is mildly condescending.",
+        "favoured_camp": "The Rights and Access Defenders (loaded wording); the Hard-Line Protectors (via the dig and the condescension toward Family-First)",
+        "fix": "Neutralized the wording in both camps and removed the swipe at protective rules."
+      },
+      {
+        "issue": "Several 'weakest arguments' are strawmen no serious advocate makes: 'A ban will be easy to enforce', 'Life before smartphones was a golden age', and 'Kids are just as capable as adults'. They make the camps look weaker than they are. 'Companies will comply in good faith' is similar for the design camp.",
+        "favoured_camp": "Mixed. Disadvantages Protectors, Rights and Fix-the-Product camps. Indirectly helps whichever camp is shown rebutting them.",
+        "fix": "Replaced them with weak arguments that real supporters do make: overclaiming causation, assuming a law will work as intended, claiming teens are uniquely worse off, claiming teens are the best judges of their own use, assuming design rules can be passed quickly, and relying on literacy alone."
+      },
+      {
+        "issue": "The 'weakest arguments' explanations are uneven in harshness and rhetoric. The Fix-the-Product camp's literacy point ends with a sarcastic 'just have more willpower'. The Family-First weak arguments are rebutted using Protector talking points ('just parent harder', 'blaming families', 'partly structural'). The Protectors' weak arguments are rebutted more gently.",
+        "favoured_camp": "The Hard-Line Protectors (and the Rights camp over Family-First and Fix-the-Product)",
+        "fix": "Rewrote the weak-argument explanations in a parallel, neutral form: what critics say, and what supporters might say in reply."
+      },
+      {
+        "issue": "A real camp is missing: people who say the evidence on harm and benefit is still contested and that major restrictions should wait for clearer evidence or be trialled. The idea appeared only as a 'weak argument' of the Protectors and as a minor point under 'moral panic'.",
+        "favoured_camp": "Camps favouring a ban or immediate action",
+        "fix": "Added 'The Show Me the Evidence Camp' with strong and weak arguments in the same format as the others."
+      },
+      {
+        "issue": "Common ground overstates agreement: 'Almost everyone agrees…', 'endless-scroll design' is bad, 'the status quo isn't working', and tech firms should do more. Not every camp accepts these. The closing line also says the dispute is 'mostly' about tools, which hides disagreement over evidence and values. The framing follows the Protectors' and Fix-the-Product camps' premises.",
+        "favoured_camp": "The Hard-Line Protectors and the 'Fix the Product' camp",
+        "fix": "Softened to 'many' and 'most' and flagged where camps differ. Added disagreements over evidence, the weight of rights versus protection, and the role of the state."
+      },
+      {
+        "issue": "The discussion questions build in assumptions. Question 1 assumes a rule 'protects most kids'. Question 2 assumes the product is 'built to be hard to resist'. There is no question about the contested evidence or about state versus parental authority.",
+        "favoured_camp": "The Hard-Line Protectors",
+        "fix": "Rewrote the questions to be neutral and added ones on evidence and on who should decide."
+      },
+      {
+        "issue": "The Pew key fact stresses heavy use ('almost constantly') without saying it measures usage, not harm or benefit. It also covers only U.S. teens.",
+        "favoured_camp": "The Hard-Line Protectors (mild)",
+        "fix": "Kept the figures and their date, and reworded the fact to make clear it covers U.S. teens' reported use."
+      },
+      {
+        "issue": "The Australia key fact gives only the regulator's stated rationale, with no counter-view. The enforcement fact uses vague quantities ('significant number', 'substantial proportion') that can be read either way.",
+        "favoured_camp": "The Hard-Line Protectors (mild)",
+        "fix": "Attributed the aim explicitly to the regulator and reframed the facts as descriptions of the law and of the regulator's reported findings. No new details were added."
+      },
+      {
+        "issue": "The two evidence facts are phrased asymmetrically. NASEM is given in detailed, skeptic-friendly language, while the Surgeon General fact uses a first-person 'we cannot conclude'. The NASEM wording could be read as 'no harm' when it says the question isn't settled.",
+        "favoured_camp": "The Show Me the Evidence camp (and, by the Surgeon General wording, the Protectors)",
+        "fix": "Reworded both so each is a neutral attribution with its scope stated. NASEM is described as saying the evidence does not settle the question, and the Surgeon General as saying the evidence does not allow a conclusion of safety."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy and completeness; two facts were merged and re-sourced to an official eSafety page that could be verified."
+  }
+}

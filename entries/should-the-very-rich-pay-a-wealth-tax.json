@@ -1,0 +1,250 @@
+{
+  "topic": "Should the very rich pay a wealth tax?",
+  "category": "Politics / Economy",
+  "hook": "Most taxes fall on what people earn or spend. A wealth tax works differently: it applies each year to the value of what someone owns, such as shares, businesses, property or art, whether or not any of it is sold. Supporters see a way to reach the largest fortunes. Critics point to questions about valuation, fairness and what happens when owners respond. People disagree about both.",
+  "camps": [
+    {
+      "name": "The 'Tax Extreme Wealth Directly' Camp",
+      "one_liner": "When a very small group holds very large fortunes that keep growing, supporters argue that ordinary taxes can miss them and that a direct annual tax on large wealth is the right tool.",
+      "why_people_believe_this": "People in this camp often point out that wages are taxed as they are earned, while the largest fortunes grow mainly through rising asset values that can go untaxed for long periods. Their core values are fairness and democratic equality. They worry that extreme wealth can turn into outsized political influence and weaken the idea that everyone's voice counts equally. Many also see wealth at the top growing while others face rising costs, and they think the tax system should respond.",
+      "strongest_arguments": [
+        {
+          "point": "Income taxes may miss how the very rich get richer",
+          "explanation": "Supporters argue that much of the largest wealth grows as unrealized gains, such as shares or business value rising on paper. If an owner never sells and can borrow against assets for spending money, they may report little taxable income while their wealth grows. In this view, a wealth tax targets what is actually growing."
+        },
+        {
+          "point": "Extreme wealth can also be concentrated power",
+          "explanation": "This camp argues the issue is influence as well as money: funding campaigns, owning media, shaping policy, and lobbying. Taxing very large fortunes is framed as protecting democratic equality as well as raising revenue."
+        },
+        {
+          "point": "A very high threshold would affect very few people",
+          "explanation": "If the tax applies only above a very large net worth, supporters say the great majority of people, and most business owners, would never pay it, while revenue from the top could fund public priorities."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'It will be easy to administer'",
+          "explanation": "Valuing a private company, a patent, or a rare art collection every year is difficult and open to dispute. Critics say this claim understates the appraisals, disagreements and legal costs involved."
+        },
+        {
+          "point": "'Other countries tried it, so we know it works'",
+          "explanation": "Several countries have had wealth taxes, and many later repealed them. Critics say supporters can overstate success stories, while supporters say the repeals reflect poor design (exemptions, low thresholds) rather than a flaw in the idea. Neither side has settled that disagreement."
+        },
+        {
+          "point": "'The rich won't really leave or hide assets'",
+          "explanation": "Critics argue that mobile capital, trusts and relocation are real possibilities, so assuming high compliance is risky. Supporters respond that the size of this response is uncertain and can be reduced by design, for example with exit rules. A confident claim in either direction goes beyond the evidence."
+        }
+      ]
+    },
+    {
+      "name": "The 'Tax It Differently' Camp",
+      "one_liner": "Large fortunes may be undertaxed, but this camp prefers to reform existing tools (capital gains, inheritance, loopholes) rather than create a new kind of tax.",
+      "why_people_believe_this": "People here often share concerns about concentrated wealth but put a high value on workability and durability. They look at the history of wealth taxes and ask whether the goal could be reached with tax concepts the system already uses, and with less legal and administrative risk.",
+      "strongest_arguments": [
+        {
+          "point": "Close the specific loopholes that let wealth escape tax",
+          "explanation": "Reforms like taxing gains at death, limiting the ability to borrow against appreciated assets without tax consequences, or tightening inheritance rules go after the same problem using familiar tax concepts."
+        },
+        {
+          "point": "Taxing realized events makes valuation easier",
+          "explanation": "When an asset is sold or inherited, there is an actual price or a clear occasion to value it. Supporters argue that is easier to measure than an annual estimate of what a private business or unique asset is worth."
+        },
+        {
+          "point": "Legal durability matters",
+          "explanation": "In some countries, a new annual wealth tax may face constitutional challenges. This camp argues that a reform more likely to survive in court and across changes of government may deliver more over time than a bolder measure that is struck down or repealed."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'Reform the old taxes' can become a way to do nothing",
+          "explanation": "Loophole-closing is politically hard too, and people who benefit from loopholes defend them effectively. Critics say 'do it differently' can turn into delay with no actual change."
+        },
+        {
+          "point": "Taxing only at sale leaves a lock-in problem",
+          "explanation": "If tax applies only when assets are sold, holders can postpone it indefinitely. Critics say reformers sometimes underplay how much wealth might never be realized under this approach."
+        },
+        {
+          "point": "Reforms may not match the scale of the concern",
+          "explanation": "If someone believes extreme wealth is itself a problem, adjusting rates on gains or inheritances may seem too small. Critics say this camp does not always state how much reform would be enough."
+        }
+      ]
+    },
+    {
+      "name": "The 'Property and Liberty' Camp",
+      "one_liner": "This camp argues that taxing what people already own, year after year, is unfair and counterproductive, because it penalizes saving and building and expands government reach into private property.",
+      "why_people_believe_this": "For many here, wealth is the stored result of work, risk, and delayed gratification. They value property rights, including the idea that income already taxed once should not be taxed again and again. Some have run small businesses or farms and know that being wealthy on paper can mean having little cash, and they worry that a tax bill could force an owner to sell what they built.",
+      "strongest_arguments": [
+        {
+          "point": "It taxes the same money repeatedly",
+          "explanation": "Income is typically taxed when earned, and a wealth tax then takes a slice of what is left every year. Critics see that as a cumulative penalty on saving that discourages investment."
+        },
+        {
+          "point": "Paper wealth is not cash",
+          "explanation": "Founders and family-business owners may hold most of their net worth in illiquid stock or equipment. An annual bill can force them to sell shares, dilute control, or break up a company they spent decades building."
+        },
+        {
+          "point": "Capital is mobile, and so are people",
+          "explanation": "Investment can move across borders, and so can wealthy individuals. Critics argue that a country taxing capital more heavily than its neighbors risks losing investment, entrepreneurs and ultimately revenue. Supporters dispute how large this effect would be."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'All large fortunes are purely earned'",
+          "explanation": "Many fortunes do come from work and risk, but others involve inheritance, market power, or favorable policy. Critics say a blanket claim about the origins of all wealth does not engage with that variety."
+        },
+        {
+          "point": "'Any new tax is the first step to confiscation'",
+          "explanation": "Slippery-slope concerns reflect distrust of how government uses new powers, and history offers examples of tax thresholds falling over time. Supporters respond that a high threshold and clear limits can be legislated, and that this argument treats a design choice as inevitable."
+        },
+        {
+          "point": "'The wealthy already pay plenty'",
+          "explanation": "Total taxes paid by the wealthy can be large in absolute terms. Supporters of a wealth tax say that is not the question, since their concern is the rate paid relative to wealth growth. Critics of a wealth tax say the effective rate depends on what is counted. The two sides often talk past each other."
+        }
+      ]
+    },
+    {
+      "name": "The 'Grow the Pie, Fix the Ladder' Camp",
+      "one_liner": "This camp argues that the fight over taxing billionaires distracts from a different problem: that many ordinary people find it hard to build wealth, housing, or opportunity of their own.",
+      "why_people_believe_this": "People here often care more about whether a typical person can get ahead than about how much the top holds. They point to young people priced out of homes, small businesses facing regulatory hurdles, and families in areas with few opportunities. Their instinct is to ask what is blocking opportunity, and they are wary of policy fights whose effect on daily life is uncertain.",
+      "strongest_arguments": [
+        {
+          "point": "Focus on what ordinary people can actually build",
+          "explanation": "Housing costs, education, job mobility, and barriers to starting a business shape lives more directly than the tax rate on a billionaire, in this camp's view. Fixing those could widen who gets to own assets in the first place."
+        },
+        {
+          "point": "Revenue from a wealth tax may be uncertain or modest",
+          "explanation": "If valuation is difficult and avoidance is possible, the money raised could fall short of what was promised. This camp argues that a large political fight for an uncertain payoff could use up energy better spent elsewhere."
+        },
+        {
+          "point": "Growth can lift more people than redistribution alone",
+          "explanation": "A dynamic economy with new firms and rising wages can improve many lives without new taxes on ownership. This camp thinks policy should encourage building more, not only dividing what exists."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'It's a distraction'",
+          "explanation": "A society can pursue housing reform and tax reform at the same time. Critics say treating them as rivals presents a false choice."
+        },
+        {
+          "point": "'Growth will reach everyone'",
+          "explanation": "Economies have grown while many people felt left behind. Critics say assuming a bigger pie reaches everyone on its own ignores the concern behind the wealth tax debate."
+        },
+        {
+          "point": "Opportunity reforms are slow and politically hard too",
+          "explanation": "Zoning, education, and permitting changes face strong local resistance. Critics say pointing to them as the better path can understate how hard they are and how long they take."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Most people across these camps agree that tax rules should be hard to dodge and that governments need revenue from somewhere. Most also accept that valuation, avoidance, and design details matter a great deal, and that opportunity for ordinary people is a shared goal. The disagreement is mostly over the best tool, whether large fortunes are currently taxed too lightly, and how much to trust governments, markets, and the wealthy to respond the way each side predicts.",
+  "questions_to_sit_with": [
+    "Is your concern the size of the largest fortunes, how those fortunes are taxed, or something else? Would your answer change which policy you prefer?",
+    "If a wealth tax could be designed to work well, with fair valuations and few escape routes, would you support it or still object? What does that reveal about your actual reasons?",
+    "How much should it matter how wealth came about (built, inherited, or the result of luck or policy) when deciding how it is taxed?"
+  ],
+  "key_facts": [
+    {
+      "fact": "In the Federal Reserve Board’s Distributional Financial Accounts, the top 1% of U.S. households by wealth held 29.9% of all household assets in the second quarter of 2026, up from 20.3% when the series began in 1989. This is a share of total assets, not of net worth.",
+      "source_title": "Share of Total Assets Held by the Top 1% (99th to 100th Wealth Percentiles) (WFRBST01108) – FRED, Federal Reserve Bank of St. Louis",
+      "source_url": "https://fred.stlouisfed.org/series/WFRBST01108"
+    },
+    {
+      "fact": "In 2018 the OECD reported that 12 of its member countries had net wealth taxes in 1990, but only four still levied them on individuals in 2017. It said repeals were often justified by efficiency and administrative concerns, and also noted renewed interest in wealth taxation.",
+      "source_title": "The Role and Design of Net Wealth Taxes in the OECD – Executive summary (OECD)",
+      "source_url": "https://www.oecd.org/en/publications/the-role-and-design-of-net-wealth-taxes-in-the-oecd_9789264290303-en/full-report/component-3.html"
+    },
+    {
+      "fact": "As of 2026, the Tax Foundation counts three European countries that levy a net wealth tax: Norway, Spain and Switzerland. It says France, Italy, Belgium and the Netherlands tax some assets but not total net wealth. It defines a net wealth tax as one imposed on the market value of a person's total assets minus liabilities.",
+      "source_title": "Wealth Taxes in Europe, 2026 (Tax Foundation)",
+      "source_url": "https://taxfoundation.org/data/all/eu/wealth-taxes-europe/"
+    },
+    {
+      "fact": "A Congressional Research Service primer explains that the U.S. Constitution requires “direct” taxes to be apportioned among the states by population, so Congress sets a total to raise and divides it among the states by population. It notes that the Supreme Court has not fully explained what separates direct from indirect taxes, and that taxes on property have historically been treated as direct.",
+      "source_title": "The Federal Taxing Power: A Primer (Congressional Research Service)",
+      "source_url": "https://www.congress.gov/crs_external_products/R/HTML/R46551.web.html"
+    },
+    {
+      "fact": "In March 2021, Senators Elizabeth Warren and Bernie Sanders and other Democrats proposed the Ultra-Millionaire Tax Act: an annual 2% tax on household wealth between $50 million and $1 billion, and 3% above $1 billion. Berkeley economists Emmanuel Saez and Gabriel Zucman estimated it would raise at least $3 trillion over a decade and apply to fewer than 1 in 1,000 families. That is a projection, not a measured result.",
+      "source_title": "Elizabeth Warren, Bernie Sanders propose 3% wealth tax on billionaires (CNBC)",
+      "source_url": "https://www.cnbc.com/2021/03/01/elizabeth-warren-bernie-sanders-propose-3percent-wealth-tax-on-billionaires.html"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:23:27.217Z",
+  "audit": {
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "The first camp's name, 'Concentrated Wealth Is a Problem', states a contested premise as fact. The other camps are named after their positions or values, not as truths, so the name quietly implies the others are ignoring a problem.",
+        "favoured_camp": "Concentrated Wealth Is a Problem (camp 1)",
+        "fix": "Renamed it 'Tax Extreme Wealth Directly', which describes the policy position."
+      },
+      {
+        "issue": "The camp 1 backstory is the most emotional and sympathetic: 'your paycheck never escapes', 'families and communities squeezed while fortunes soared', 'rules were written for someone else'. Contested claims such as untaxed gains for decades and unrealized gains driving fortunes are in the author's own voice, not attributed to the camp.",
+        "favoured_camp": "Camp 1",
+        "fix": "Neutralised the wording and attributed the empirical claims to the camp ('see', 'argue')."
+      },
+      {
+        "issue": "Camp 2 gets flattering and loaded framing: 'practical to their bones', 'survive contact with accountants', 'the hardest route', 'messy history', 'valuation nightmare'. This casts the camp as the sensible one and a wealth tax as foolish.",
+        "favoured_camp": "Tax It Differently (camp 2), and wealth-tax skeptics generally",
+        "fix": "Replaced with plain descriptions of what the camp values: workability, durability and use of existing tools. Replaced 'nightmare' with 'difficulty'."
+      },
+      {
+        "issue": "The hook's 'on a Tuesday' and 'even if you never sell a thing' mock valuation and lean on the opponents' framing. 'A stranger question' also frames the idea as odd.",
+        "favoured_camp": "Property and Liberty (camp 3) and skeptics",
+        "fix": "Rewrote the hook in a neutral, descriptive tone."
+      },
+      {
+        "issue": "Camp 4's backstory has loaded imagery ('buried in permits', 'places where nothing grows'). It also calls the wealth-tax fight 'satisfying but may not change anyone's daily life', which is dismissive of camp 1. Its weak argument implies motive: 'an excuse to avoid asking the wealthy to contribute more'.",
+        "favoured_camp": "Camp 4, at the expense of camp 1",
+        "fix": "Neutralised the imagery and removed the dismissive and motive-imputing phrasing."
+      },
+      {
+        "issue": "The rebuttals in camp 3's weak arguments are heavier and more editorial than elsewhere. 'Doesn't persuade people who've seen otherwise', 'not automatically a path to seizure' and 'many people point to ways large fortunes face low effective rates' settle the dispute in camp 1's favour. 'The rich earned every penny fairly' is close to a strawman, since few real critics claim that.",
+        "favoured_camp": "Camp 1 (against camp 3)",
+        "fix": "Reframed the weak arguments as versions critics themselves would find overstated, such as 'wealth is earned and should not be taxed again', and rewrote the rebuttals in a parallel, even-handed style."
+      },
+      {
+        "issue": "Camp 1's weak arguments contain editorial judgments, for example 'a plan that assumes no one responds to incentives is shaky' and 'wave away the reasons for repeal'. Camp 3's mobility argument is presented without noting that supporters dispute its size, so the two sides are not handled symmetrically.",
+        "favoured_camp": "Camp 3 (on mobility), Camp 2",
+        "fix": "Made the language parallel across camps. Added that supporters dispute how large the avoidance response would be."
+      },
+      {
+        "issue": "Camp 1's strongest argument and the 'very high threshold' argument state contested empirical claims as fact. These include 'much of the largest wealth grows as unrealized gains' and that 'most business owners would never be touched'.",
+        "favoured_camp": "Camp 1",
+        "fix": "Attributed the claims to supporters and softened the certainty."
+      },
+      {
+        "issue": "The common-ground section assumes a premise: 'ordinary workers shouldn't feel they pay more than the superrich'. This is camp 1's framing, and camps 3 and 4 may not accept it. 'The thing everybody says they want' is also slightly snide.",
+        "favoured_camp": "Camp 1",
+        "fix": "Reworded to claims that all camps would plausibly accept."
+      },
+      {
+        "issue": "Questions to sit with: Q1 presupposes that 'some fortunes grow with little tax'. Q3 uses 'inflated by luck', which is loaded and implies wealth is often unearned.",
+        "favoured_camp": "Camp 1",
+        "fix": "Reworded both so they do not presuppose a camp's premise."
+      },
+      {
+        "issue": "Key fact 1 (top 1% share of assets) gives only concentration, a point that mainly supports camp 1. It does not say whether the share is rising or falling, or how it relates to the very high thresholds in the proposals. The 'total assets, not net worth' caveat is useful but easy to miss.",
+        "favoured_camp": "Camp 1",
+        "fix": "Kept it with neutral wording, the date and the caveat. Removed the framing that suggests a trend or a cause."
+      },
+      {
+        "issue": "Key facts 2 and 3 both stress that wealth taxes are few or declining, and neither gives reasons. Fact 2's figures cover OECD individual net wealth taxes at specific dates. Fact 3 counts European countries only. Read together they imply 'wealth taxes failed', which helps camps 2, 3 and 4. Fact 3 also comes from the Tax Foundation's count and definition, which some would dispute.",
+        "favoured_camp": "Camps 2, 3 and 4 (skeptics)",
+        "fix": "Kept both but made their scope and attribution explicit and neutral, and kept the OECD's note about renewed interest. Did not add reasons for repeal, since none are in the facts."
+      },
+      {
+        "issue": "Key fact 5 is attributed loosely ('Democrats proposed') and its source is a headline that uses the label '3% wealth tax on billionaires', which is a bit imprecise. The fact is otherwise fine but concerns only one camp's proposal.",
+        "favoured_camp": "Neutral to slight camp 1",
+        "fix": "Reworded to describe the bill as proposed and kept the date context."
+      },
+      {
+        "issue": "The facts as a set are only loosely related to the camps' disputes. Concentration (camp 1) and repeal/rarity and legal doubt (skeptics) are covered. Nothing bears on camp 4's claims, and nothing covers tax avoidance or revenue.",
+        "favoured_camp": "Camps 1 and 2 over camp 4",
+        "fix": "Could not add facts, so did not invent any. Kept the existing facts with even-handed wording."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy, completeness and balance."
+  }
+}

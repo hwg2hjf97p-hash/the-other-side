@@ -1,0 +1,204 @@
+{
+  "topic": "Do we have free will?",
+  "category": "Philosophy",
+  "hook": "You chose to click on this. Or did you? One picture says a long chain of atoms, genes, childhood snacks and Tuesday-morning moods led you here. Another says you, deliberating and weighing options, are the author of what you do. Grab a drink, because people have been arguing about this for centuries.",
+  "camps": [
+    {
+      "name": "Hard Incompatibilists (No Free Will)",
+      "one_liner": "Whether the universe is predetermined or partly random, we never get the kind of control over our choices that would make us ultimately responsible for them.",
+      "why_people_believe_this": "People in this camp tend to follow the arguments where they lead, even when the conclusion is unwelcome. Many are moved by the thought that you didn't pick your genes, your parents, your culture or your brain, so it's unclear how much credit or blame you ultimately deserve. Many also see a moral upside: viewing people as products of their circumstances can encourage a gentler response to those who struggle, fail or do harm. The camp includes people who think determinism is true and people who think it is merely uncertain, and some think the belief in free will is a useful illusion.",
+      "strongest_arguments": [
+        {
+          "point": "You didn't author the ingredients of your own mind.",
+          "explanation": "Your desires, temperament and values came from genes, upbringing and experience, none of which you selected. If your choices flow from a self you never built, it's hard to see where ultimate authorship comes in."
+        },
+        {
+          "point": "Randomness doesn't rescue freedom.",
+          "explanation": "If the world is deterministic, your choices were fixed by prior causes. If it has genuine randomness in it, your choices might be partly down to dice rolls. Proponents say neither picture looks like the deep control people imagine when they say 'I could have done otherwise.'"
+        },
+        {
+          "point": "Our sense of choosing may sometimes be reconstructed after the fact.",
+          "explanation": "Some psychology and neuroscience research suggests that much of what drives behaviour happens outside awareness, and that people sometimes give tidy explanations for what they did. How to interpret those findings is debated, but proponents take them to give reason to treat the feeling of free choice with caution as evidence."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Leaning heavily on brain-timing experiments.",
+          "explanation": "Some popular arguments point to brain activity that shows up before people report deciding. Critics note that those tasks are usually simple, like flicking a wrist at an arbitrary moment, and are far from deliberating over a job offer, so the leap from one to the other may be too big."
+        },
+        {
+          "point": "Assuming that if free will is an illusion, practical life will go on much as before.",
+          "explanation": "Some in this camp expect that dropping the idea of deserved blame would leave us kinder and no less functional. Critics call this an optimistic prediction about psychology and society, and they doubt that people could really give up feelings like resentment and pride."
+        }
+      ]
+    },
+    {
+      "name": "Compatibilists (Free Will Worth Wanting)",
+      "one_liner": "Free will doesn't require escaping cause and effect. It means acting on your own reasons and values without being coerced, and that is real even in a lawful universe.",
+      "why_people_believe_this": "Compatibilists want a view of free will that fits with science and with everyday moral life. They point out that we already distinguish between someone who hands over a wallet by choice and someone whose arm is forced by another person, and they think that distinction is what 'free' is really about. Many hold that praise, responsibility and respect for persons are well grounded without any need to settle whether the universe is deterministic.",
+      "strongest_arguments": [
+        {
+          "point": "Compatibilists argue that 'free' ordinarily marks the absence of coercion, not the absence of causes.",
+          "explanation": "When we call an act free, we usually mean that it came from your own deliberation rather than from a gun to your head, a compulsion or manipulation. On this view that distinction is real and important whether or not the universe is deterministic."
+        },
+        {
+          "point": "Being caused isn't the same as being controlled by something else.",
+          "explanation": "Your decisions are caused, but largely by you: your beliefs, your character and your ability to weigh reasons. A thermostat and a person are both caused, yet only one can reflect, change its mind in response to arguments and act on its own values. Compatibilists say that capacity is what matters."
+        },
+        {
+          "point": "It keeps responsibility practices grounded in something observable.",
+          "explanation": "We hold people accountable more when they can understand reasons and respond to them, and less when they are children, in a psychotic episode or under duress. Compatibilists say these differences track what we care about, with no need for uncaused choosing."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Appealing to ordinary usage to settle the question.",
+          "explanation": "Compatibilists often say their definition captures what 'free' normally means. Critics reply that many people mean 'I could genuinely have done otherwise given the exact same past', so a definition that drops this can look like a change of subject."
+        },
+        {
+          "point": "Holding that acting on your own desires without coercion is enough.",
+          "explanation": "Compatibilists say uncoerced action from one's own values suffices. Critics raise manipulation cases: someone whose values were secretly installed by a neuroscientist acts on their own desires, yet doesn't seem free. Compatibilists have proposed various fixes, but critics say it is hard to explain why this differs from ordinary upbringing."
+        }
+      ]
+    },
+    {
+      "name": "Libertarians (Real, Undetermined Choice)",
+      "one_liner": "We genuinely could have done otherwise, because human agents are not fully fixed by prior causes, so free will is real and requires more than a lawful clockwork world.",
+      "why_people_believe_this": "This camp takes seriously how deliberation feels from the inside: the options seem open, and we seem to be the source of what we do. Many hold that moral responsibility, meaning real praise, blame, guilt and love, only makes sense if people are true originators of their actions. Some also draw on religious or philosophical traditions that treat persons as agents who do things, and not just places where things happen.",
+      "strongest_arguments": [
+        {
+          "point": "The experience of deliberating presupposes open possibilities.",
+          "explanation": "When you weigh two options, you act as if either could happen depending on your choice. Libertarians argue that this experience is basic data and shouldn't be dismissed without very strong reason."
+        },
+        {
+          "point": "Responsibility seems to need ultimate sourcehood.",
+          "explanation": "If everything you did traces back to factors outside you, then it looks like praise and blame misfire. Libertarians accept this reasoning and conclude that, since we are responsible, determinism must be false for us."
+        },
+        {
+          "point": "Physics doesn't clearly settle the matter.",
+          "explanation": "Our best physical theories are interpreted in different ways, and some leave room for genuine indeterminism. Libertarians argue that the universe is therefore not obviously a closed, deterministic machine, and that the question stays open."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Treating the feeling of freedom as proof.",
+          "explanation": "Some libertarians say that because choices feel open, they are open. Critics reply that feelings can mislead, and that the experience of choosing may be just as compatible with other views."
+        },
+        {
+          "point": "Pointing to quantum indeterminacy or a special agent power.",
+          "explanation": "Some libertarians appeal to quantum indeterminacy, and others to agent causation, the idea that agents themselves originate actions. Critics say undetermined events look like luck rather than control, and that it's hard to spell out how an agent could initiate causes within the physical brain. Libertarians respond that these are open research questions, not refutations."
+        }
+      ]
+    },
+    {
+      "name": "The 'Wrong Question' Camp (Confused or Unanswerable)",
+      "one_liner": "The phrase 'free will' bundles together several different ideas, so the debate is either mostly a muddle of words or beyond what human minds can settle.",
+      "why_people_believe_this": "People here are often wary of grand answers and care about whether a question is built on clear assumptions. They've seen how debates stall when each side means something different by 'free,' 'cause' or 'choice.' Some think the puzzle reveals limits of human understanding, and they regard accepting those limits as a mark of intellectual seriousness.",
+      "strongest_arguments": [
+        {
+          "point": "The term means different things to different people.",
+          "explanation": "'Free will' can mean freedom from coercion, ability to do otherwise, being the ultimate source of your actions, or conscious control. Much of the argument may be people answering different questions, so progress may start by separating them."
+        },
+        {
+          "point": "Intuitions here may be inconsistent.",
+          "explanation": "Some philosophers and researchers argue that people say determinism rules out responsibility in the abstract, but hold a specific wrongdoer fully responsible when the case is vivid. If intuitions pull in opposite directions, then perhaps none of them is a reliable guide to what is true."
+        },
+        {
+          "point": "Some questions may exceed our cognitive reach.",
+          "explanation": "Just as a dog can't grasp calculus, our minds might not be built to understand how consciousness, causation and agency fit together. On this view, saying that no one has yet solved the problem may be the most accurate position."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'It's just semantics.'",
+          "explanation": "Some in this camp say the dispute is merely verbal. Critics reply that real decisions hang on it, such as how we run courts, prisons and schools, and that calling the question confused doesn't tell us what to do about blame and punishment in the meantime."
+        },
+        {
+          "point": "Declaring a problem unanswerable.",
+          "explanation": "Critics note that people have given up on questions before, only to see them yield later, that concluding we can't know is itself a big claim, and that it may discourage patient work that could clarify things."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Almost everyone agrees that there is an important difference between acting under coercion, compulsion or severe impairment and acting after thinking things through. Nearly everyone also agrees that the experience of choosing is real as an experience, and that how we answer affects how we think about blame, punishment, credit and compassion. The disagreement is about what free will requires, whether we have it, and whether determinism is true. Some see this as largely a dispute about what 'free' means, and others see a substantive dispute about the world.",
+  "questions_to_sit_with": [
+    "Which would change more about how you treat yourself and others: learning that every choice was fixed by earlier causes, or learning that some choices were genuinely open? Or would neither change anything?",
+    "When you feel proud of something you did, or guilty about it, what exactly are you crediting or blaming: your choice, your character, or something else?",
+    "Which feels more important to you in a free choice: that it came from your own reasons and values, that you could have done otherwise, or something else? Does your answer depend on the situation?"
+  ],
+  "key_facts": [
+    {
+      "fact": "The Stanford Encyclopedia of Philosophy describes causal determinism, roughly, as the idea that every event is necessitated by earlier events and conditions together with the laws of nature. It notes that there is no agreement over whether determinism is true.",
+      "source_title": "Causal Determinism (Stanford Encyclopedia of Philosophy)",
+      "source_url": "https://plato.stanford.edu/entries/determinism-causal/"
+    },
+    {
+      "fact": "The Stanford Encyclopedia of Philosophy defines compatibilism as the thesis that free will is compatible with determinism. It says the 'free will problem' concerns a disputed incompatibility between the two. Because free will is typically taken to be a necessary condition of moral responsibility, compatibilism is sometimes also stated as a thesis about moral responsibility and determinism.",
+      "source_title": "Compatibilism (Stanford Encyclopedia of Philosophy)",
+      "source_url": "https://plato.stanford.edu/entries/compatibilism/"
+    },
+    {
+      "fact": "According to the Stanford Encyclopedia of Philosophy, ‘free will’ has become the standard term for a significant kind of control over one’s own actions. Philosophers disagree about what that control requires, for example the ability to have done otherwise, and about whether it is needed for moral responsibility.",
+      "source_title": "Free Will (Stanford Encyclopedia of Philosophy)",
+      "source_url": "https://plato.stanford.edu/entries/freewill/"
+    },
+    {
+      "fact": "In 1983 Benjamin Libet and colleagues reported that a brain signal called the readiness potential began roughly 350 to 750 milliseconds before a voluntary movement, while people reported their conscious intention to move only about 200 milliseconds before it. In 2012 Schurger and colleagues proposed that the readiness potential may reflect accumulated random neural noise rather than an unconscious decision, and how to interpret these experiments for free will remains debated.",
+      "source_title": "An intellectual history of the \"Libet experiment\": embedding the neuroscience of free will (Proceedings of the Paris Institute for Advanced Study)",
+      "source_url": "https://paris.pias.science/article/an-intellectual-history-of-the-libet-experiment-embedding-the-neuroscience-of-free-will/"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:32:26.049Z",
+  "audit": {
+    "balance_score_of_draft": "5",
+    "problems_fixed": [
+      {
+        "issue": "The hook is framed in the hard-determinist picture: 'atoms, genes, childhood snacks... you merely along for the ride.' It never voices the opposing intuition. 'Thousands of years' also overstates the cited source, which says roughly two millennia.",
+        "favoured_camp": "Hard Incompatibilists",
+        "fix": "Rewrote the hook to put both pictures side by side (causal chain vs. you as the author of your choice) and replaced 'thousands of years' with 'for centuries'."
+      },
+      {
+        "issue": "The motivations are not parallel. Hard incompatibilists are said to 'prize intellectual honesty even when uncomfortable', to feel 'humility' and to 'care about compassion'. This implies the other camps are less honest or less caring. Other camps get thinner or more dismissive descriptions: compatibilists don't want a 'metaphysical puzzle' to 'wreck' our practices, and the Wrong-Question camp finds its view 'freeing'.",
+        "favoured_camp": "Hard Incompatibilists (also, to a lesser degree, Wrong Question)",
+        "fix": "Rewrote all four 'why_people_believe_this' sections in the same register, each with a commitment to truth, a moral concern and an intuition. Removed the exclusive honesty and compassion claims and the dismissive wording."
+      },
+      {
+        "issue": "The 'weakest_arguments' are framed inconsistently. The hard incompatibilist ones are arguments the camp makes. The compatibilist, libertarian and Wrong-Question ones are mostly critics' objections ('accusations of changing the subject', 'the luck problem', 'trouble with manipulation cases'). The libertarian entries are especially harsh ('naming the puzzle instead of solving it'; 'critics find these hard to spell out').",
+        "favoured_camp": "Hard Incompatibilists (and, secondarily, Compatibilists over Libertarians)",
+        "fix": "Recast every weakest argument as something the camp's supporters actually say, followed by the main criticism, in similar length and tone. Dropped the editorializing phrases."
+      },
+      {
+        "issue": "Several claims are stated as fact in a camp's favour or against it, or lean one way. 'The ordinary meaning of free is about absence of coercion' is stated as settled. The hard-incompatibilist point says the feeling of free choice 'look[s] less trustworthy'. The claim that even people who hold this view 'find themselves feeling resentment and pride' is an unsourced empirical claim. 'It hasn't been tested' is also unsupported.",
+        "favoured_camp": "Compatibilists (ordinary meaning); mixed for the others",
+        "fix": "Attributed these claims to the camps ('compatibilists argue...') and softened or removed the unsourced empirical assertions."
+      },
+      {
+        "issue": "In the Wrong-Question camp, the claim that people call a vivid wrongdoer responsible while saying determinism rules out responsibility, and that intuitions are 'culturally shaped', is an unattributed empirical claim. It undercuts the intuitions that libertarians and incompatibilists rely on. 'Pretending one camp has cracked it' is loaded against the other camps.",
+        "favoured_camp": "Wrong Question",
+        "fix": "Attributed the intuition claim to 'some philosophers and researchers', dropped the unsupported 'culturally shaped' claim and replaced 'pretending' with neutral wording."
+      },
+      {
+        "issue": "The 'common_ground' ends by saying the disagreement is 'mostly about what the word free needs to mean'. That is the compatibilist and Wrong-Question diagnosis, and hard incompatibilists and libertarians would say the dispute is substantive. 'Our actions have causes of some kind' is also hedged to cover agent-causal views.",
+        "favoured_camp": "Compatibilists / Wrong Question",
+        "fix": "Reworded the disagreement as being about what free will requires, whether we have it, and whether determinism is true, with some seeing a dispute over meaning and others a substantive dispute."
+      },
+      {
+        "issue": "The reflection questions presuppose a hard-determinist scenario ('learned for certain every choice was fixed'), the 'luck of how you were made' frame, and a freedom 'you can't quite define'. Nothing invites a libertarian or compatibilist reflection.",
+        "favoured_camp": "Hard Incompatibilists",
+        "fix": "Rewrote the questions so that each invites reflection from several camps' perspectives."
+      },
+      {
+        "issue": "In the key facts, the Libet fact pairs the original finding with a rebuttal that 'showed' the readiness potential 'could be an artefact', which leans against the neuroscientific case for no free will. The set as a whole is background definitions and has nothing specific to libertarianism. Fact 1 on determinism is neutral, but taken alone it frames the topic around determinism.",
+        "favoured_camp": "Against Hard Incompatibilists (Libet fact); slight determinism framing overall",
+        "fix": "Reworded the Libet fact to be even-handed: 'proposed' rather than 'showed', and both interpretations stated as contested. Kept the three SEP definitional facts as they are, since they are neutral. Added no facts and left all source titles and URLs unchanged."
+      },
+      {
+        "issue": "Real positions are missing or squeezed, such as hard determinists, illusionists and religious views (predestination vs. libertarian free will in theology). The camps are also uneven in how far critics' lines intrude.",
+        "favoured_camp": "None in particular (coverage gap)",
+        "fix": "Widened the camp one-liners and motivation text to cover these (for example, religious motivations in the libertarian camp, determinist and illusionist variants in the first camp) without adding a new camp."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy and completeness."
+  }
+}

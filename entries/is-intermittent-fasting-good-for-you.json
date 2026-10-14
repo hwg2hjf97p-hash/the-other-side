@@ -1,0 +1,230 @@
+{
+  "topic": "Is intermittent fasting good for you?",
+  "category": "Health",
+  "hook": "Somewhere out there is a person who says skipping breakfast changed their life, and another who says it left them irritable and preoccupied with the next meal. Both are sincere, and both have a point.",
+  "camps": [
+    {
+      "name": "The Metabolic Optimizers",
+      "one_liner": "Giving your body regular breaks from eating may trigger beneficial metabolic changes that go beyond simply eating less.",
+      "why_people_believe_this": "These people tend to value taking an active role in their own health. Many tried conventional 'eat six small meals' advice, felt lousy or stuck, and then found that a fasting window gave them steadier energy, less snacking, and a sense of control. They are often motivated by concern about chronic disease with age, and by the idea that human bodies evolved for feast-and-famine cycles rather than constant grazing.",
+      "strongest_arguments": [
+        {
+          "point": "Humans evolved without 24/7 food access",
+          "explanation": "It is plausible that human physiology handles periods without food well, and that constant eating is the newer condition. On that basis, fasting-style eating seems a reasonable thing to investigate."
+        },
+        {
+          "point": "Some studies report improved health markers",
+          "explanation": "Studies in animals and humans have looked at blood sugar regulation, insulin levels, and blood pressure, and some have reported improvements in people following time-restricted or alternate-day patterns. That is enough, in this camp's view, to take the idea seriously."
+        },
+        {
+          "point": "Many people find it workable in practice",
+          "explanation": "Many people find a fasting window a simple structure to follow. A diet you can stick to has a real advantage over a theoretically perfect one you abandon in a few weeks."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Animal results show it will work for people",
+          "explanation": "Some of the more dramatic findings, such as longevity effects, come from animals whose metabolism, lifespan, and feeding patterns differ a lot from ours. Treating them as proof for humans goes beyond what they can show."
+        },
+        {
+          "point": "Any benefit must come from fasting itself",
+          "explanation": "When fasting is compared with ordinary calorie reduction, the differences are often small or absent in some trials. Attributing results to a unique fasting effect may be premature when people are also eating less."
+        },
+        {
+          "point": "Personal success proves it works",
+          "explanation": "Individual experiences are meaningful to the people who have them, but they cannot show what caused the change or whether it would repeat for someone else."
+        }
+      ]
+    },
+    {
+      "name": "The Practical Weight-Loss Pragmatists",
+      "one_liner": "Intermittent fasting is one way to eat less: worthwhile if it helps you, unremarkable if it doesn't.",
+      "why_people_believe_this": "This camp values plain, practical reasoning and is wary of health trends that promise secret hacks. Many have watched friends move between diets and concluded that the best plan is the one a person can maintain. They tend to care about adherence, enjoyment, and not making food a source of stress.",
+      "strongest_arguments": [
+        {
+          "point": "The best diet is the one you can keep doing",
+          "explanation": "Many people argue that sticking with a plan matters more than which plan it is. If a fasting window makes eating less feel simpler, that is a practical benefit."
+        },
+        {
+          "point": "Some head-to-head comparisons show similar results",
+          "explanation": "Some trials comparing fasting patterns with ordinary calorie restriction find fairly comparable weight loss. This camp reads that as showing fasting is a tool rather than a miracle."
+        },
+        {
+          "point": "Simple rules reduce decision fatigue",
+          "explanation": "'Don't eat before noon' is easier to follow than counting everything. For some people, clear boundaries beat constant calculation."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "It's all just calories, so timing can't matter",
+          "explanation": "Meal timing could plausibly affect sleep, hormones, or appetite for some people. Ruling out any effect beyond arithmetic may be too quick while research continues."
+        },
+        {
+          "point": "Any approach is fine as long as you like it",
+          "explanation": "What works for one body, schedule, or health condition can be miserable or risky for another. 'Just pick what you like' glosses over cases where the choice matters."
+        },
+        {
+          "point": "Adherence is the only thing that matters",
+          "explanation": "Sticking with a plan is important, but what is easy to stick with differs from person to person. A fasting schedule may suit one person's routine and clash with another's family meals, work, or social life."
+        }
+      ]
+    },
+    {
+      "name": "The Cautious Skeptics",
+      "one_liner": "The hype may have outrun the evidence, and for some people fasting could do more harm than good.",
+      "why_people_believe_this": "These are often clinicians, dietitians, and others who have seen wellness trends become oversold. They emphasise strong evidence and are concerned about vulnerable people, including those with a history of disordered eating, diabetes, pregnancy, or physically demanding jobs. Some have personally felt dizzy, irritable, or preoccupied with food on a fasting schedule and concluded it is not the harmless hack it is sometimes presented as.",
+      "strongest_arguments": [
+        {
+          "point": "Long-term evidence is limited",
+          "explanation": "There are comparatively few long, large studies of people fasting for years. Confident claims about lifelong benefits, in this view, go beyond what has been shown."
+        },
+        {
+          "point": "Real risks for certain groups",
+          "explanation": "People on certain medications, those with diabetes, those who are pregnant, and those with a history of eating disorders can face genuine dangers from fasting. General enthusiasm can reach exactly the people who most need to be careful."
+        },
+        {
+          "point": "Rigid food rules can sour people's relationship with eating",
+          "explanation": "For some, strict windows turn into guilt, preoccupation, or binge-restrict cycles. That is a health cost that does not show up on a scale."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Fasting is broadly dangerous",
+          "explanation": "Some studies suggest many healthy adults tolerate a modest fasting window. Warning of serious harm for everyone would overshoot the evidence, just as hype does in the other direction."
+        },
+        {
+          "point": "Without long-term data, we should assume harm",
+          "explanation": "Not knowing the long-term effects cuts both ways. It is a reason for humility, not proof that something is harmful."
+        },
+        {
+          "point": "Personal reports of benefit can be set aside",
+          "explanation": "Personal reports are not strong proof, but many people do report feeling better. Dismissing them entirely can come across as ignoring real experiences."
+        }
+      ]
+    },
+    {
+      "name": "The Traditional-Eating Defenders",
+      "one_liner": "Regular meals, shared with other people, are a healthy and humane way to live, and food doesn't need to become a stopwatch project.",
+      "why_people_believe_this": "This camp values food as culture, pleasure, and connection as well as fuel. Many grew up with family meals as the backbone of the day, and some see fasting as part of a broader trend toward over-managing wellbeing. They worry that optimising every hour of eating can take away spontaneity and enjoyment.",
+      "strongest_arguments": [
+        {
+          "point": "Meals have social and emotional value",
+          "explanation": "Eating together builds relationships and routines that matter for wellbeing. A health plan that regularly pulls you away from the table has costs that don't appear in lab measurements."
+        },
+        {
+          "point": "Steady, balanced eating works well for many people",
+          "explanation": "Many people maintain good health with ordinary meals and sensible food choices. It is reasonable to ask why they should change something that is working for them."
+        },
+        {
+          "point": "Quality of food may matter more than timing",
+          "explanation": "What you eat, in terms of vegetables, fiber, and processed food, may influence health more than when you eat it. Focusing on the clock could distract from bigger factors."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Regular meals are the natural way to eat because it's always been done this way",
+          "explanation": "Traditional eating patterns vary enormously across cultures and eras, and tradition alone does not show that a pattern is best for health."
+        },
+        {
+          "point": "Fasting is inherently joyless or isolating",
+          "explanation": "Fasting can be done in flexible ways, and it has cultural and religious roots in many traditions. Whether it harms social eating depends on the person and the schedule."
+        },
+        {
+          "point": "Modern eating habits are fine as they are",
+          "explanation": "Constant snacking and late-night eating are common today, and some people want more structure. Defending 'regular meals' in general can overlook habits that aren't serving some people well."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Many people across these camps would agree that overall diet quality, total intake, and sustainability matter a great deal, and that fasting is not a cure-all for everyone. Many would also agree it is unsuitable for certain groups, such as people with a history of disordered eating, pregnant people, or those on certain medications, and that anyone with a medical condition should check with a professional first. Most would accept that the long-term evidence is still limited, though they differ on what that implies.",
+  "questions_to_sit_with": [
+    "If a method helps mainly by changing how much you eat, does it matter whether it also has a separate effect?",
+    "How do we weigh possible health benefits against possible costs, whether to health, your relationship with food, or your social life?",
+    "When the research is mixed, how should you weigh your own experience against what studies show?"
+  ],
+  "key_facts": [
+    {
+      "fact": "Dietitians Australia defines intermittent fasting as an approach to eating that alternates between periods of fasting and eating.",
+      "source_title": "Intermittent fasting – Dietitians Australia",
+      "source_url": "https://dietitiansaustralia.org.au/health-advice/intermittent-fasting"
+    },
+    {
+      "fact": "A Cochrane systematic review published in February 2026 analysed 22 randomised trials involving 1,995 adults with overweight or obesity, testing alternate-day fasting, periodic fasting and time-restricted eating, mostly over periods of up to 12 months. It concluded that intermittent fasting did not appear to have a clinically meaningful effect on weight loss compared with standard dietary advice or doing nothing. The authors said the evidence base remains limited and few trials have looked at long-term results.",
+      "source_title": "Evidence behind intermittent fasting for weight loss fails to match hype – Cochrane",
+      "source_url": "https://www.cochrane.org/about-us/news/evidence-behind-intermittent-fasting-weight-loss-fails-match-hype"
+    },
+    {
+      "fact": "A 2020 review by National Institute on Aging researchers, published in the New England Journal of Medicine, reported that hundreds of animal studies and scores of human trials have shown intermittent fasting can lead to improvements in conditions such as obesity, diabetes, cardiovascular disease, cancers and neurological disorders. It noted that human trials have mostly been short-term, so long-term effects, including on lifespan, are not yet known.",
+      "source_title": "Research on intermittent fasting shows health benefits – National Institute on Aging",
+      "source_url": "https://www.nia.nih.gov/news/research-intermittent-fasting-shows-health-benefits"
+    },
+    {
+      "fact": "Dietitians Australia says intermittent fasting is not appropriate for adolescents or for people who are pregnant or breastfeeding, and that people who are underweight or have a history of disordered eating should avoid it unless supervised by a health professional. People taking diabetes medications should talk to their doctor first, because fasting can put them at risk of low blood sugar.",
+      "source_title": "Intermittent fasting – Dietitians Australia",
+      "source_url": "https://dietitiansaustralia.org.au/health-advice/intermittent-fasting"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:28:53.729Z",
+  "audit": {
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "The hook sets the two sides up unevenly. The enthusiast gets 'changed their life', while the unhappy person gets the mocking 'hangry and weird about lunch'. That trivialises the negative experience and hints that skeptic-side complaints are silly.",
+        "favoured_camp": "The Metabolic Optimizers",
+        "fix": "Rewrote both experiences in the same sincere register: one says it changed their life, the other says it left them irritable and preoccupied with food."
+      },
+      {
+        "issue": "Several 'weakest arguments' are not arguments the camp makes. They are outside rebuttals written from a rival's viewpoint (e.g. 'Animal findings don't transfer', 'Enthusiasm outruns long-term data', 'Adherence arguments cut both ways', 'Overlooking that modern eating isn't always healthy'). Optimizers are told off with the skeptic's best evidence, while the Pragmatists' and Traditionalists' weak points mostly nudge people toward trying fasting. The camps are therefore not held to one standard.",
+        "favoured_camp": "Cautious Skeptics (against Optimizers); Optimizers/fasting (against Traditional Defenders and Pragmatists)",
+        "fix": "Rewrote every weakest argument as a claim a real member of that camp would make, with a neutral explanation of why it is weak. Examples: 'Animal results show it works for people', 'It's all just calories, so timing can't matter', 'Regular meals are the natural way to eat'."
+      },
+      {
+        "issue": "Several claims are unsourced generalisations presented as fact. 'Even skeptics tend to concede...', 'Research on dieting generally finds...', 'Many people who fast report enjoying their meals more', and 'a modest window appears to be well tolerated in studies' all fall into this group. Most of them flatter the fasting or pragmatist side.",
+        "favoured_camp": "Optimizers and Pragmatists",
+        "fix": "Removed or softened them into attributed views ('Many people find...', 'Some argue...') and dropped the unsupported 'enjoy meals more' claim."
+      },
+      {
+        "issue": "The 'why people believe this' paragraphs differ in warmth. Pragmatists are 'straightforward, unflashy' and Skeptics value 'careful evidence' and are 'protective'. Optimizers are 'tinkerer-like' and driven by 'fear' and an 'appealing idea'. Traditionalists see fasting as a 'symptom' and worry about 'drain[ing] the joy'. These words flatter some camps and psychologise others.",
+        "favoured_camp": "Pragmatists and Skeptics",
+        "fix": "Replaced the loaded or flattering wording with parallel, descriptive phrasing: 'concern about' rather than 'fear', 'idea' rather than 'appealing idea', 'emphasise' rather than 'careful', and 'part of a broader trend' rather than 'symptom'."
+      },
+      {
+        "issue": "The common_ground paragraph overclaims consensus ('Almost everyone', 'nearly everyone'), and some Optimizers would dispute the framing that the evidence is simply 'still developing'.",
+        "favoured_camp": "Skeptics and Pragmatists",
+        "fix": "Changed to 'Many people across these camps' and made the wording more tentative."
+      },
+      {
+        "issue": "The questions are slanted. Q1 assumes the benefit is 'mainly' eating less, which is the Pragmatist thesis. Q2 calls the benefit 'measurable' and the cost only 'possible'. Q3 assumes experience is 'clear' and the research 'mixed', which favours trusting personal experience.",
+        "favoured_camp": "Pragmatists and Optimizers",
+        "fix": "Rewrote the questions in symmetrical, non-presumptive wording."
+      },
+      {
+        "issue": "The key_facts set tilts skeptical. The Cochrane review, the 91% cardiovascular death abstract and the safety warnings are all negative, with one hedged positive from the NIA. The Cochrane fact's wording (reported as 'fails to match hype' in its title) and its weight-loss-only scope are not made clear.",
+        "favoured_camp": "Cautious Skeptics",
+        "fix": "Stated that the Cochrane findings concern weight loss in adults with overweight or obesity and do not cover other outcomes. Kept the low-certainty caveat."
+      },
+      {
+        "issue": "The AHA fact leads with a dramatic '91% higher risk of cardiovascular death', worded as if causal ('had a ... higher risk'). It is a preliminary, unpublished, observational conference abstract. It covers only an eating window under 8 hours and one outcome, cardiovascular death, so it does not speak to intermittent fasting as a whole. It is the most alarming and easily quoted number in the entry, and it cannot be made fair without details not provided.",
+        "favoured_camp": "Cautious Skeptics",
+        "fix": "Removed this fact."
+      },
+      {
+        "issue": "The NIA fact uses strong, unattributed language: 'show intermittent fasting can improve... cancers and neurological disorders'. Many would dispute this, and it is undated and vague ('hundreds', 'scores'). The caveats are present but come after the headline.",
+        "favoured_camp": "Metabolic Optimizers",
+        "fix": "Reworded as what the review 'reports' rather than 'shows'. Moved the short-term and lifespan caveats up alongside the claim."
+      },
+      {
+        "issue": "The safety fact states Dietitians Australia's advice, including the adolescent claim, in a way that reads as universal fact. It is one organisation's position.",
+        "favoured_camp": "Cautious Skeptics",
+        "fix": "Made the attribution clear throughout, including the low-blood-sugar statement."
+      },
+      {
+        "issue": "Camps real people hold are missing or only implied: people who fast for religious or spiritual reasons, and people using fasting under clinical supervision. They get only a passing mention.",
+        "favoured_camp": "Neutral/omission",
+        "fix": "Kept the camp structure, but made the Traditional Defenders' weak-argument text acknowledge the religious and cultural roots of fasting neutrally. A new camp was not invented in this pass."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy, completeness and balance."
+  }
+}

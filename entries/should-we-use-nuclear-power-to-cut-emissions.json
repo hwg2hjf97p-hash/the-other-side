@@ -1,0 +1,324 @@
+{
+  "topic": "Should we use nuclear power to cut emissions?",
+  "category": "Politics / Climate Policy",
+  "hook": "Nuclear power is a topic where people who all want lower emissions can disagree sharply, largely because they worry about different things: the cost and time of construction, the risks and long-lived waste, or how much time the climate gives us.",
+  "camps": [
+    {
+      "name": "Nuclear Forward",
+      "one_liner": "Climate change is urgent and severe, so we should build a lot of nuclear power alongside other low-carbon sources.",
+      "why_people_believe_this": "Many people in this camp came to nuclear through climate concern. They look at the scale of the task, which means replacing fossil fuels in electricity and then electrifying much more, and want tools that can run day and night in any weather. Many point to safety statistics and feel that public wariness doesn't match the technology's record. Some feel frustrated that nuclear has been left out or held back in climate planning.",
+      "strongest_arguments": [
+        {
+          "point": "Steady, weather-independent clean power",
+          "explanation": "Nuclear plants can run around the clock and don't depend on sun or wind. Supporters argue that a grid with a lot of this kind of power finds it easier to stay stable and needs less gas backup."
+        },
+        {
+          "point": "Small footprint, high output",
+          "explanation": "A small amount of fuel and land produces a large amount of electricity. Supporters say this matters in crowded or resource-limited places where covering large areas with panels or turbines is difficult or controversial."
+        },
+        {
+          "point": "Keeping existing plants running",
+          "explanation": "In several places, closing existing reactors early was followed by more fossil generation. Supporters argue that this shows keeping existing clean plants can be a relatively low-cost climate step. Others reply that this depends on local circumstances and on each plant's economics."
+        },
+        {
+          "point": "Safety compared with the alternatives",
+          "explanation": "Supporters point to comparisons of harm per unit of energy, including air pollution from fossil fuels, in which nuclear's recorded harm is low. They argue that perceptions are shaped by a few dramatic accidents while the diffuse harm of fossil fuels gets less attention. Critics respond that rare catastrophic outcomes and long-term effects are hard to capture in averages."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "\"This time the costs will be under control\"",
+          "explanation": "In several countries, recent large reactor projects ran far over budget and schedule. Critics note that promises that new designs or better management will fix this are still promises. Supporters point to places that have built more cheaply and quickly."
+        },
+        {
+          "point": "\"The waste problem is basically solved\"",
+          "explanation": "Supporters say storage designs exist and volumes are small. Critics note that many places still haven't agreed on where long-term storage will go, and that a technical design without a site and public consent may not count as a solution."
+        },
+        {
+          "point": "\"Renewables alone can't possibly get us there\"",
+          "explanation": "Supporters of this claim point to the challenges of long low-wind and low-sun periods and seasonal swings. Critics note that batteries, grids and demand management keep improving, and that earlier flat predictions of what renewables couldn't do sometimes aged badly."
+        },
+        {
+          "point": "Treating public wariness as simple irrationality",
+          "explanation": "Critics point out that people's concerns often come from real history, such as secrecy after accidents and distrust of operators. They argue that dismissing the concerns as ignorance can harden opposition and make building harder."
+        }
+      ]
+    },
+    {
+      "name": "Renewables First",
+      "one_liner": "Wind, solar, storage and efficiency can be deployed faster and more cheaply, so money and attention should go there instead of new nuclear.",
+      "why_people_believe_this": "People here are usually driven by urgency: they think the next ten years matter enormously, and they point to the fall in solar and wind costs and their rapid deployment. They tend to value decentralized, community-scale energy and are wary of large, slow, centralized projects. For many, new nuclear looks like a costly, slow option that could divert money from technologies already scaling up.",
+      "strongest_arguments": [
+        {
+          "point": "Speed",
+          "explanation": "Solar and wind projects are modular and can often be completed in far less time than a large reactor. Supporters argue that if the goal is cutting emissions this decade, long construction timelines are a real handicap."
+        },
+        {
+          "point": "Opportunity cost",
+          "explanation": "Money is limited, so every dollar spent on one project is a dollar not spent elsewhere. If renewables plus storage cut more carbon per dollar, then choosing nuclear could mean slower overall progress."
+        },
+        {
+          "point": "A track record of falling costs",
+          "explanation": "Renewables and batteries have repeatedly gotten cheaper as more of them are made. Nuclear in many Western countries has shown rising costs, which supporters say suggests different trajectories. Nuclear advocates reply that some countries have built reactors more cheaply."
+        },
+        {
+          "point": "Flexibility and resilience",
+          "explanation": "Supporters argue that many small installations spread risk around, while a single large plant going offline or a project being cancelled midway can leave a big hole."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "\"Storage and grids will handle the variability\"",
+          "explanation": "Batteries are good at smoothing out hours, but critics note that covering long low-sun, low-wind stretches or seasonal swings is harder, and that the remaining engineering and cost challenges may be larger than this claim suggests."
+        },
+        {
+          "point": "\"Renewables don't face the same delays\"",
+          "explanation": "Critics point out that transmission lines, permitting and local opposition to wind farms and solar fields can be slow and contentious too, so the speed advantage on paper doesn't always show up in practice."
+        },
+        {
+          "point": "Assuming nuclear's high costs are permanent",
+          "explanation": "Some countries have built reactors more cheaply and quickly than others. Nuclear advocates say this shows high costs aren't fixed by nature and that treating the worst examples as inevitable may be too pessimistic."
+        },
+        {
+          "point": "Opposing the retirement of existing plants' alternatives",
+          "explanation": "Some in this camp oppose keeping existing plants open as well as building new ones, while others support keeping them. Critics say that opposing both can increase fossil use in the short term, and note that building new reactors and keeping working ones are different questions."
+        }
+      ]
+    },
+    {
+      "name": "Safety, Waste and Trust Skeptics",
+      "one_liner": "Nuclear carries risks and burdens, like waste, accidents and links to weapons, that we shouldn't hand to future generations or vulnerable communities.",
+      "why_people_believe_this": "This view tends to come from concern about responsibility across generations and about trust in institutions. People point to communities near accidents or waste sites and to cases where officials downplayed problems. For them the question isn't only average risk but who bears it, who decided, and who will still be around to manage it in centuries.",
+      "strongest_arguments": [
+        {
+          "point": "Waste outlasts institutions",
+          "explanation": "Some radioactive waste stays hazardous for longer than any government or company has existed. Skeptics argue that asking future societies to keep watch is a moral choice, and ask whether we have the right to make it."
+        },
+        {
+          "point": "Low probability, high consequence",
+          "explanation": "Even if accidents are rare, skeptics point out that the ones that occur can displace whole communities and leave land unusable for a long time. They argue that weighing rare catastrophic outcomes differently from frequent smaller harms is a defensible choice, not an obvious mistake."
+        },
+        {
+          "point": "Trust and accountability",
+          "explanation": "Nuclear safety depends on strong, honest regulators and operators year after year. Skeptics note that history includes cover-ups and cost-cutting, and ask whether safeguards will hold in every country and every decade."
+        },
+        {
+          "point": "Links to nuclear weapons",
+          "explanation": "Civilian nuclear programs have in some cases overlapped with weapons ambitions. Skeptics say that expanding the technology worldwide raises questions about oversight and security."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Judging nuclear without comparing it to what replaces it",
+          "explanation": "Critics say that fossil fuels cause harm too, through air pollution and climate impacts, and that the relevant comparison is to whatever replaces nuclear. Skeptics reply that the alternative isn't only fossil fuels and includes other low-carbon sources."
+        },
+        {
+          "point": "\"There is no solution for waste\"",
+          "explanation": "Nuclear supporters say volumes are small and engineered storage designs exist, so 'no solution at all' overstates the case. Skeptics reply that without agreed sites and long-term stewardship, designs on paper don't amount to a solution."
+        },
+        {
+          "point": "Treating all nuclear programs as equally dangerous",
+          "explanation": "Critics note that safety culture, regulation and reactor designs vary a lot between countries and eras, and lumping a modern, well-regulated plant with the worst historical disasters can blur real differences."
+        },
+        {
+          "point": "Overlooking the risks of not building",
+          "explanation": "Critics argue that declining to act also has costs, including continued emissions, and that a precautionary stance is stronger when it accounts for the risks of not building as well as of building."
+        }
+      ]
+    },
+    {
+      "name": "Use Everything That Works",
+      "one_liner": "Decarbonizing is hard enough that we shouldn't rule out any low-carbon tool, and the right mix will depend on the place.",
+      "why_people_believe_this": "People in this camp often include grid operators, economists and planners who have seen how different one region's conditions can be from another's. They prefer flexibility and like to judge how the pieces fit together in a working system. They think debates over which single technology is best can overlook that a system may need several, though critics say this can avoid hard choices.",
+      "strongest_arguments": [
+        {
+          "point": "Hedging against failure",
+          "explanation": "Any single technology could hit delays, cost surprises or public backlash. Supporters say a diverse portfolio means we aren't betting everything on one outcome."
+        },
+        {
+          "point": "Geography and context matter",
+          "explanation": "A sunny, windy, land-rich region has different options from a dense, cloudy or mountainous one. Supporters argue that a one-size-fits-all answer ignores that places differ."
+        },
+        {
+          "point": "System thinking",
+          "explanation": "Supporters argue that what matters is whether the whole grid stays reliable and affordable, not how any one source does on its own, and that mixing steady and flexible sources can sometimes cost less overall than pushing one source to an extreme."
+        },
+        {
+          "point": "A big problem may need many tools",
+          "explanation": "Supporters say that nuclear, renewables, storage, efficiency and other tools may each be needed for different parts of the job. Opponents of particular technologies reply that spreading resources thin may slow the best options."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "\"All of the above\" can dodge trade-offs",
+          "explanation": "Money, skilled workers and political attention are limited. Critics say that saying yes to everything can avoid the hard question of what to prioritize first."
+        },
+        {
+          "point": "Vagueness about who pays",
+          "explanation": "A diverse portfolio sounds sensible, but someone has to fund it and accept the local impacts. Critics say that without specifics the position can sidestep the real disputes."
+        },
+        {
+          "point": "Assuming the technologies fit together smoothly",
+          "explanation": "Different sources can compete for the same grid space, subsidies and market revenue. A steady plant and a surge of cheap solar don't always coexist neatly, so the mix isn't automatically harmonious."
+        },
+        {
+          "point": "Hedging can slow decisions",
+          "explanation": "Critics argue that keeping every option open can mean no option gets the sustained commitment big projects need, and that sometimes picking a direction and sticking with it beats flexibility."
+        }
+      ]
+    },
+    {
+      "name": "Cost and Market First",
+      "one_liner": "Electricity should be as cheap and reliable as possible, and no technology should get special favours; let costs and competition decide what gets built.",
+      "why_people_believe_this": "People here put affordability and reliability for households and industry first. Many are skeptical that governments are good at picking winning technologies, and they worry that subsidies and mandates, whether for nuclear or for renewables, raise costs and distort decisions. Some also weigh climate goals against other priorities such as energy security and living costs.",
+      "strongest_arguments": [
+        {
+          "point": "Affordability is a climate policy too",
+          "explanation": "Supporters argue that expensive electricity hurts households and industry and can weaken public support for climate action, so low cost is both a goal and a condition for progress."
+        },
+        {
+          "point": "Governments are poor at picking winners",
+          "explanation": "Supporters point to cases where favoured technologies on either side ran over budget or disappointed. They argue that technology-neutral rules, such as a price on carbon, let competition find the cheapest way to cut emissions."
+        },
+        {
+          "point": "Reliability and energy security",
+          "explanation": "Supporters argue that power that is available when needed and doesn't depend on fragile supply chains or imports is worth paying for, and that this should be judged on evidence in each place."
+        },
+        {
+          "point": "Price signals reveal what works",
+          "explanation": "Supporters say that when projects must compete on costs and bear their own risks, money flows toward options that deliver, while subsidies can lock in options that don't."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "\"The market will price everything correctly\"",
+          "explanation": "Critics note that without a carbon price, markets leave out climate damage, and that long-term costs such as waste liability and accident insurance are hard to price. Both nuclear and renewables have also been built with heavy state involvement."
+        },
+        {
+          "point": "\"Cheapest today means cheapest overall\"",
+          "explanation": "Critics say that comparing plant-level costs can miss system costs such as backup, transmission and storage, which can move the picture in either direction."
+        },
+        {
+          "point": "\"No special support for anyone\"",
+          "explanation": "Critics point out that fossil fuels and other incumbents have also long received support, so a hands-off stance isn't neutral in practice."
+        },
+        {
+          "point": "Letting cost curves do the work",
+          "explanation": "Critics argue that waiting for the cheapest option to emerge may be too slow if emissions need to fall quickly, and that some technologies only get cheap after early public investment."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Most people in this debate want reliable and affordable electricity, and most want emissions to fall, though they differ on how quickly and at what cost. Most also agree that costs, timelines, public trust and good regulation matter a great deal, and that the answer depends partly on local conditions. The real disagreements are about speed, risk, cost and which uncertainties we're most willing to live with.",
+  "questions_to_sit_with": [
+    "If a technology has a good safety record on paper but severe worst-case outcomes, how should those outcomes be weighed, and who gets to decide?",
+    "When time is short, how should we weigh options that can be built quickly against options that might matter more over many decades?",
+    "How much should we weigh what we leave to people who will live long after us, compared with the emissions they would inherit if we hold back?",
+    "If different technologies have different costs and risks, who should decide which ones get public support, and on what evidence?"
+  ],
+  "key_facts": [
+    {
+      "fact": "According to the World Nuclear Association, the industry’s trade body, nuclear plants generated a record 2,667 TWh in 2024, narrowly beating the previous peak set in 2006. That supplied 9% of the world’s electricity, down from around 17% in the mid-1990s, because overall electricity demand has grown faster than nuclear output.",
+      "source_title": "Review of nuclear energy - World Nuclear Association",
+      "source_url": "https://world-nuclear.org/our-association/publications/world-nuclear-outlook-report/chapter-1-review-of-nuclear-energy"
+    },
+    {
+      "fact": "In its Electricity 2025 report, the IEA projects that low-emission sources, meaning renewables and nuclear combined, will meet all growth in global electricity demand through 2027. It also projects that nuclear generation will reach a new record high in 2025.",
+      "source_title": "Supply - Electricity 2025 - IEA",
+      "source_url": "https://www.iea.org/reports/electricity-2025/supply"
+    },
+    {
+      "fact": "The U.S. Energy Information Administration says spent reactor fuel is highly radioactive and must first be stored in water-filled pools that cool it and shield radiation, and can later be moved to outdoor concrete or steel dry-storage containers. The United States does not have a permanent disposal facility for high-level nuclear waste.",
+      "source_title": "Nuclear power and the environment - U.S. Energy Information Administration (EIA)",
+      "source_url": "https://eia.gov/Energyexplained/?page=nuclear_environment"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:26:11.138Z",
+  "audit": {
+    "balance_score_of_draft": "5",
+    "problems_fixed": [
+      {
+        "issue": "The hook calls the disagreement 'at each other's throats' and frames the fears as 'a slow build, a long-lived waste problem, or a world that runs out of time.' The first two read as nuclear's flaws and the third as the pro-nuclear urgency argument. The wording is dramatic and not neutral.",
+        "favoured_camp": "Nuclear Forward (urgency framing)",
+        "fix": "Rewrote the hook in neutral language that says people worry about different risks, without implying which worry is justified."
+      },
+      {
+        "issue": "Nuclear Forward's background says public fear is 'out of step with how the technology has actually performed' and that nuclear was 'treated as a villain for decades.' This quietly asserts the camp's own view as fact and uses emotive language. The skeptics' parallel claim, that safety statistics miss who bears the risk, gets no equivalent endorsement.",
+        "favoured_camp": "Nuclear Forward",
+        "fix": "Rephrased as what the camp believes and feels, with neutral wording and no villain language."
+      },
+      {
+        "issue": "Renewables First's background uses warm, loaded phrasing: 'expensive curiosities to cheap, fast-growing workhorses' and 'a bet on the past that pulls resources from what is already working.' It sounds like advocacy.",
+        "favoured_camp": "Renewables First",
+        "fix": "Replaced with plain descriptions of what the camp observes and values."
+      },
+      {
+        "issue": "Skeptics' background is warm and flattering ('a deep sense of responsibility across time'). 'Use Everything' is flattered as practical grid operators and economists who 'distrust ideological purity.' That implies the other camps are ideological, and that people who say 'which technology is best' miss the point.",
+        "favoured_camp": "Safety/Waste/Trust Skeptics and Use Everything That Works",
+        "fix": "Neutralized the descriptions. Removed the 'ideological purity' and 'miss the point' jabs, and noted critics' view of the middle position."
+      },
+      {
+        "issue": "The safety argument for Nuclear Forward states that nuclear's record 'looks good' and that fears are 'shaped by a few dramatic accidents.' This is presented without attribution and without the skeptics' counterpoint. It implies fear is a perception error.",
+        "favoured_camp": "Nuclear Forward",
+        "fix": "Attributed the claims to supporters and added the critics' reply about catastrophic tail risks and long-term effects."
+      },
+      {
+        "issue": "The 'shutting down plants raises emissions' argument says early closures show retention is 'among the cheapest climate moves.' This is stated broadly, with no caveat that it depends on local circumstances.",
+        "favoured_camp": "Nuclear Forward",
+        "fix": "Attributed to supporters and added that others say it depends on local circumstances and plant economics."
+      },
+      {
+        "issue": "The 'weakest arguments' are uneven. Nuclear Forward's are gentle ('plausible', 'critics are fair to ask'). The Skeptics' weakest arguments include the entry itself adjudicating facts in nuclear's favour ('volumes are small', 'engineered storage designs exist', 'the real obstacle is often siting and politics'). Renewables First's weakest argument says opposing existing plants 'cuts against this camp's own goals.' Some of these are strawmen, since few skeptics claim the comparison to alternatives doesn't matter or that the status quo is risk-free.",
+        "favoured_camp": "Nuclear Forward / Use Everything",
+        "fix": "Rewrote all weak arguments in a parallel format: a view some hold, followed by what critics say. Presented waste and storage facts as contested claims. Noted that the camps are not monolithic, since some renewables advocates support keeping existing plants."
+      },
+      {
+        "issue": "The 'Renewables alone can't get us there' item says treating it as settled 'overstates what anyone actually knows.' This reads as the entry's own verdict, and it is a nuclear-supportive claim written as a weakness of the pro-nuclear camp. Its tone is more dismissive of that claim than the nuclear weak arguments are of nuclear claims.",
+        "favoured_camp": "Renewables First",
+        "fix": "Reworded as a contested claim with a neutral statement of the critics' point."
+      },
+      {
+        "issue": "A real camp is missing: people who prioritize lowest cost and technology neutrality or market signals, and who do not want governments or subsidies picking winners. These people are often neither pro-nuclear nor pro-renewables.",
+        "favoured_camp": "Missing camp (cost/market-first)",
+        "fix": "Added a 'Cost and Market First' camp with four strong and four weak arguments."
+      },
+      {
+        "issue": "The 'Use Everything' camp is presented as the sensible middle. Its strongest point, 'excluding any could make an already difficult target harder,' implicitly favours including nuclear. Its weak arguments, such as 'a comfortable middle that avoids the fight', are framed as the camp's own faults.",
+        "favoured_camp": "Use Everything / Nuclear Forward",
+        "fix": "Reworded to describe the position without endorsing it and made the criticisms attributed to critics."
+      },
+      {
+        "issue": "Common ground says 'almost everyone' wants emissions to fall quickly and is uneasy about fossil fuels. That is not true of the cost-first view, and 'quickly' is itself contested.",
+        "favoured_camp": "Climate-urgency camps",
+        "fix": "Softened to 'most' and removed the claim of universal unease about fossil fuels."
+      },
+      {
+        "issue": "Question 2 contrasts 'faster and more proven in practice' with 'could matter more over many decades.' The first phrase carries a pro-renewables tilt by labelling that option as proven. Question 1 implies fear might not deserve weight ('how much should the fear count').",
+        "favoured_camp": "Renewables First / Nuclear Forward",
+        "fix": "Reworded both questions neutrally and added a cost-focused question."
+      },
+      {
+        "issue": "Key facts: four of five emphasize nuclear's growth, record output or scale (WNA figures on generation and construction, a WNA statement on record output, an IEA projection of record nuclear generation). Nothing covers costs, construction delays, safety or the unresolved state of long-term waste disposal. Taken together they mostly help Nuclear Forward. Two of them come from the nuclear industry's own association.",
+        "favoured_camp": "Nuclear Forward",
+        "fix": "Removed the IEA 'record generation in 2025' fact, which is a forecast, redundant and uses a different reactor count ('nearly 420 active' versus '442 operable') that could confuse readers. Kept the WNA decline-in-share fact because it complicates the pro-nuclear story. Kept the spent-fuel fact and tightened its wording."
+      },
+      {
+        "issue": "The WNA dashboard fact lists the 80 reactors under construction and the 9% share without noting that these are industry-reported numbers on construction starts, with no completion dates or cost data. It also adds 'all-time high' phrasing in the next fact without the share context.",
+        "favoured_camp": "Nuclear Forward",
+        "fix": "Kept the source wording but removed the loaded phrase 'all-time high' in favour of a neutral statement alongside the declining share, and kept the 'reported by the industry association' caveat."
+      },
+      {
+        "issue": "The IEA Electricity 2025 fact lumps renewables and nuclear together ('low-emission sources'). Read quickly, it can be taken as support for either camp, and 'clean energy sources to set new records' is promotional in tone.",
+        "favoured_camp": "Use Everything / Nuclear Forward",
+        "fix": "Reworded to state plainly that the projection covers the two groups combined and gives no split between them, and kept the 'projection' caveat."
+      },
+      {
+        "issue": "The spent-fuel fact (EIA) says an 'increasing number' of operators use dry storage. This reassures on waste handling but omits that the fact covers only interim storage by U.S. reactors, so it could read as 'waste is handled'.",
+        "favoured_camp": "Nuclear Forward",
+        "fix": "Clarified that the fact describes how spent fuel is stored at U.S. reactors after use, not long-term disposal."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy, completeness and balance."
+  }
+}

@@ -75,10 +75,19 @@ Use web search to find 4-6 key facts that frame this debate — the shared start
 
 Rules:
 - Every fact must come from a page you actually found with web search. Copy its URL exactly.
+- Link the public page itself on the source's main website (for example www.bls.gov), never a mirror, internal, staging or search-results address.
 - Prefer primary or widely trusted sources (official bodies, scientific institutions, encyclopedias, major reference works) over opinion pieces or advocacy sites.
 - A fact must not be chosen to support one camp. If a camp would dispute it, leave it out.
-- State each fact plainly in one or two sentences, in a neutral tone. No adjectives that take sides.
+- Look at the facts as a set, not just one at a time. If most of them would mainly be cited by one camp, swap some for equally solid facts that the other camps would cite. Attributed findings ("X's report found…") are fine when every camp would agree the report says it.
+- State each fact plainly in one to three sentences, in a neutral tone. No adjectives that take sides.
 - Numbers are fine only if they appear in the source. Never estimate or round in a way that changes meaning.
+
+Make every fact complete and informative:
+- Say what a figure actually covers: who or what it counts, where, and over what period. If a source's number covers more than this topic (for example, job changes from ALL causes, not just the one this topic is about), say so in the fact.
+- When you cite a study or report, give its main finding. Don't cite only a side caveat, and never write a fact that just says a report or study exists ("X has published research on Y").
+- Label projections and estimates as projections, and say who made them.
+- Numbers that change over time need a date ("as of 2025", "in its 2024 report").
+- If a finding comes with an important caveat in the same source, include the caveat in the same fact.
 - If you can't find enough facts that meet these rules, return fewer. Zero is acceptable.
 
 After researching, reply with ONLY valid JSON, no other text, in exactly this shape:
@@ -101,9 +110,11 @@ Argue as hard as you can that it unfairly favours one camp. Hunt for:
 - Any sentence that quietly implies which camp is correct
 - Any invented statistic, study or quote
 - Any item in "key_facts" that is cherry-picked to help one camp, that some camp would reasonably dispute, or whose wording leans one way
+- A "key_facts" set that, taken together, mostly helps one camp
+- A fact that leaves out what its figure covers (for example, presenting an all-causes number as if it were only about this topic), or an undated number that changes over time
 
 Then fix every problem you found and return a rewritten, balanced entry in the SAME JSON shape.
-For "key_facts": you may remove facts or reword them to be more neutral, but never add a new fact and never change a "source_url" or "source_title".
+For "key_facts": you may remove facts or reword them to be more neutral, but never add a new fact and never change a "source_url" or "source_title". When rewording, don't add details that aren't already in the fact; if a fact can't be made fair without information you don't have, remove it.
 
 Entry:
 ${entryJson}

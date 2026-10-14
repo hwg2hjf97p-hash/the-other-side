@@ -1,0 +1,262 @@
+{
+  "topic": "Should countries reduce immigration?",
+  "category": "Politics / Immigration",
+  "hook": "Almost everyone agrees a country can't let in literally no one and can't let in literally everyone. The fight is about where the dial sits and who gets to turn it, and that fight has a lot more than two sides.",
+  "camps": [
+    {
+      "name": "The Capacity Camp",
+      "one_liner": "Immigration should be reduced, at least for now, because housing, public services and infrastructure can't keep pace with how fast the population is growing.",
+      "why_people_believe_this": "This view often comes from everyday experience: long waits for a doctor, high rents, crowded schools. People in this camp tend to value fairness to existing residents, including earlier immigrants, and see a government's first duty as making basic services work for the people already there. Many say they aren't against newcomers and want the pace to match what the country can absorb.",
+      "strongest_arguments": [
+        {
+          "point": "Population can grow faster than the things people need",
+          "explanation": "Homes, clinics, roads and classrooms take years to build, while arrivals can be counted in months. Supporters argue that if capacity is slow to expand, a faster pace of arrival can worsen shortages in the short run, and that lower-income households may be affected most."
+        },
+        {
+          "point": "Governments can choose the pace",
+          "explanation": "Immigration levels are largely a policy decision, unlike birth rates or the weather. Supporters argue that adjusting the pace is a lever governments control directly, without waiting for new construction."
+        },
+        {
+          "point": "Low-wage workers may bear a disproportionate share of the costs",
+          "explanation": "Even if the overall economy benefits, gains and costs may land on different people. Supporters argue that workers who compete directly with new arrivals, or who rent in the same neighborhoods, can feel pressures that national averages hide, and that this deserves weight in policy."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Immigrants are the cause of the housing and services crunch",
+          "explanation": "Critics note that many countries have struggled with housing and health systems for reasons that also include planning rules, underinvestment and aging populations. On this view, lower immigration might ease some pressure without fixing the underlying shortage."
+        },
+        {
+          "point": "Cutting immigration will raise wages and fix the job market",
+          "explanation": "Research on immigration and wages is contested, and the effects found are often modest on average and vary by group. Critics add that immigrants also spend money, start businesses and fill roles that support other jobs, so the simple one-fewer-worker, higher-wage story may leave out a lot."
+        }
+      ]
+    },
+    {
+      "name": "The Cohesion and Sovereignty Camp",
+      "one_liner": "A nation has the right to decide who joins it, and a slower pace of arrival helps preserve shared identity, trust and democratic consent.",
+      "why_people_believe_this": "For many people, a country is more than an economy. It is a shared home with customs, language, history and unspoken rules. People in this camp tend to value continuity, belonging and democratic self-government, and some feel that when communities change quickly their views were not consulted. Some describe a sense of loss as their neighborhoods change, and say that feeling is sometimes dismissed.",
+      "strongest_arguments": [
+        {
+          "point": "Voters are entitled to set the terms of membership",
+          "explanation": "Many people accept that clubs, companies and countries can decide who joins. Supporters argue that if a large share of citizens consistently say they want less immigration and policy doesn't reflect it, the resulting distrust in democracy is a cost worth weighing."
+        },
+        {
+          "point": "Integration takes time, and speed matters",
+          "explanation": "Learning the language, building friendships and absorbing local norms happens person by person. Supporters argue that when arrivals are very large or concentrated, parallel communities may form, which they say can leave everyone, including newcomers, worse off."
+        },
+        {
+          "point": "Shared identity supports the welfare state",
+          "explanation": "Some researchers and commentators argue that people are more willing to pay taxes for programs that support others when they feel a sense of common membership, and that rapid change could weaken that willingness. Others dispute how strong this effect is."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Newcomers from certain places simply can't integrate",
+          "explanation": "Critics point out that earlier waves of immigrants were often described in similar terms, and that outcomes have varied by era, group and country. Sweeping claims about whole groups tend to overlook large differences between individuals."
+        },
+        {
+          "point": "National culture is a fixed thing that immigration threatens",
+          "explanation": "Critics argue that cultures have always changed through migration, trade and conquest, so a single unchanging national culture is hard to identify. Supporters of the camp would reply that the concern is about the speed and scale of change, and people disagree about how much continuity matters."
+        }
+      ]
+    },
+    {
+      "name": "The Growth and Dynamism Camp",
+      "one_liner": "Immigration should be maintained or increased, because it brings workers, talent, energy and balance to aging, ambitious societies.",
+      "why_people_believe_this": "People in this camp often see immigration's contributions directly, in local businesses, health services and universities. They tend to value opportunity and openness, and believe a country gains by being a place people want to come to. Many also point to falling birth rates and argue that workforce and pension questions need an answer.",
+      "strongest_arguments": [
+        {
+          "point": "Aging societies need working-age people",
+          "explanation": "When a country has many retirees and fewer young workers, it becomes harder to staff hospitals and care homes and to fund pensions. Immigrants tend to arrive at working age, which supporters say helps fill that gap, at least for a while."
+        },
+        {
+          "point": "Immigrants add to the economy as well as using it",
+          "explanation": "They work, pay taxes, start businesses, consume goods and fill both highly skilled and hard-to-staff jobs. Many economists see overall economic gains from immigration, though how large they are and who benefits is debated."
+        },
+        {
+          "point": "Openness creates a talent magnet",
+          "explanation": "Supporters argue that countries attracting ambitious people from around the world gain ideas, connections and innovation, and that restricting the flow can send talented people, and the businesses they would build, to other countries."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Concerns about pace and strain are mostly prejudice",
+          "explanation": "Critics argue that housing shortages, stretched services and fast neighborhood change are real experiences, not only attitudes, and that treating them as bigotry skips the question of whether benefits and costs are spread fairly."
+        },
+        {
+          "point": "Immigration solves the aging problem",
+          "explanation": "Critics note that immigrants age too, so the boost is temporary unless inflows keep rising. The fiscal impact also depends on which immigrants arrive, whether they find work, and how a country's tax and benefit system is set up, so a blanket claim can overreach."
+        }
+      ]
+    },
+    {
+      "name": "The Change-the-Mix Camp",
+      "one_liner": "The question isn't how many people come but who, how and under what rules, so countries should be selective and enforce their systems rather than simply raise or lower the total.",
+      "why_people_believe_this": "People here tend to value order, fairness and administrative competence. They are frustrated by a debate that treats immigration as one single lever, and by systems they see as backlogged, with irregular crossings and inconsistently applied rules. They tend to believe that a well-run, selective system is the most workable path between closing doors and unlimited entry.",
+      "strongest_arguments": [
+        {
+          "point": "A system people trust may be more sustainable",
+          "explanation": "Supporters argue that when the public believes rules are enforced and entry is orderly, support for immigration can become more stable, while visible disorder can fuel backlash that affects legal migrants and refugees too."
+        },
+        {
+          "point": "Different kinds of immigration have different effects",
+          "explanation": "Work visas, family reunion, humanitarian protection and student migration serve different purposes and have different economic and social profiles. Supporters argue that designing policy around those differences can work better than a single national number."
+        },
+        {
+          "point": "Clear legal routes can reduce dangerous irregular journeys",
+          "explanation": "Supporters argue that if there are realistic ways to apply and wait, fewer people will rely on smugglers or overstay visas, and that matching rules to labor needs and keeping processing efficient can serve both migrants and citizens."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "A points system can pick the right people in advance",
+          "explanation": "Critics note that governments are not good at predicting which jobs will matter in ten years or which individuals will thrive. Rigid criteria can screen out people who later prove valuable and can leave employers short of workers in essential but less prestigious roles."
+        },
+        {
+          "point": "Better enforcement is straightforward",
+          "explanation": "Critics note that enforcement can be expensive, legally complex and slow, and runs into limits such as court rulings, international obligations and countries that won't take people back. Promising a tidy system can lead to public disappointment if reality proves messier."
+        }
+      ]
+    },
+    {
+      "name": "The Protection-First Camp",
+      "one_liner": "Whatever the overall level of immigration, countries have legal and moral duties to refugees and to families that should be kept firm and not traded off against economic goals.",
+      "why_people_believe_this": "This view tends to come from human rights, religious or legal traditions, and from contact with refugees and asylum seekers. People in this camp often accept that economic migration can reasonably be adjusted, but argue that protection from persecution is a commitment countries made and should keep. They tend to value the rule of law and the principle that the right to seek safety should not depend on the national mood.",
+      "strongest_arguments": [
+        {
+          "point": "Protection is a legal commitment, not a quota",
+          "explanation": "Under international agreements that most countries have signed, people fleeing persecution have the right to have their claims heard. Supporters argue that treating this duty as one more number to reduce undermines the legal order countries rely on."
+        },
+        {
+          "point": "Family unity is a basic interest",
+          "explanation": "Supporters argue that separating close relatives imposes real harm, and that family ties also help newcomers settle and find support, so family routes deserve protection in any reform."
+        },
+        {
+          "point": "Fair, fast processing serves everyone",
+          "explanation": "Supporters argue that well-resourced asylum systems that decide claims quickly and accurately protect genuine refugees and keep public confidence, while long backlogs leave both applicants and communities in limbo."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Processing capacity and volume don't need to be considered",
+          "explanation": "Critics note that systems facing very large numbers of claims can develop backlogs that hurt genuine refugees too, so some practical limits and management questions are hard to avoid."
+        },
+        {
+          "point": "Existing protection rules need no updating",
+          "explanation": "Critics note that the main refugee agreements date from the mid-twentieth century and that governments, courts and scholars disagree about how they apply to modern migration patterns, so reform debates are not simply attacks on protection."
+        }
+      ]
+    },
+    {
+      "name": "The Open Doors Camp",
+      "one_liner": "Borders should be far more open than they are, because where you happen to be born shouldn't determine your opportunities, and restricting movement carries a real moral cost.",
+      "why_people_believe_this": "This view usually starts from moral universalism: a person's worth doesn't depend on a passport. People in this camp are often moved by the situation of those stuck in poverty or danger who might build a better life if allowed to move. They tend to see national borders as historical products rather than natural facts and ask who is really protected by them. Some feel that their concern for outsiders is dismissed as naive.",
+      "strongest_arguments": [
+        {
+          "point": "Birthplace is arbitrary, and the stakes are huge",
+          "explanation": "A worker doing the same job can earn very different amounts depending on which side of a border they're on. Supporters argue that if we care about reducing global poverty, allowing movement is among the most direct ways to help, and some economists argue its effect could rival or exceed that of aid."
+        },
+        {
+          "point": "We already accept free movement within countries",
+          "explanation": "Few people think someone from a poor region should need government permission to move to a richer city. Open-borders advocates ask why a national line on a map should change the moral logic."
+        },
+        {
+          "point": "Restrictions have harsh side effects",
+          "explanation": "Supporters argue that tight controls can push people toward dangerous crossings, smugglers and precarious undocumented work, and that opening legal routes could reduce suffering and bring that activity into the open."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Unlimited movement would work out fine economically and socially",
+          "explanation": "Critics note that projections of large gains rely on models and assumptions, and that truly open borders have not been tried at modern scale. Questions about housing, services and social effects of very large movements remain uncertain."
+        },
+        {
+          "point": "Democratic preferences should not limit who can move",
+          "explanation": "Critics argue that people generally want some say over how fast their communities change and how public resources are shared, and that a view giving those preferences little weight can seem to override democratic consent. Advocates respond that the interests of those excluded also deserve weight, which is the central point of disagreement."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Most people accept that some rules are needed and that the system should be run competently. Many across camps also agree that refugees in genuine danger deserve some consideration, that current processes are often slow or inconsistent, and that housing, services and integration affect how well immigration works in practice. Many critics of immigration say hardworking newcomers are valuable, and many supporters acknowledge that pace and fairness matter, though they weigh these differently.",
+  "questions_to_sit_with": [
+    "If a large share of voters say they want less immigration while some employers and institutions say they need more, whose judgment should count most, and why?",
+    "How much weight should we give to the interests of people who live in a country now compared with the interests of people who would like to live there?",
+    "Is the feeling of a community changing too fast a legitimate concern to be addressed, a prejudice to be challenged, or something that can be both depending on the case?"
+  ],
+  "key_facts": [
+    {
+      "fact": "The UN estimates there were 304 million international migrants worldwide in 2024, up from 275 million in 2020. That is 3.7% of the world’s population, 0.8 percentage points higher than in 1990, when the UN began collecting these estimates. An international migrant here is anyone who has changed their country of usual residence.",
+      "source_title": "International migrant stocks – IOM Migration Data Portal (citing UN DESA, 2025)",
+      "source_url": "https://www.migrationdataportal.org/themes/international-migrant-stocks-overview"
+    },
+    {
+      "fact": "In its International Migration Outlook 2025, the OECD reported 6.2 million new permanent immigrants across OECD countries in 2024, 4% fewer than in 2023 but 15% above 2019 levels. Family migration made up 44% of these permanent flows, labour migration 17% and humanitarian migration 13%.",
+      "source_title": "OECD International Migration Outlook 2025 – Infographic",
+      "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/support-materials/2025/11/international-migration-outlook-2025_355ae9fd/Migration%20Outlook%20-%20infographic.pdf"
+    },
+    {
+      "fact": "EU countries issued more than 3.7 million first residence permits to non-EU citizens in 2023, 4.7% more than in 2022 and the highest number recorded, according to Eurostat. Employment was the most common reason (33.8%), followed by family (26.4%), other reasons including international protection (25.6%) and education (14.3%).",
+      "source_title": "More than 3.7 million first residence permits in 2023 – Eurostat",
+      "source_url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240912-1"
+    },
+    {
+      "fact": "Pew Research Center estimated that 53.3 million immigrants lived in the United States in January 2025 (15.8% of residents), the highest number and share on record, and 51.9 million (15.4%) by June 2025. Pew notes the decline may partly reflect lower survey response rates among immigrants.",
+      "source_title": "Key findings about U.S. immigrants – Pew Research Center",
+      "source_url": "https://www.pewresearch.org/short-reads/2025/08/21/key-findings-about-us-immigrants/"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:25:10.525Z",
+  "audit": {
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "The Cohesion camp's 'why people believe' says some 'felt a quiet grief that gets treated as bigotry'. That is an emotionally warm, sympathetic phrase that also implies critics are being unfair. No other camp gets a comparable line about being misjudged.",
+        "favoured_camp": "The Cohesion and Sovereignty Camp",
+        "fix": "Replaced with a neutral description: some people feel a sense of loss when their area changes quickly, and they say this is sometimes dismissed. Added a matching line for the Open Doors camp."
+      },
+      {
+        "issue": "Tone is uneven across the 'why people believe' sections. The Capacity camp gets relatable daily-life detail ('the system catch its breath'). The Growth camp gets romantic imagery ('the founder who arrived with one suitcase', 'a quiet arithmetic problem'). The Change-the-Mix camp gets loaded words ('irritated', 'chaotic', 'rules that seem optional'). The Change-the-Mix camp also gets the line that well-run immigration is 'the best defense against both closed doors and public backlash', which is a conclusion stated as fact.",
+        "favoured_camp": "Capacity, Growth and Change-the-Mix camps (warmer or more loaded)",
+        "fix": "Rewrote each section in a similar register: what the camp values, what experiences shape it, and no slogans or verdicts."
+      },
+      {
+        "issue": "Several 'strongest arguments' state contested empirical claims as settled. Examples: the people with the least money 'feel it first'; reducing the pace is a lever that 'works quickly'; migration is 'often bigger than aid'; 'visible chaos can fuel backlash'. The Capacity camp's third argument ends with the editorial line 'a matter of fairness, not hostility'.",
+        "favoured_camp": "Capacity, Change-the-Mix and Open Doors camps",
+        "fix": "Hedged the claims ('may', 'argue') and removed the editorial tag lines."
+      },
+      {
+        "issue": "The weakest arguments are unevenly strawmanned. 'Citizens' preferences matter little' is something almost no open-borders advocate says. 'Local concerns are just prejudice' is a caricature of the Growth camp, and its rebuttal editorializes about people feeling 'nobody is listening'. The Open Doors rebuttal adds that its view is 'likely to provoke the very backlash that would end up closing the doors again', which is a prediction presented as fact.",
+        "favoured_camp": "Capacity and Cohesion camps (their opponents' weak points are the more caricatured)",
+        "fix": "Reframed these as arguments real advocates make: 'Democratic preferences should not limit who can move' and 'Concern about pace is mostly prejudice'. Rebuttals now describe the disagreement without predicting outcomes."
+      },
+      {
+        "issue": "The rebuttals are unevenly confident. The Cohesion rebuttals assert that past immigrants 'blended into the national fabric within a generation or two', which is contested and unsourced, and that a fixed culture is 'shaky'. The Capacity rebuttals are framed more tentatively.",
+        "favoured_camp": "Growth and Open Doors camps",
+        "fix": "Softened these to note that integration outcomes vary by era, group and country, and that views differ on how much cultural continuity matters."
+      },
+      {
+        "issue": "A real position was missing: people whose main concern is protection of refugees and asylum seekers. They are neither Open Doors nor simply 'change the mix', and they often want economic migration adjusted while protection duties stay firm. Concern for existing workers' wages also appears only inside the Capacity camp.",
+        "favoured_camp": "Camps already present",
+        "fix": "Added a 'Protection-First Camp' with three strong and two weak arguments in the same format."
+      },
+      {
+        "issue": "Key fact 1 says the migrant share was 'only 0.8 percentage points higher' than in 1990. 'Only' signals that the change is small, which downplays one side's concern.",
+        "favoured_camp": "Growth and Open Doors camps",
+        "fix": "Removed 'only' and kept the neutral comparison."
+      },
+      {
+        "issue": "The key_facts set leans one way. Facts 3, 4 and 5 stress records and large inflows (the highest permits ever, the largest US immigrant population ever, 2.8 million net migration). Fact 3's 'highest number recorded to date' sits with these. Nothing in the set covers economic, fiscal, or other outcomes, and most figures are for rich countries or the US. Fact 5 is also a method-dependent estimate, since the Census revised its method, and it is labelled 'net immigration' rather than net international migration.",
+        "favoured_camp": "Capacity Camp",
+        "fix": "Removed fact 5 because it is contested by method and adds a second large US number. Reworded fact 3 neutrally. Reworded fact 4 to state both figures and the declining trend plainly. Facts 1 and 2 now carry the slower-growth and falling-flow side."
+      },
+      {
+        "issue": "The common ground asserts consensus ('Most camps agree...', 'the current process often feels slow or unfair') beyond what is clearly shared. The first question frames the choice as voters versus businesses, universities and hospitals.",
+        "favoured_camp": "Mild lean toward the Change-the-Mix and Capacity camps",
+        "fix": "Softened the consensus claims. Reworded question 1 so it does not pair particular groups with particular sides."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy, completeness and balance."
+  }
+}

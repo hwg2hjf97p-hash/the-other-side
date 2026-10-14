@@ -1,0 +1,268 @@
+{
+  "topic": "Should social media platforms moderate what people post?",
+  "category": "Politics / Free Speech",
+  "hook": "Social media platforms host a huge amount of everyday conversation, and people disagree sharply about whether the companies that run them should set strict rules, step back, or share the job with users, outside bodies or governments.",
+  "camps": [
+    {
+      "name": "The Light-Touch Camp",
+      "one_liner": "Platforms should leave lawful speech alone, because a few companies shouldn't decide what a large share of public conversation looks like.",
+      "why_people_believe_this": "People in this camp tend to place a very high value on free expression and on open debate. Many have had a post removed or an account suspended with a vague explanation and little chance to appeal. They worry about concentrated power: if a handful of companies set the limits of acceptable speech, it is unclear who holds them to account.",
+      "strongest_arguments": [
+        {
+          "point": "Private gatekeepers have large public influence",
+          "explanation": "Even though platforms are private businesses, many people use them as the infrastructure of public debate. When a few companies decide what can be said, that is a concentration of power that has historically made people uneasy, whoever holds it."
+        },
+        {
+          "point": "Moderation makes mistakes and reflects biases",
+          "explanation": "Rules are applied at enormous scale by overworked humans and imperfect automated systems. Satire, news reporting and legitimate dissent can be swept up, and users often have little recourse. Supporters argue that more moderation means more of these errors."
+        },
+        {
+          "point": "Contested ideas are best handled in the open",
+          "explanation": "History has examples of views once treated as unacceptable that were later vindicated or at least worth debating. Supporters also argue that ideas pushed off major platforms don't disappear but move somewhere harder to see and rebut, so open debate is how societies sort out which is which."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Equating moderation with censorship",
+          "explanation": "Critics point out that free speech protections in many legal systems restrict governments rather than private companies, and that choosing what to host can itself be a form of expression. Supporters reply that 'censorship' can describe a social or economic power, not only a legal one, but the term is disputed."
+        },
+        {
+          "point": "Assuming open conversation reliably surfaces the best ideas",
+          "explanation": "The 'marketplace of ideas' picture assumes a fair contest. Critics note that platform design often rewards attention rather than accuracy, so the better argument does not always win."
+        },
+        {
+          "point": "Treating a hands-off approach as neutral",
+          "explanation": "Critics say harassment, spam and floods of abuse can drive people away or into silence, so a platform that does nothing may not yield a more diverse conversation."
+        }
+      ]
+    },
+    {
+      "name": "The Active Moderation Camp",
+      "one_liner": "Platforms have a responsibility to remove harassment, dangerous content and abuse, because unmoderated spaces can harm people.",
+      "why_people_believe_this": "People in this camp tend to place a high value on safety, dignity and equal participation in public life. Many have seen or experienced targeted harassment, threats or content that damaged someone's life. They worry that 'anything goes' rules, while neutral on their face, can leave the most aggressive users dominating the conversation.",
+      "strongest_arguments": [
+        {
+          "point": "Harassment silences people too",
+          "explanation": "When someone is threatened or targeted by a pile-on, they often withdraw from the conversation. Supporters argue moderation can widen participation by making it safer for more people to speak."
+        },
+        {
+          "point": "Some content causes concrete harm",
+          "explanation": "Material such as credible threats, child exploitation or coordinated incitement to violence is widely seen as harmful, and platforms are where it can spread. Many see removing it as a basic duty of anyone running a large online space."
+        },
+        {
+          "point": "Platforms already shape what people see, and businesses set norms",
+          "explanation": "Recommendation algorithms already decide what gets seen, so supporters argue the company should act with care for consequences rather than just maximise engagement. They add that bars, newspapers and clubs set standards of conduct all the time, and users and advertisers can expect the same of platforms."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Treating 'harm' as an easy line to draw",
+          "explanation": "Critics say people disagree sharply about what is harmful and what is merely offensive. If the definition of harm keeps expanding, rules can end up covering legitimate disagreement, and supporters don't always say where they would stop."
+        },
+        {
+          "point": "Assuming moderators will use more power fairly",
+          "explanation": "Critics note that enforcement today is often inconsistent and opaque, so it is a leap of faith to expect expanded removal to target the right things."
+        },
+        {
+          "point": "Expecting moderation to fix deeper social problems",
+          "explanation": "Critics say removing posts can treat symptoms while leaving the causes of hostility, distrust and polarization untouched. Some bans may also deepen grievance or push people into more insular spaces."
+        }
+      ]
+    },
+    {
+      "name": "The Transparency and Choice Camp",
+      "one_liner": "Moderation can be legitimate, but it should come with clear rules, real appeals and more user control, so no single company is the sole judge of what we see.",
+      "why_people_believe_this": "People in this camp are often frustrated by the all-or-nothing framing. They value fairness, due process and treating people as capable adults. They have seen both over-removal and under-removal, and they suspect the central question is less whether to moderate than who decides, how, and whether anyone can check the work.",
+      "strongest_arguments": [
+        {
+          "point": "Clear rules and appeals make moderation more legitimate",
+          "explanation": "People are generally more willing to accept a decision if they know the rule, understand why it was applied and can challenge it. Opaque enforcement breeds suspicion on every side."
+        },
+        {
+          "point": "Let users tune their own experience",
+          "explanation": "Filters, blocklists and a choice among different moderation styles could let communities set different standards. That shifts some power from the company to the individual."
+        },
+        {
+          "point": "Outside oversight can reduce the single-gatekeeper problem",
+          "explanation": "Independent review boards, audits or published enforcement data could let the public see whether rules are applied evenly. It is a way of adding checks without choosing between removing everything and removing nothing."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Assuming users will manage their own settings",
+          "explanation": "Critics say most people don't dig into menus, and filters put the burden on the targets of abuse. Harassment can still reach someone even if they could in theory have blocked it."
+        },
+        {
+          "point": "Underestimating cost and speed",
+          "explanation": "Critics note that appeals and audits are slow and expensive when billions of posts are involved, and harmful content can spread in minutes. Procedure may lag behind the problems it is meant to address."
+        },
+        {
+          "point": "Offering process as a way to sidestep the hard question",
+          "explanation": "Critics on several sides say transparency doesn't settle what should be allowed. Perfectly clear rules can still be too strict or too loose."
+        }
+      ]
+    },
+    {
+      "name": "The Public Rules Camp",
+      "one_liner": "Because platforms are so influential, democratically accountable governments should set the basic rules rather than leaving them to companies.",
+      "why_people_believe_this": "This camp is uneasy about private companies making large speech decisions on their own, whether that means removing too much or too little. They value democratic accountability and the rule of law, and they believe questions this important should be answered by courts and elected officials rather than by corporate policy teams that answer to shareholders.",
+      "strongest_arguments": [
+        {
+          "point": "Big decisions deserve democratic legitimacy",
+          "explanation": "If platforms shape public debate, supporters argue the rules around that role belong to the public. Laws can be debated, challenged in court and changed by voters in ways corporate policies can't."
+        },
+        {
+          "point": "Consistency across companies",
+          "explanation": "Shared legal standards could stop a patchwork where each platform improvises its own rules. They could also give users and businesses clearer expectations."
+        },
+        {
+          "point": "Companies have their own incentives",
+          "explanation": "Platforms are driven by profit, advertisers and public relations. Supporters argue that makes them unreliable guardians of either free expression or safety, and that external rules can offset this."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Trusting governments with speech rules",
+          "explanation": "Critics say governments change hands, and those in power may be tempted to pressure platforms against critics or unpopular groups. Many see government-set speech rules as the very thing free expression traditions were built to restrain."
+        },
+        {
+          "point": "Ignoring how differently countries see speech",
+          "explanation": "Societies disagree about what speech should be limited, and platforms operate globally. A rule that works in one legal culture might be oppressive or toothless in another."
+        },
+        {
+          "point": "Assuming laws can keep up with fast-moving technology",
+          "explanation": "Critics note legislation is slow and can be badly drafted, with unintended side effects. Rules written for today's platforms may be awkward or outdated tomorrow."
+        }
+      ]
+    },
+    {
+      "name": "The Platform Discretion Camp",
+      "one_liner": "Platforms are private businesses with their own rights to decide what they host, and neither users nor governments should dictate those choices.",
+      "why_people_believe_this": "People in this camp tend to value property rights, freedom of association and limited government. They see a platform's rules as a form of editorial judgment, much like a newspaper's or a club's. They worry that forcing companies to carry or remove particular speech would hand governments new power over expression, and they expect competition and user choice to discipline bad policies.",
+      "strongest_arguments": [
+        {
+          "point": "Curating is a form of expression",
+          "explanation": "Deciding what to host and how to present it can be an editorial act. Supporters argue that compelling a company to carry speech it objects to is itself a speech problem."
+        },
+        {
+          "point": "Different platforms can offer different rules",
+          "explanation": "If each company sets its own standards, users can pick the community that suits them, and competitors can offer alternatives. Supporters argue this beats a single rulebook imposed on everyone."
+        },
+        {
+          "point": "Government involvement carries its own risks",
+          "explanation": "Rules about speech, even well-meant ones, can be turned against disfavoured groups when power changes hands. Supporters argue it is safer to keep the state out of these decisions."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Assuming users can easily switch platforms",
+          "explanation": "Critics say network effects make it hard to leave a platform where your friends, audience or livelihood are, so competition may be a weaker check than supporters assume."
+        },
+        {
+          "point": "Treating company rules as free from outside pressure",
+          "explanation": "Critics note that platforms respond to advertisers, governments and public campaigns, so 'private choice' may not be as independent as it sounds."
+        },
+        {
+          "point": "Leaving large-scale harms to company goodwill",
+          "explanation": "Critics argue that relying on firms' own discretion offers little protection to users who are harassed, wrongly removed or harmed, and little recourse when a company chooses badly."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Many people across camps agree that some content, like child exploitation and direct threats, should not be tolerated, and many dislike opaque, inconsistent or arbitrary enforcement. Most camps also share a worry about concentrated power, even if they disagree about whose power is most concerning. And many want a public conversation where people feel able to speak and can judge for themselves what they are seeing.",
+  "questions_to_sit_with": [
+    "If a handful of companies host much of public debate, does that change what they owe their users, or should they be treated like any other private business?",
+    "Where does 'offensive but allowed' end and 'harmful enough to remove' begin, and who should get to draw that line?",
+    "Would you rather live with a platform that sometimes removes too much or one that sometimes leaves up too much, and does your answer change depending on who is making the call?"
+  ],
+  "key_facts": [
+    {
+      "fact": "Section 230 of the U.S. Communications Decency Act, passed in 1996, says online services are not treated as the publisher or speaker of what their users post, and protects them from civil liability when they remove or moderate content in good faith.",
+      "source_title": "Section 230 (Wikipedia)",
+      "source_url": "https://en.wikipedia.org/wiki/Section_230"
+    },
+    {
+      "fact": "In Moody v. NetChoice (2024), the U.S. Supreme Court sent Florida and Texas laws regulating how social media platforms moderate content back to the lower courts. Writing for the Court, Justice Kagan said that compiling and curating others’ speech is expressive activity the First Amendment protects, including when a platform excludes only a few posts.",
+      "source_title": "Moody v. NetChoice, LLC (2024) – The Free Speech Center, Middle Tennessee State University",
+      "source_url": "https://firstamendment.mtsu.edu/article/moody-v-netchoice-llc-2024/"
+    },
+    {
+      "fact": "In a 2023 Pew Research Center survey, 65% of U.S. adults said tech companies should take steps to restrict false information online and 55% said the U.S. government should, up from 56% and 39% in 2018. Support was higher among Democrats than Republicans: for example, 70% of Democrats but 39% of Republicans backed government action on false information.",
+      "source_title": "In US, most favor restricting false information, violent content online (Pew Research Center, 2023)",
+      "source_url": "https://www.pewresearch.org/short-reads/2023/07/20/most-americans-favor-restrictions-on-false-information-violent-content-online/"
+    },
+    {
+      "fact": "The European Union’s Digital Services Act gives the strictest obligations to platforms and search engines with 45 million or more users in the EU, which the European Commission oversees directly. Fines can reach up to 6% of a provider’s global annual turnover.",
+      "source_title": "Digital Services Act: Questions and Answers (European Commission)",
+      "source_url": "https://digital-strategy.ec.europa.eu/en/faqs/digital-services-act-questions-and-answers"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:27:54.958Z",
+  "audit": {
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "The hook calls platforms a 'town square' with a 'landlord' handing out 'rulebooks.' The town-square image is the Open Square camp's own framing, since it implies a public forum where speech rights should apply. 'Landlord' adds a loaded property metaphor from the other side.",
+        "favoured_camp": "The Open Square Camp (and, via 'landlord', the property-rights view)",
+        "fix": "Replaced the hook with a plain description of the disagreement that doesn't use either side's metaphor."
+      },
+      {
+        "issue": "The camp names are loaded. 'Open Square' borrows the public-forum metaphor and sounds like freedom. 'Safe Neighborhood' implies the other side is unsafe, and 'safe' is hard to oppose.",
+        "favoured_camp": "Safe Neighborhood and Open Square (both get flattering names)",
+        "fix": "Renamed them 'The Light-Touch Camp' and 'The Active Moderation Camp', which describe their position rather than a virtue."
+      },
+      {
+        "issue": "The 'why people believe' sections differ in warmth and wording. Open Square gets 'the thing that makes every other freedom possible' and 'shouting into a void.' Safe Neighborhood gets 'the loudest and cruelest people,' which is emotionally loaded and caricatures opponents. The one-liner 'unmoderated spaces hurt real people' is also loaded.",
+        "favoured_camp": "Both, unevenly; the Open Square gets the most sympathetic lived-experience framing",
+        "fix": "Rewrote both sections in a parallel, plain register: a value, a typical experience and a worry. Removed the emotive phrases and the loaded one-liner."
+      },
+      {
+        "issue": "Several 'weakest arguments' are really the opposing camp's rebuttal. Open Square's 'Underestimating how much unmoderated spaces can drive people away' is just the Safe Neighborhood argument. 'A lie can travel widely before a correction gets its shoes on' is a folksy aphorism, and it is unclear whom it quotes. 'Treating any moderation as censorship' is close to a strawman, because few believers claim all moderation is censorship.",
+        "favoured_camp": "The Active Moderation and Platform Discretion camps (they get to rebut)",
+        "fix": "Rewrote the weak points as vulnerabilities real adherents would recognise, in neutral phrasing. Removed the aphorism and reframed the 'censorship' point as a debate about whether the label fits."
+      },
+      {
+        "issue": "Unequal argument counts: Light-Touch and Active Moderation each had 4 strong arguments, while Transparency and Public Rules had 3. The two camps with the most detail looked stronger.",
+        "favoured_camp": "Open Square and Safe Neighborhood",
+        "fix": "Standardised every camp at 3 strongest and 3 weakest arguments, merging overlapping points."
+      },
+      {
+        "issue": "A real camp is missing. Some people hold that platforms are private actors with their own editorial and property rights, so neither users nor government should dictate their rules. The Public Rules weakest-argument section half-voices this view, but only as a rebuttal.",
+        "favoured_camp": "The Public Rules and Active Moderation camps (the opposing view is never given its own voice)",
+        "fix": "Added 'The Platform Discretion Camp' with its own motives and arguments. The weak arguments for Public Rules are kept as criticisms."
+      },
+      {
+        "issue": "The first reflection question, 'does that change what they owe us, even though they're private businesses?', presupposes that platforms owe something. That framing leans toward the Active Moderation and Public Rules camps.",
+        "favoured_camp": "The Active Moderation and Public Rules camps",
+        "fix": "Rewrote it as an open question that also allows the answer 'no, they're like any other business.'"
+      },
+      {
+        "issue": "The common ground overclaims with 'Almost everyone agrees' and 'nearly everyone wants.' Some in the Light-Touch camp dispute even the carve-outs, and the 'trust what they're seeing' line is contested.",
+        "favoured_camp": "Moderation-friendly camps",
+        "fix": "Softened to 'Many people across camps' and 'Most camps' and removed the universal claims."
+      },
+      {
+        "issue": "The key_facts set mostly helps the pro-regulation or pro-moderation side. The Pew 2023 item says 'most' favour restrictions and that tech companies are preferred over government. The DSA item describes a regulatory regime with 'strictest obligations.' Together with Pew usage figures, which imply platforms are enormously influential, the set tilts toward Active Moderation and Public Rules.",
+        "favoured_camp": "The Active Moderation and Public Rules camps",
+        "fix": "Kept the facts but tightened the wording of the Pew 2023 and DSA items to neutral, scoped phrasing, since the set cannot be expanded. Left the neutral legal facts (Section 230, Moody) unchanged."
+      },
+      {
+        "issue": "The Pew 2023 fact covers only two content categories, false information and extremely violent content. Presenting it as general support for restricting content could mislead, and the Light-Touch camp would dispute that it speaks to lawful speech generally.",
+        "favoured_camp": "The Active Moderation camp",
+        "fix": "Reworded so the scope is explicit: the survey asked about these two categories only."
+      },
+      {
+        "issue": "The Pew usage fact (84% YouTube, 71% Facebook) could be read as evidence of gatekeeper power. It measures self-reported 'ever use' among US adults, not share of public debate, and it is a dated snapshot. The existing scope note is kept.",
+        "favoured_camp": "The Light-Touch and Public Rules camps (concentrated-power argument)",
+        "fix": "Kept the date and scope wording and removed any suggestion that usage equals influence over debate."
+      },
+      {
+        "issue": "The Moody v. NetChoice fact is neutral but incomplete. It does not state the outcome, and the details cannot be added without new information.",
+        "favoured_camp": "None clearly",
+        "fix": "Left it as is rather than adding unsourced detail."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy, completeness and balance."
+  }
+}

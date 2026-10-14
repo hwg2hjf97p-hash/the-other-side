@@ -1,0 +1,235 @@
+{
+  "topic": "Should healthcare be fully government-funded?",
+  "category": "Politics / Healthcare",
+  "hook": "Many people across the political spectrum say nobody should be ruined financially by a broken leg. The fight is over who holds the wallet, who holds the clipboard, and who gets to say 'no' when the bill comes due. Pull up a chair, because this one is more tangled than your headphones.",
+  "camps": [
+    {
+      "name": "The Single-Payer Camp",
+      "one_liner": "Healthcare is a basic public good, so one government-run fund should pay for everyone's care, the way we fund fire departments.",
+      "why_people_believe_this": "This view usually starts with a moral conviction: getting sick isn't a choice, so access to care shouldn't depend on your job, savings, or luck. Many people here have seen a family member struggle with billing, coverage denials, or a choice between rent and a prescription. They tend to value solidarity, fairness, and simplicity, and they see the current mix of insurers and rules as too complicated and too uneven.",
+      "strongest_arguments": [
+        {
+          "point": "Coverage that can't be lost",
+          "explanation": "Supporters argue that if everyone is automatically covered, losing a job, moving, or getting divorced no longer threatens your access to a doctor. They say people could then change careers, start businesses, or leave bad situations without worrying about health insurance."
+        },
+        {
+          "point": "Less administrative tangle",
+          "explanation": "Supporters argue that many separate insurers with different rules, networks, and billing systems create paperwork for patients and providers. They say one payer with one set of rules could cut overhead and free up money and staff time for care."
+        },
+        {
+          "point": "Bargaining power",
+          "explanation": "Supporters argue that a single buyer covering a whole population can negotiate prices for drugs, devices, and services from a position of strength. They point to other wealthy countries where public payers hold down prices more than fragmented buyers do."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'It will pay for itself'",
+          "explanation": "Savings from lower overhead and tougher price negotiation are possible, but their size is uncertain. Claims that no one will pay more overall can gloss over the fact that the money has to come from somewhere, usually higher taxes, even if premiums and bills disappear."
+        },
+        {
+          "point": "Assuming the transition would be smooth",
+          "explanation": "Moving tens of millions of people off existing coverage, and reshaping a giant industry that employs enormous numbers of people, is complicated. Arguments that treat the switch as simple underestimate the disruption, the politics, and the chance of unintended consequences."
+        },
+        {
+          "point": "Waving off wait times and rationing worries",
+          "explanation": "Critics raise concerns about queues and limits on services when care is free at the point of use. Dismissing these as scare tactics, rather than explaining how a new system would manage demand and capacity, leaves the question unanswered."
+        }
+      ]
+    },
+    {
+      "name": "The Universal-Coverage-Through-a-Mix Camp",
+      "one_liner": "Everyone should be guaranteed coverage, but a blend of public programs, regulated private insurers, and shared responsibility can get there without a single government payer.",
+      "why_people_believe_this": "This camp wants universal coverage but is wary of upending everything at once. They often look at countries that reach universal coverage through regulated insurers, public options, or a mix of both, and conclude there is more than one road to the destination. They value pragmatism, choice, and the idea that big changes work best when they build on what already exists.",
+      "strongest_arguments": [
+        {
+          "point": "Universal goals, flexible tools",
+          "explanation": "Supporters note that several countries cover everyone using regulated private or nonprofit insurers alongside public funding. They argue this shows universal access doesn't require one specific structure, which leaves room to pick what fits local politics and habits."
+        },
+        {
+          "point": "Less shock to the system",
+          "explanation": "Supporters argue that building on existing coverage, such as expanding public programs or adding a public option, avoids asking everyone to give up their current plan overnight. For people who like their coverage, that continuity matters."
+        },
+        {
+          "point": "Choice and competition as pressure valves",
+          "explanation": "Supporters argue that multiple plans, or a public option competing with private ones, can give people alternatives and give insurers a reason to improve. If one part of the system is failing, there is somewhere else to go."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Complexity as a feature",
+          "explanation": "A mix of rules, subsidies, and mandates can be hard for ordinary people to navigate, which is one of the complaints about the current system. Defending the arrangement as 'pragmatic' doesn't fix the confusion it can create."
+        },
+        {
+          "point": "Assuming regulation will be well-designed",
+          "explanation": "This model depends on well-crafted rules, such as subsidies, mandates, and limits on insurer behavior, staying well-crafted under lobbying and political change. Critics say that trusting it will is optimistic, since gaps and loopholes can open over time."
+        },
+        {
+          "point": "Being a compromise isn't a reason in itself",
+          "explanation": "Pointing to the middle as the sensible place to land doesn't show that it works better. Camps on either side argue that half-measures keep the drawbacks of both approaches: still costly, still complicated, and still leaving some people behind."
+        }
+      ]
+    },
+    {
+      "name": "The Market-and-Choice Camp",
+      "one_liner": "Healthcare works best with competition, prices people can see, and individual choice, with government help focused on those who cannot afford care.",
+      "why_people_believe_this": "People here often value personal freedom and are wary of concentrated power. They also want people to get good care, but believe choice and competition deliver it better than central planning. Many have had experiences with government programs that felt slow or unresponsive. Others work in or near healthcare, or have had experiences where choice, speed, or innovation made a real difference. They worry that a single government funder would hold too much power over what treatments exist, who gets them, and when, and they think the system's problems come from too little market discipline rather than too much. Some also object in principle to treating healthcare as an entitlement that others must be required to fund.",
+      "strongest_arguments": [
+        {
+          "point": "Prices respond to pressure",
+          "explanation": "Supporters argue that when patients can see prices and compare options, providers have a reason to compete on cost and quality. They say much of healthcare's cost problem comes from the fact that people rarely see or choose what they pay for, and that restoring that link can bring costs down."
+        },
+        {
+          "point": "Innovation and responsiveness",
+          "explanation": "Supporters argue that competitive systems with financial rewards for new treatments and technologies encourage faster innovation. They worry that government as the sole buyer could slow that down, because one budget-setting body decides what gets paid for."
+        },
+        {
+          "point": "Concentrated power is risky",
+          "explanation": "Supporters argue that putting nearly all funding in one political institution means healthcare decisions can become entangled with budget fights and shifting political priorities. They say spreading power across many payers and providers means no single decision-maker controls access for everyone."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Overstating how far price shopping can work",
+          "explanation": "Shopping around is difficult in an emergency or with a complicated diagnosis you can't judge for yourself. Information gaps between doctor and patient are bigger than in most markets, so claims that price transparency alone will bring costs down may promise more than it can deliver."
+        },
+        {
+          "point": "Relying on targeted aid and safety nets to fill the gaps",
+          "explanation": "The argument that targeted aid, charity, or emergency care can cover those who can't afford insurance is contested. Critics say it underestimates how many people, such as those with pre-existing conditions or low-wage jobs with no coverage, would be left without adequate care."
+        },
+        {
+          "point": "Pointing to the system we already have as evidence for markets",
+          "explanation": "Today's arrangements in many places are a heavy mix of subsidies, regulation, and employer-linked coverage, not a free market. Citing high costs as proof that government is the problem, or that markets would fix it, doesn't cleanly separate what each is responsible for."
+        }
+      ]
+    },
+    {
+      "name": "The 'Fix Cost and Supply First' Camp",
+      "one_liner": "Who pays matters less than why care costs so much and why there aren't enough doctors, nurses, and facilities; fix that, or any funding model will struggle.",
+      "why_people_believe_this": "This camp tends to see the central problems as practical ones that apply to every system, such as prices, workforce shortages, and regulation, and is skeptical that changing who pays will solve them. They tend to value concrete results and think the debate focuses too heavily on single-payer versus private. Some have worked inside hospitals or clinics and seen how rules, licensing, and billing complexity shape what care is actually available.",
+      "strongest_arguments": [
+        {
+          "point": "Money can't buy what doesn't exist",
+          "explanation": "Supporters argue that if there aren't enough clinicians, appointments, or hospital beds, covering everyone on paper won't guarantee timely care. They say training pipelines, licensing rules, and capacity limits affect access under any funding model."
+        },
+        {
+          "point": "Prices are a problem on their own",
+          "explanation": "Supporters argue that whoever pays, high prices for drugs, procedures, and administration strain budgets. They say tackling pricing, billing complexity, and waste directly could make any system, public or private, more affordable and sustainable."
+        },
+        {
+          "point": "Both sides' big plans may be missing the point",
+          "explanation": "Supporters argue that fierce arguments over funding structure can distract from smaller, concrete reforms, like changing how providers are paid or cutting unnecessary regulatory barriers, that could help people sooner and with less political risk."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Treating funding as a side issue",
+          "explanation": "Critics say who pays shapes incentives, prices, and who gets left out, so it isn't separate from cost and supply. They argue that treating it as secondary sidesteps the situation of people who lack coverage today, whatever the longer-term fixes."
+        },
+        {
+          "point": "Vague on how the fixes would happen",
+          "explanation": "Calls to fix prices, workforce, and regulation can stay general. Existing arrangements have beneficiaries who may resist change, so these reforms can be politically hard, and without a plan the position can sound like 'everything should be better.'"
+        },
+        {
+          "point": "Slow reforms for urgent problems",
+          "explanation": "Reforming training pipelines and cost structures can take years or decades. For someone facing unaffordable care today, a call to focus on long-term supply issues can feel like a way of delaying an answer."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Most camps agree that medical bankruptcy is a bad outcome, that costs are higher or more burdensome than anyone wants, that many people find the system hard to navigate, and that people should be able to get care when they have a serious need. The disagreement is mostly about how to get there, what to risk along the way, and how much to trust governments, markets, or some mix of the two to deliver.",
+  "questions_to_sit_with": [
+    "When guaranteed coverage for everyone and individual choice over coverage and providers pull in different directions, which would you prioritize? Do you think both can be fully achieved, and at what cost?",
+    "How much do you trust a large institution, whether a government agency or an insurance company, to make decisions about care when money is tight? What would make you trust it more?",
+    "If a change might help some people over time but disrupt others in the short term, how should that tradeoff be weighed, and how confident would you need to be in the expected benefits?"
+  ],
+  "key_facts": [
+    {
+      "fact": "The U.S. Census Bureau found that 92.0% of people in the United States (305.2 million) had health insurance for some or all of 2023. 65.4% had private coverage and 36.3% had public coverage; some people have both.",
+      "source_title": "Health Insurance Coverage in the United States: 2023 (U.S. Census Bureau)",
+      "source_url": "https://www.census.gov/library/publications/2024/demo/p60-284.html"
+    },
+    {
+      "fact": "According to the Centers for Medicare & Medicaid Services, U.S. health care spending (public and private combined) grew 7.2% in 2024 to $5.3 trillion, or $15,474 per person, equal to 18.0% of the country’s GDP.",
+      "source_title": "National Health Expenditure Data: Historical (Centers for Medicare & Medicaid Services)",
+      "source_url": "https://www.cms.gov/data-research/statistics-trends-and-reports/national-health-expenditure-data/historical"
+    },
+    {
+      "fact": "KFF reports that in 2023 most U.S. residents had private insurance, with nearly half covered through an employer. About 1 in 5 had Medicaid and roughly 15% had Medicare, both government programs, and 7.9% were uninsured.",
+      "source_title": "The Uninsured Population and Health Coverage (KFF Health Policy 101)",
+      "source_url": "https://www.kff.org/uninsured/health-policy-101-the-uninsured-population-and-health-coverage/"
+    },
+    {
+      "fact": "The OECD’s Health at a Glance 2023 note on the United States reports health spending of $12,555 per person, compared with an OECD average of $4,986, equal to 16.6% of GDP versus 9.2% on average. U.S. life expectancy was 76.4 years, 3.9 years below the OECD average, and 91% of the population was covered for a core set of services. 75% of people were satisfied with the availability of quality health care, above the OECD average of 67%.",
+      "source_title": "OECD Health at a Glance 2023 Country Note: The United States",
+      "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/health-at-a-glance-2023_39bcb58d/united-states_1bd99de8/4268c3ef-en.pdf"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:29:00.473Z",
+  "audit": {
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "The single-payer 'why people believe this' section is the warmest and most emotional in the entry. It uses 'drowning in paperwork', 'left a mark' and 'needlessly cruel and confusing', and it frames the current system in the camp's own harshest terms. The market camp's section is cooler and framed around distrust, and mentions government programs as 'slow, wasteful, or unresponsive'. The mix and fix camps get mild, flattering words ('pragmatism', 'practical results over ideology').",
+        "favoured_camp": "Single-Payer Camp (and, in tone, the Mix and Fix camps over the Market camp)",
+        "fix": "Rewrote all four motivation sections in a similar register. Each now names a values basis and a kind of personal experience, without vivid or flattering language."
+      },
+      {
+        "issue": "Hedging is uneven. Single-payer strengths are stated as flat assertions ('no longer threatens your access', 'could cut a lot of that overhead'). Market strengths are wrapped in 'Supporters argue', 'may encourage' and 'Supporters worry'. This makes the market case read as less credible.",
+        "favoured_camp": "Single-Payer Camp",
+        "fix": "Attributed claims to supporters consistently across camps and removed extra hedges like 'may' from the market arguments."
+      },
+      {
+        "issue": "The mix camp is described as sharing 'the single-payer camp's belief that no one should go without care'. This implies that only the left-leaning camps hold the compassionate goal and positions the mix as a softened single-payer. The market camp is not credited with caring about access.",
+        "favoured_camp": "Single-Payer Camp / Mix Camp",
+        "fix": "Reworded the mix camp so it stands on its own and says nothing about whose goals are shared. Added to the market camp's description that its supporters also want people to get care, and differ on the means."
+      },
+      {
+        "issue": "The market one-liner says government help should go to those who 'truly' can't afford care. 'Truly' implies other people are faking, which is a loaded word that no market advocate would use for themselves.",
+        "favoured_camp": "Single-Payer Camp",
+        "fix": "Replaced it with 'those who cannot afford care'."
+      },
+      {
+        "issue": "The market camp's weakest arguments are partly strawmen. Few market advocates claim that people shop for care while unconscious, so 'Treating healthcare like any other market' is easy to knock down. The charity item also states as fact that people 'fall through the cracks'. The single-payer weak points are more of a real internal critique.",
+        "favoured_camp": "Single-Payer Camp",
+        "fix": "Recast the market weak points as arguments advocates actually make. These are overstating how far price shopping can discipline costs, relying on targeted aid or safety nets, and citing the current system as evidence for markets. The claims about gaps in coverage are attributed to critics."
+      },
+      {
+        "issue": "In the single-payer weak argument on wait times, the phrase 'Critics raise real concerns' endorses the critics' claim in the entry's own voice. No other camp's opponents get this validation.",
+        "favoured_camp": "Market-and-Choice Camp",
+        "fix": "Made the wording neutral: critics raise concerns about queues and limits, and supporters have not always explained how capacity would be managed."
+      },
+      {
+        "issue": "The fix-camp weak arguments carry unsourced, one-sided assertions. 'Powerful groups benefit from the current arrangements' is stated as fact. 'People without coverage are harmed right now' is the single-payer framing, and it is stated in the entry's own voice.",
+        "favoured_camp": "Single-Payer Camp",
+        "fix": "Attributed the harm claim to critics and softened the statement about vested interests to 'existing arrangements have beneficiaries who may resist change'."
+      },
+      {
+        "issue": "The fix-camp motivation uses a condescending 'plumbing problem' metaphor and says its supporters are 'frustrated' that the debate is stuck.",
+        "favoured_camp": "None (tone issue)",
+        "fix": "Replaced the metaphor with neutral language."
+      },
+      {
+        "issue": "The hook and the common ground assume consensus that is contestable. 'Almost everyone agrees nobody should go bankrupt over a broken leg' is a rhetorical framing that sets the terms of the debate in a way some camps may not accept. 'Almost every camp agrees' the system is too confusing is not something every camp would say, because market advocates may see the problem as too little price visibility instead.",
+        "favoured_camp": "Single-Payer Camp",
+        "fix": "Softened the hook to 'Many people across the spectrum' and the common ground to 'most camps', and described the confusion complaint as one that 'many' share."
+      },
+      {
+        "issue": "Reflection questions 1 and 3 are slanted. Q1 sets 'certainty that no one goes without care' against 'freedom to choose', which is a framing that favours the guarantee. Q3 presupposes that the change 'would help many people over time', which assumes reform works.",
+        "favoured_camp": "Single-Payer Camp",
+        "fix": "Reworded Q1 as a neutral tradeoff question. Reworded Q3 to treat benefits as uncertain."
+      },
+      {
+        "issue": "Key facts: several lack scope or date information. The CBO figure is partly a projection to 2033, and it is unclear what it covers. The KFF fact names only some coverage categories and could be read as the complete public/private split. The OECD 'spends more per capita' fact has no outcome context and is not dated. Together the facts lean towards 'US costs are high', with nothing on supply, wait times or outcomes.",
+        "favoured_camp": "Single-Payer Camp (mildly)",
+        "fix": "Kept all five facts, because each is sourced and defensible, but reworded them to state their scope and year and to separate estimates from projections. No new facts or figures were added. The absence of supply and wait-time facts could not be fixed without adding facts, which is not allowed."
+      },
+      {
+        "issue": "Missing perspective: some people oppose a guaranteed-coverage framework on principle, for example on the ground that compelling others to fund care is the wrong basis for a right. The market camp covers only the instrumental case for markets.",
+        "favoured_camp": "Single-Payer and Mix Camps",
+        "fix": "Added to the market camp's motivation that some supporters also object in principle to treating healthcare as an entitlement that others must fund."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy, completeness and balance; one fact was updated to newer official data and one that could not be verified was removed."
+  }
+}

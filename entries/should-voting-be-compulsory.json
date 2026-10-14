@@ -1,0 +1,212 @@
+{
+  "topic": "Should voting be compulsory?",
+  "category": "Politics / Elections",
+  "hook": "Some countries require citizens to vote or face a penalty, while others treat the choice to stay home as part of democratic freedom. A third group says the focus should be on making voting easier. Each side believes it is the one taking democracy seriously.",
+  "camps": [
+    {
+      "name": "Voting Is a Civic Duty, So Require It",
+      "one_liner": "Supporters see voting as a shared obligation, like jury service, and think the law should treat it that way.",
+      "why_people_believe_this": "People in this camp tend to see democracy as a collective project rather than a menu of personal options. Many are concerned that elections can be decided by whichever groups are most motivated or best organized. They often value fairness and shared responsibility, and they worry that a democracy in which mainly the enthusiastic take part may become less representative of the whole population.",
+      "strongest_arguments": [
+        {
+          "point": "It may make the result reflect more of the population",
+          "explanation": "When turnout is voluntary, those who vote can differ from those who don't in age, income, and circumstances. Supporters argue that compulsion brings in people who would otherwise be left out, so the outcome says more about the country as a whole."
+        },
+        {
+          "point": "It can change how campaigns work",
+          "explanation": "If everyone must vote, supporters argue, parties have less reason to pour resources into getting their own fans to the polls and more reason to persuade people in the middle. They say this could soften the pull toward energizing the base with the loudest messages."
+        },
+        {
+          "point": "We already accept other civic obligations",
+          "explanation": "Jury duty, paying taxes, and in some places census participation are all required because the system depends on them. Supporters say it's consistent to treat the foundation of self-government the same way, especially when the demand is small: showing up."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "High turnout means a healthy democracy",
+          "explanation": "Critics note that turnout is a number, and a full polling place doesn't show that people are engaged or informed. Compelled participation can produce ballots cast out of irritation or indifference, which may not improve the quality of decisions."
+        },
+        {
+          "point": "The penalty is small, so it isn't really coercion",
+          "explanation": "Critics say a small fine can feel minor to a comfortable person and heavy to someone living paycheck to paycheck. They also argue that the principle of the state penalizing non-participation matters regardless of the amount."
+        },
+        {
+          "point": "Compulsion addresses the reasons people don't vote",
+          "explanation": "Some people abstain because of barriers like work schedules, distance, or distrust of the system. Critics say a requirement doesn't remove those obstacles, and it can feel like blaming the people the system has failed."
+        }
+      ]
+    },
+    {
+      "name": "Freedom Includes the Freedom Not to Vote",
+      "one_liner": "Supporters believe a free citizen should be able to choose whether to take part, and that requiring participation conflicts with the liberty voting is meant to express.",
+      "why_people_believe_this": "This camp starts from the idea that the relationship between a person and the state should rest on consent. Many are wary of government compulsion, sometimes because of history, family experience, or personal conviction. They tend to see a vote as most meaningful when it is freely chosen, and they hold that the right to take part includes the right not to.",
+      "strongest_arguments": [
+        {
+          "point": "A right includes the right to decline",
+          "explanation": "We generally think free speech includes the freedom to stay silent. By the same logic, supporters argue the right to vote should include the right to abstain, and that treating it as a duty changes what kind of right it is."
+        },
+        {
+          "point": "Forced votes may be lower-quality votes",
+          "explanation": "Supporters of this view argue that someone who doesn't know or care about the options may pick randomly, go with the first name on the ballot, or vote out of resentment. They say this adds noise rather than considered judgment, and that a smaller group of motivated voters isn't necessarily less legitimate."
+        },
+        {
+          "point": "Non-voting can be a message",
+          "explanation": "Staying home can express disillusionment with every available choice. Supporters argue that compulsion removes that signal, or pushes it into spoiled ballots, which can obscure how much dissatisfaction exists."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Not voting is simply a free choice",
+          "explanation": "Critics say whether someone votes is shaped by time, transportation, work, health, and information. Describing abstention as purely a choice can overlook how those constraints make participation easier for some groups than others."
+        },
+        {
+          "point": "Compulsory voting could lead to broader government mandates",
+          "explanation": "Compulsion supporters point to countries that use it and still hold competitive elections. Critics of the slippery-slope argument say it needs to explain why one specific requirement would lead to larger ones."
+        },
+        {
+          "point": "Low turnout isn't a real problem",
+          "explanation": "Critics say that if very large groups consistently stay out, elected officials may respond mostly to those who do vote. Treating abstention as simply their choice can skip over whether the system is serving everyone."
+        }
+      ]
+    },
+    {
+      "name": "Make Voting Easier and More Appealing Instead",
+      "one_liner": "Supporters prefer to lower the obstacles to voting and strengthen reasons to take part, while leaving the final choice to the individual.",
+      "why_people_believe_this": "Many in this camp have seen up close how hard voting can be: long lines, inflexible work hours, confusing registration, or polling places that are hard to reach. They tend to value both participation and individual choice. For them, the question is less 'should voting be required?' and more 'what makes voting hard or unappealing in the first place?'",
+      "strongest_arguments": [
+        {
+          "point": "Low turnout can be partly a design problem",
+          "explanation": "Registration rules, voting days that fall on workdays, and limited polling hours can all discourage people who might otherwise participate. Supporters argue that addressing these can raise turnout without penalizing anyone."
+        },
+        {
+          "point": "Willing participation may build lasting engagement",
+          "explanation": "If people feel the system is welcoming and responsive, supporters argue, they are more likely to feel invested. They contend that engagement built on motivation tends to last longer than engagement built on the threat of a fine."
+        },
+        {
+          "point": "It aims to respect both liberty and inclusion",
+          "explanation": "Tools like early voting, mail ballots, automatic registration, and holiday elections aim to widen participation while leaving the choice with the individual. Supporters say this appeals to people uneasy about both exclusion and coercion."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Make it easy enough and everyone will vote",
+          "explanation": "Critics note that even where voting is very convenient, many people still don't turn out. Convenience helps, but it may not reach people who feel disconnected or unconvinced that their vote matters."
+        },
+        {
+          "point": "Reforms will happen soon enough",
+          "explanation": "Changing voting rules often depends on politicians who may benefit from the current system, so critics worry that reform could take a long time or stall."
+        },
+        {
+          "point": "A middle path avoids the drawbacks of both sides",
+          "explanation": "Critics say access improvements come with their own costs and trade-offs. If the main issue is deep disengagement or distrust rather than logistics, they argue, these measures may leave the underlying problem untouched."
+        }
+      ]
+    }
+  ],
+  "common_ground": "Many people on all sides want a democracy where results are legitimate and ordinary people feel heard. Many also agree that voting shouldn't be needlessly difficult, though they differ on how much low participation is a problem in itself. The disagreement is largely about means: a legal requirement, a free choice, or changes to how voting works.",
+  "questions_to_sit_with": [
+    "Is voting more like a right you can use or decline, or more like a shared duty that holds the system up?",
+    "If someone abstains because no option represents them, what does that tell us, and who should respond to it?",
+    "What are the benefits and costs of a democracy relying on legal requirements, and of one relying on voluntary participation?"
+  ],
+  "key_facts": [
+    {
+      "fact": "International IDEA, which tracks compulsory voting worldwide, records penalties for not voting that range from having to give an explanation, to fines, to (in principle) loss of some civil rights or possible imprisonment, and notes whether each country actually enforces its law. It says any exact count of compulsory-voting countries is “quite arbitrary”, because laws and enforcement vary so much.",
+      "source_title": "Compulsory Voting – International IDEA Voter Turnout Database",
+      "source_url": "https://www.idea.int/data-tools/data/voter-turnout-database/compulsory-voting"
+    },
+    {
+      "fact": "As of 2021, Pew Research Center reported, citing International IDEA, that 27 countries had compulsory voting laws, but that they were enforced in only 14 of them. France, Germany, the UK and the US had no mandatory voting.",
+      "source_title": "More in Western Europe say mandatory voting is important than in U.S.",
+      "source_url": "https://www.pewresearch.org/short-reads/2021/05/18/many-western-europeans-think-mandatory-voting-is-important-but-americans-are-split/"
+    },
+    {
+      "fact": "Australia has compulsory voting. Turnout in its 2022 federal election was 89.82% of enrolled voters, the lowest since compulsory voting was introduced there.",
+      "source_title": "2022 Australian federal election",
+      "source_url": "https://en.wikipedia.org/wiki/2022_Australian_federal_election"
+    },
+    {
+      "fact": "In the US, where voting is voluntary, Census Bureau data analysed by USAFacts shows the most common reasons registered non-voters gave for not voting in 2024 were “not interested” (19.7%), “too busy” (17.8%) and disliking the candidates or campaign issues (14.7%). Not being interested was also the top reason in 2020. These are self-reported survey answers.",
+      "source_title": "How many Americans voted in 2024?",
+      "source_url": "https://usafacts.org/articles/how-many-americans-voted-in-2024/"
+    }
+  ],
+  "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
+  "generated_at": "2026-10-14T04:23:06.444Z",
+  "audit": {
+    "balance_score_of_draft": "5",
+    "problems_fixed": [
+      {
+        "issue": "The hook says 'fine you' and 'a legitimate act of democratic freedom'. It gives the freedom side the legitimacy language and makes compulsion sound punitive. It also ignores the third camp.",
+        "favoured_camp": "Freedom Includes the Freedom Not to Vote",
+        "fix": "Rewrote the hook in neutral terms about requiring versus choosing, and mentioned the access-focused camp."
+      },
+      {
+        "issue": "The third camp's name, 'Fix the Barriers, Not the Citizens', implies the compulsion camp blames citizens. The camp is also described as 'practical' and as looking for a way to 'get both' liberty and participation, which is a flattering, warmer tone than the other two receive.",
+        "favoured_camp": "Fix the Barriers, Not the Citizens",
+        "fix": "Renamed it neutrally and removed the flattering descriptors, so its motivations are described in the same register as the others."
+      },
+      {
+        "issue": "Emotionally loaded framing in the motivation sections: the compulsion camp 'find that unsettling' and fear democracy 'slowly drifts away'. The freedom camp has a 'deep wariness' and the 'dignity of voting'. The motivations are written with uneven emotional colouring.",
+        "favoured_camp": "Both the compulsion and freedom camps, unevenly",
+        "fix": "Rewrote all three motivation paragraphs in matching, plainer language."
+      },
+      {
+        "issue": "The one-liners state contested claims as fact: voting 'works best' as an obligation, and forcing participation 'undermines the liberty voting is meant to protect'.",
+        "favoured_camp": "Both the compulsion and freedom camps",
+        "fix": "Reworded the one-liners as what each camp believes."
+      },
+      {
+        "issue": "Several strongest arguments are stated as established fact without attribution. Examples: compulsion 'pulls in people who would otherwise be left out' and 'the outcome says more about the country'; forced votes 'add noise'; a smaller motivated group 'isn't necessarily worse'.",
+        "favoured_camp": "Both the compulsion and freedom camps",
+        "fix": "Attributed the claims to supporters or opponents and hedged them."
+      },
+      {
+        "issue": "The 'weakest arguments' are uneven. Some are strawmen no one really holds, such as 'Voluntary voting is purely a free choice', 'Make it easy enough and everyone will vote', and 'A middle path is automatically the wise one'. Others are used to take swipes at the camp's own position. The compulsion camp's weak points are real, but the freedom and access camps' weak points are easy to knock down.",
+        "favoured_camp": "Compulsion camp, partly; the access camp's rival positions get easy rebuttals",
+        "fix": "Replaced them with weaker-but-real versions of each camp's arguments, each framed as 'critics say'."
+      },
+      {
+        "issue": "The slippery-slope rebuttal asserts, without a source, that compulsory-voting countries are 'generally still open, competitive democracies'. That is an unsupported empirical claim that favours the compulsion camp.",
+        "favoured_camp": "Voting Is a Civic Duty, So Require It",
+        "fix": "Hedged it as something compulsion supporters point to, and noted that critics want an explanation of why one requirement leads to others."
+      },
+      {
+        "issue": "The 'Reforms will actually happen' item ends by telling readers compulsion supporters see compulsion as 'a more direct tool'. The camp's weak point is turned into an advertisement for another camp.",
+        "favoured_camp": "Voting Is a Civic Duty, So Require It",
+        "fix": "Removed the promotional line and kept the point self-contained."
+      },
+      {
+        "issue": "The common ground says 'nearly everyone' agrees that very low participation is a worry. The freedom camp's own weak-argument list shows that some people hold 'low turnout doesn't matter'. The paragraph also makes the access camp's position the consensus ('voting shouldn't be needlessly difficult').",
+        "favoured_camp": "Fix the Barriers, Not the Citizens",
+        "fix": "Hedged the claims ('many', 'often') and stated the disagreement about means more even-handedly."
+      },
+      {
+        "issue": "The questions to sit with are loaded. 'Failure of the citizen or a message to the system?' is a binary that favours the abstention-as-protest view. 'Legal requirements versus trust and motivation' pairs a cold framing with a warm one.",
+        "favoured_camp": "Freedom Includes the Freedom Not to Vote; Fix the Barriers",
+        "fix": "Reworded the questions to be symmetrical and open."
+      },
+      {
+        "issue": "Key fact 1 includes cherry-picked examples (Uruguay 'not practiced until 1970', Venezuela 'abandoned it') that suggest compulsory voting is hard to sustain. 'Minority of countries' is also undated.",
+        "favoured_camp": "Freedom Includes the Freedom Not to Vote",
+        "fix": "Removed the examples and kept the description of what the database covers."
+      },
+      {
+        "issue": "Key fact 2 adds a registration-requirement sentence that is irrelevant to compulsion and invites an inference. It also leans on a 2021 count without making clear it is a snapshot.",
+        "favoured_camp": "Fix the Barriers, Not the Citizens",
+        "fix": "Dropped the registration sentence and kept the dated count and the list of non-compulsory countries."
+      },
+      {
+        "issue": "Key fact 3 mentions the 2.07-point drop in Australian turnout, which implies compulsion is imperfect and slipping. It also presents a registered-voter turnout figure without saying that it does not cover all eligible people.",
+        "favoured_camp": "Freedom Includes the Freedom Not to Vote",
+        "fix": "Removed the drop and the registration total, and stated that the figure is a share of registered voters."
+      },
+      {
+        "issue": "Key fact 4 reports 'lack of interest' as a top reason in a way that supports 'it's not about barriers', which cuts against the access camp. The 'conflicting priorities' wording is vague, with no figures, and the facts overall carry nothing for the access camp's side.",
+        "favoured_camp": "Voting Is a Civic Duty / Freedom camp over the access camp",
+        "fix": "Kept the fact, since the source can't be altered, but worded it neutrally and flagged that the answers are self-reported and don't show what would change behaviour."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy, completeness and balance."
+  }
+}
