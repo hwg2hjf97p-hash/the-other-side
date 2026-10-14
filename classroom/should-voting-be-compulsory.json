@@ -1,0 +1,138 @@
+{
+  "slug": "should-voting-be-compulsory",
+  "year_levels": "Years 7–12",
+  "duration": "60 minutes (45-minute version included)",
+  "overview": "Students explore three main views on compulsory voting, using Australia — one of the few countries that enforces it — as the case study. They practise explaining views they may not hold, separating arguments from the values behind them, and checking how reliable and up to date a source is.",
+  "learning_intentions": [
+    "Understand the main viewpoints on compulsory voting and why people hold them.",
+    "Tell the difference between an argument, the evidence behind it, and the values underneath it.",
+    "Evaluate sources for reliability, purpose and currency."
+  ],
+  "success_criteria": [
+    "I can explain each camp’s view in a way its supporters would agree with.",
+    "I can identify one strength and one weakness of each camp.",
+    "I can write the strongest case for a view I don’t hold.",
+    "I can judge which of two sources is more reliable for a specific claim, and explain why."
+  ],
+  "curriculum_links": [
+    { "area": "Civics and Citizenship (Years 7–10)", "detail": "Australia’s democratic system and how citizens participate in it, including voting and the role of the Australian Electoral Commission." },
+    { "area": "English (Years 7–10)", "detail": "Analysing how persuasive texts use reasoning and evidence, and creating persuasive texts." },
+    { "area": "General capability: Critical and Creative Thinking", "detail": "Inquiring, and analysing, synthesising and evaluating reasoning." },
+    { "area": "General capability: Ethical Understanding", "detail": "Exploring different values and perspectives on a contested issue." },
+    { "area": "Senior secondary (Years 11–12)", "detail": "Suits Legal Studies, politics subjects and debating." }
+  ],
+  "curriculum_note": "Links are described at a general level. Check the exact content descriptions for your state or territory’s implementation of the Australian Curriculum (Version 9).",
+  "australian_context": [
+    {
+      "fact": "Enrolment for federal elections became compulsory in 1912, and in 1924 the Electoral Act was amended to make voting at federal elections compulsory, to increase turnout and reduce party campaign spending.",
+      "source_title": "Electoral Backgrounder: Compulsory voting (Australian Electoral Commission, updated March 2025)",
+      "source_url": "https://www.aec.gov.au/about_aec/publications/backgrounders/compulsory-voting.htm"
+    },
+    {
+      "fact": "If the AEC’s records show you didn’t vote, you receive a notice. You can show that you did vote, give a valid and sufficient reason for not voting, or pay a $20 administrative penalty.",
+      "source_title": "Non-voters (Australian Electoral Commission, updated July 2025)",
+      "source_url": "https://www.aec.gov.au/Elections/non-voters.htm"
+    },
+    {
+      "fact": "At the 2022 federal election, 89.82% of enrolled Australians voted for the House of Representatives. Turnout varied from 92.43% in Tasmania to 73.08% in the Northern Territory.",
+      "source_title": "2022 federal election: House of Representatives turnout by state (AEC Tally Room)",
+      "source_url": "https://results.aec.gov.au/27966/Website/HouseTurnoutByState-27966.htm"
+    }
+  ],
+  "simple_camps": [
+    {
+      "one_liner": "Voting is a job every citizen should do, so the law should require it.",
+      "why_people_believe_this": "People in this camp see democracy as a team effort. They worry that if only keen people vote, the results won’t reflect everyone.",
+      "strongest_arguments": [
+        { "point": "More people’s views count", "explanation": "When voting is optional, some groups vote much less than others. Making it compulsory brings everyone’s voice into the result." },
+        { "point": "Politicians have to appeal to everyone", "explanation": "If everyone votes, parties can’t just rally their own fans. They need to win over people in the middle." },
+        { "point": "We already have other duties", "explanation": "We have to go to school, pay taxes and do jury duty. Voting keeps the whole system running, and it only asks you to turn up." }
+      ],
+      "weakest_arguments": [
+        { "point": "“Full polling places mean a healthy democracy”", "explanation": "Critics say turnout is just a number. People forced to vote may not be informed or interested." },
+        { "point": "“The fine is small, so it’s fair”", "explanation": "A $20 fine can feel tiny to some people and big to others. Some say the government shouldn’t fine people for this at all." },
+        { "point": "“Compulsion fixes why people don’t vote”", "explanation": "Some people skip voting because of work, distance or distrust. A rule doesn’t remove those problems." }
+      ]
+    },
+    {
+      "one_liner": "In a free country, you should be able to choose whether to vote.",
+      "why_people_believe_this": "People here believe the government shouldn’t force people to take part. They think a vote means the most when it’s freely given.",
+      "strongest_arguments": [
+        { "point": "A right includes the right to say no", "explanation": "Free speech includes the freedom to stay quiet. In the same way, they say the right to vote should include the right not to." },
+        { "point": "Forced votes may be careless votes", "explanation": "Someone who doesn’t care might just number the boxes in order down the page (a ‘donkey vote’). They say this adds noise, not good judgement." },
+        { "point": "Not voting can send a message", "explanation": "Staying home can show you don’t like any of the choices. Forcing people to vote hides that message." }
+      ],
+      "weakest_arguments": [
+        { "point": "“Not voting is always a free choice”", "explanation": "Critics say things like work, transport and health make voting harder for some people than others." },
+        { "point": "“Compulsory voting leads to more government control”", "explanation": "Critics point out that countries with compulsory voting, like Australia, still have free, competitive elections." },
+        { "point": "“Low turnout isn’t a problem”", "explanation": "Critics say that if big groups never vote, politicians may mostly listen to the people who do." }
+      ]
+    },
+    {
+      "one_liner": "Don’t force people — remove the things that stop them voting instead.",
+      "why_people_believe_this": "People here have seen how hard voting can be: long queues, work hours and confusing forms. They want both freedom and high turnout.",
+      "strongest_arguments": [
+        { "point": "Low turnout is partly a design problem", "explanation": "Voting on a workday, short opening hours and tricky registration all put people off. Fix those, and more people vote without anyone being fined." },
+        { "point": "Wanting to vote lasts longer", "explanation": "If people feel welcome and listened to, they stay involved. A fine might get people there once, but it can’t make them care." },
+        { "point": "It respects freedom and inclusion", "explanation": "Early voting, postal votes and automatic enrolment widen participation while still leaving the choice to each person." }
+      ],
+      "weakest_arguments": [
+        { "point": "“Make it easy and everyone will vote”", "explanation": "Critics note that even where voting is very easy, many people still don’t vote." },
+        { "point": "“Changes will happen soon”", "explanation": "Voting rules are often set by politicians who benefit from the current system, so change can be slow." },
+        { "point": "“A middle path avoids every problem”", "explanation": "If the real issue is distrust rather than convenience, easier voting may not fix it." }
+      ]
+    }
+  ],
+  "vocabulary": [
+    { "term": "Compulsory", "meaning": "Required by law." },
+    { "term": "Enrolment", "meaning": "Being on the electoral roll — the official list of people allowed to vote." },
+    { "term": "Turnout", "meaning": "The percentage of enrolled people who actually vote." },
+    { "term": "Abstain", "meaning": "To choose not to vote." },
+    { "term": "Informal vote", "meaning": "A ballot that can’t be counted, for example because it’s blank or filled in incorrectly." },
+    { "term": "Donkey vote", "meaning": "A ballot numbered straight down the page in order, without real thought about the candidates." },
+    { "term": "Civic duty", "meaning": "Something citizens are expected to do for the good of the community." },
+    { "term": "Steelman", "meaning": "Making the strongest possible version of an argument — the opposite of a ‘strawman’." }
+  ],
+  "lesson": [
+    { "minutes": 5, "title": "Hook: where do you stand?", "detail": "Read the hook aloud. Students mark where they stand on the worksheet (Part A) privately. Optional: a ‘values line’ across the room, or anonymous sticky notes. No one has to share their position." },
+    { "minutes": 5, "title": "Australian context", "detail": "Read the ‘Australia’s system’ box together and check the vocabulary. Ask: did anything surprise you?" },
+    { "minutes": 15, "title": "Jigsaw reading", "detail": "Groups of 3–4, each assigned one camp. Groups read their camp (Years 7–9 use the simpler reading level) and complete their row of the table in Part B." },
+    { "minutes": 10, "title": "Make the case", "detail": "Each group presents its camp’s best case in one minute, ‘as if you believed it’. Others note the strongest argument for each camp in their table." },
+    { "minutes": 10, "title": "Steelman", "detail": "Individually, students write the strongest case for the camp furthest from their own view (Part C)." },
+    { "minutes": 10, "title": "Source check", "detail": "Students complete Part D, comparing two Australian Electoral Commission pages, then discuss as a class. See the answer guide." },
+    { "minutes": 5, "title": "Exit reflection", "detail": "Students complete Part E. Optional: repeat the values line and notice any movement — without asking anyone to explain it." }
+  ],
+  "short_version": "For 45 minutes: shorten the presentations to 30 seconds per group and set the steelman (Part C) as homework.",
+  "extension": [
+    "Find the turnout for the most recent federal election on the AEC website and compare it with 2022. What might explain any change?",
+    "Pew Research Center reported in 2021 that 27 countries had compulsory voting laws but only 14 enforced them. Why might a country keep a law it doesn’t enforce?",
+    "Write a 300-word persuasive piece for the camp you agree with least, then a 150-word response from another camp."
+  ],
+  "sensitivity_notes": [
+    "Students may repeat family or community views. The aim is understanding, not winning — no student should be required to share their own position.",
+    "Keep discussion on arguments and values, not on political parties or individual politicians.",
+    "Model the ‘steelman’ approach yourself: present each camp as its supporters would."
+  ],
+  "source_activity": {
+    "intro": "Two pages from the same official source — the Australian Electoral Commission — say different things about turnout.",
+    "source_a": {
+      "label": "Source A",
+      "quote": "The turnout at Australian elections has never fallen below 90% since the introduction of compulsory voting in 1924.",
+      "source_title": "Compulsory voting in Australia (Australian Electoral Commission, page updated 20 November 2023)",
+      "source_url": "https://www.aec.gov.au/About_AEC/Publications/voting/index.htm"
+    },
+    "source_b": {
+      "label": "Source B",
+      "quote": "2022 federal election, House of Representatives, national turnout: 89.82%.",
+      "source_title": "2022 federal election: House of Representatives turnout by state (AEC Tally Room)",
+      "source_url": "https://results.aec.gov.au/27966/Website/HouseTurnoutByState-27966.htm"
+    },
+    "questions": [
+      "What does each source claim about turnout?",
+      "Can both statements be true? Explain.",
+      "Source A is an explainer page; Source B is the official election results. Which is more reliable for this specific claim, and why?",
+      "What does this tell you about checking even official sources?"
+    ],
+    "answer_guide": "The two statements conflict: 89.82% is below 90%. Source B is the AEC’s official results data for that election, so it is the more reliable source for the turnout figure. Source A’s sentence appears not to have been updated to reflect the 2022 result, even though the page was updated afterwards. Key lessons: check the date and purpose of a source, go to the primary data where possible, and remember that even trustworthy organisations can have outdated pages. Note for teachers: this reflects the pages as checked in October 2026; check both links before the lesson in case Source A has since been corrected."
+  }
+}

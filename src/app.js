@@ -72,6 +72,18 @@
     if (saved !== null) show(saved, false);
   }
 
+  // ---------- classroom reading level ----------
+  const levelButtons = document.querySelectorAll(".cl-level [data-level]");
+  if (levelButtons.length) {
+    const setLevel = (lvl) => {
+      document.documentElement.dataset.level = lvl;
+      levelButtons.forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.level === lvl)));
+      store.set("tos-level", lvl);
+    };
+    levelButtons.forEach((b) => b.addEventListener("click", () => setLevel(b.dataset.level)));
+    setLevel(store.get("tos-level") === "junior" ? "junior" : "senior");
+  }
+
   // ---------- search page ----------
   const resultsEl = document.getElementById("search-results");
   if (resultsEl) {

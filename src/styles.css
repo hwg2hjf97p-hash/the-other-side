@@ -184,6 +184,64 @@ button { font: inherit; cursor: pointer; }
 #request-form button { padding: 14px 20px; }
 .request-thanks { font-weight: 600; margin-top: 12px; }
 
+/* ---------- classroom edition ---------- */
+.cl-nav { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; margin: 20px 0 8px; }
+.cl-badge { display: inline-block; font-size: .75rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--accent); background: var(--accent-soft); padding: 4px 10px; border-radius: 999px; margin-top: 20px; }
+.cl-nav .cl-badge { margin-top: 0; }
+.cl-tabs { display: flex; flex-wrap: wrap; gap: 6px; }
+.cl-tab { padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); text-decoration: none; font-size: .9rem; color: var(--ink); }
+.cl-tab.is-current { background: var(--accent); border-color: var(--accent); color: #fff; }
+@media (prefers-color-scheme: dark) { .cl-tab.is-current { color: #15131a; } }
+.cl-level { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 12px 0 4px; font-size: .9rem; }
+.cl-level button { padding: 6px 12px; border-radius: 999px; border: 1.5px solid var(--line); background: var(--surface); color: var(--ink); }
+.cl-level button[aria-pressed="true"] { border-color: var(--accent); background: var(--accent-soft); font-weight: 600; }
+.cl-camp-letter { display: block; font-family: var(--font-body); font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+/* Both reading levels are in the page; show one. Without JS, the full (senior) text shows. */
+.lvl-junior { display: none; }
+[data-level="junior"] .lvl-junior { display: block; }
+[data-level="junior"] .lvl-senior { display: none; }
+.cl-box { padding: 18px 20px; border: 1px dashed var(--line); border-radius: var(--radius); background: var(--surface); }
+.cl-vocab { display: grid; gap: 8px; margin: 0; }
+@media (min-width: 720px) { .cl-vocab { grid-template-columns: 1fr 1fr; } }
+.cl-vocab div { padding: 10px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 10px; }
+.cl-vocab dt { font-weight: 600; }
+.cl-vocab dd { margin: 2px 0 0; color: var(--muted); }
+.cl-sources { padding-left: 1.2em; display: grid; gap: 6px; }
+.cl-meta { display: flex; flex-wrap: wrap; gap: 8px 24px; margin: 0 0 8px; }
+.cl-meta dt { font-size: .75rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.cl-meta dd { margin: 0; font-weight: 600; }
+.cl-two { display: grid; gap: 8px 32px; }
+@media (min-width: 720px) { .cl-two { grid-template-columns: 1fr 1fr; } }
+.cl-steps { list-style: none; padding: 0; display: grid; gap: 10px; }
+.cl-steps li { display: flex; gap: 14px; padding: 12px 14px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.cl-steps p { margin: 4px 0 0; color: var(--muted); }
+.cl-min { flex: 0 0 64px; font-weight: 600; color: var(--accent); }
+
+/* worksheet: readable on screen, clean on paper */
+.ws h1 { font-family: var(--font-head); font-size: 1.6rem; margin: 16px 0 4px; }
+.ws h2 { font-size: 1.1rem; margin: 28px 0 8px; }
+.ws h2 span { font-weight: 400; color: var(--muted); font-size: .9rem; }
+.ws-print { margin: 12px 0; padding: 10px 18px; border: 0; border-radius: 999px; background: var(--accent); color: #fff; font-weight: 600; }
+.ws-lines span { display: block; height: 30px; border-bottom: 1px solid var(--line); }
+.ws-table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+.ws-table th, .ws-table td { border: 1px solid var(--line); padding: 8px; text-align: left; vertical-align: top; }
+.ws-table td { height: 90px; }
+.ws-table td:first-child { width: 22%; }
+.ws-sources { display: grid; gap: 10px; }
+.ws-sources blockquote { margin: 0; padding: 12px 14px; border-left: 4px solid var(--accent); background: var(--surface); border-radius: 0 10px 10px 0; }
+.ws ol li { margin-bottom: 8px; }
+
+@media print {
+  .site-header, .site-footer, .cl-nav, .ws-print, .ad-slot { display: none !important; }
+  body { background: #fff; color: #000; font-size: 11pt; }
+  .wrap { max-width: none; padding: 0; }
+  .ws-lines span, .ws-table th, .ws-table td { border-color: #999; }
+  .ws-sources blockquote { background: none; border-left-color: #000; }
+  .ws h2 { break-after: avoid; }
+  .ws-table, .ws-sources, .ws ol li { break-inside: avoid; }
+  a { color: #000; }
+}
+
 /* Ad slots: empty for now, collapsed so they take no space. Never inside or between camp cards. */
 .ad-slot:empty { display: none; }
 .ad-slot { margin: 32px 0; text-align: center; }

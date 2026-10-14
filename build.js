@@ -423,6 +423,227 @@ function buildSeoFiles() {
   write("robots.txt", `User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 }
 
+// ---------- classroom edition (pilot) ----------
+// Reads classroom/<slug>.json and builds three pages per topic:
+//   /classroom/<slug>/          student page (projector or devices), with a reading-level switch
+//   /classroom/<slug>/teacher/  lesson plan, curriculum links, answer guide
+//   /classroom/<slug>/worksheet/ printable worksheet
+// Pilot pages are noindex and left out of the sitemap.
+const CLASSROOM_DIR = path.join(ROOT, "classroom");
+const noindex = (html) => html.replace("<head>", '<head>\n<meta name="robots" content="noindex">');
+
+const sourceLink = (title, url) =>
+  `<a class="fact-source" href="${esc(url)}" target="_blank" rel="noopener nofollow">${esc(title)} ↗</a>`;
+
+function classroomNav(slug, current) {
+  const link = (href, label, key) =>
+    `<a href="${href}" class="cl-tab${current === key ? " is-current" : ""}"${current === key ? ' aria-current="page"' : ""}>${label}</a>`;
+  return `
+<nav class="cl-nav" aria-label="Classroom pages">
+  <span class="cl-badge">Classroom edition · Pilot</span>
+  <div class="cl-tabs">
+    ${link(`/classroom/${slug}/`, "Student page", "student")}
+    ${link(`/classroom/${slug}/teacher/`, "Teacher notes", "teacher")}
+    ${link(`/classroom/${slug}/worksheet/`, "Worksheet", "worksheet")}
+  </div>
+</nav>`;
+}
+
+// Same markup for every camp; both reading levels are rendered and CSS shows one.
+function classroomCamp(camp, simple, i) {
+  const level = (cls, c) => `
+  <div class="${cls}">
+    <p class="camp-oneliner">“${esc(c.one_liner)}”</p>
+    <h4>Why people believe this</h4>
+    <p>${esc(c.why_people_believe_this)}</p>
+    <div class="args">
+      <div class="args-col"><h4>Strongest arguments</h4>${argList(c.strongest_arguments)}</div>
+      <div class="args-col"><h4>Weakest arguments</h4>${argList(c.weakest_arguments)}</div>
+    </div>
+  </div>`;
+  return `
+<article class="camp" id="camp-${i}">
+  <h3 class="camp-name"><span class="cl-camp-letter">Camp ${String.fromCharCode(65 + i)}</span> ${esc(camp.name)}</h3>
+  ${level("lvl-senior", camp)}
+  ${simple ? level("lvl-junior", simple) : ""}
+</article>`;
+}
+
+function buildClassroom() {
+  if (!fs.existsSync(CLASSROOM_DIR)) return [];
+  const lessons = fs
+    .readdirSync(CLASSROOM_DIR)
+    .filter((f) => f.endsWith(".json"))
+    .map((f) => JSON.parse(fs.readFileSync(path.join(CLASSROOM_DIR, f), "utf8")))
+    .filter((c) => bySlug[c.slug]);
+
+  for (const c of lessons) {
+    const e = bySlug[c.slug];
+    const camps = e.camps || [];
+    const levelSwitch = `
+<div class="cl-level" role="group" aria-label="Reading level">
+  <span>Reading level:</span>
+  <button type="button" data-level="junior">Years 7–9</button>
+  <button type="button" data-level="senior">Years 10–12</button>
+</div>`;
+
+    // Student page
+    const student = `
+${classroomNav(c.slug, "student")}
+<h1 class="page-title">${esc(e.topic)}</h1>
+<p class="lede">${esc(e.hook)}</p>
+${levelSwitch}
+
+<section class="section cl-box">
+  <h2 class="section-title">🧭 Before you read: where do you stand?</h2>
+  <p>Think about it privately first. You don’t have to share your answer. Mark it on your worksheet (Part A).</p>
+</section>
+
+<section class="section">
+  <h2 class="section-title">🇦🇺 Australia’s system</h2>
+  <ul class="fact-list">${c.australian_context
+    .map((f) => `<li><p>${esc(f.fact)}</p>${sourceLink(f.source_title, f.source_url)}</li>`)
+    .join("")}</ul>
+</section>
+
+<section class="section">
+  <h2 class="section-title">The ${camps.length} main camps</h2>
+  <p class="muted small">Every camp is presented the way its own supporters would put it. Your job is to understand each one — not to pick a winner.</p>
+  <div class="side-cards">${camps.map((camp, i) => classroomCamp(camp, (c.simple_camps || [])[i], i)).join("")}</div>
+</section>
+
+${factsSection(e.key_facts)}
+
+<section class="section common">
+  <h2 class="section-title">🤝 Where most people agree</h2>
+  <p>${esc(e.common_ground)}</p>
+</section>
+
+<section class="section">
+  <h2 class="section-title">💭 Questions to discuss</h2>
+  <ol class="questions">${(e.questions_to_sit_with || []).map((q) => `<li>${esc(q)}</li>`).join("")}</ol>
+</section>
+
+<section class="section">
+  <h2 class="section-title">📖 Key words</h2>
+  <dl class="cl-vocab">${c.vocabulary.map((v) => `<div><dt>${esc(v.term)}</dt><dd>${esc(v.meaning)}</dd></div>`).join("")}</dl>
+</section>
+
+<section class="section">
+  <h2 class="section-title">🔎 Sources</h2>
+  <p class="muted small">Every fact on this page links to where it came from. Part of today’s task is checking how reliable these sources are.</p>
+  <ul class="cl-sources">${[...c.australian_context, ...(e.key_facts || [])]
+    .map((f) => `<li>${sourceLink(f.source_title, f.source_url)}</li>`)
+    .join("")}</ul>
+</section>
+<aside class="disclaimer"><span aria-hidden="true">🤖</span> ${esc(e.disclaimer)}</aside>`;
+    write(
+      `classroom/${c.slug}/index.html`,
+      noindex(layout({ title: `${e.topic} (Classroom)`, description: c.overview, body: student, bodyClass: "page-classroom", path: `/classroom/${c.slug}/` }))
+    );
+
+    // Teacher notes
+    const total = c.lesson.reduce((n, s) => n + s.minutes, 0);
+    const sa = c.source_activity;
+    const teacher = `
+${classroomNav(c.slug, "teacher")}
+<h1 class="page-title">${esc(e.topic)}: teacher notes</h1>
+<p class="lede">${esc(c.overview)}</p>
+<dl class="cl-meta"><div><dt>Year levels</dt><dd>${esc(c.year_levels)}</dd></div><div><dt>Time</dt><dd>${esc(c.duration)}</dd></div></dl>
+
+<section class="section cl-two">
+  <div><h2 class="section-title">Learning intentions</h2><ul>${c.learning_intentions.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>
+  <div><h2 class="section-title">Success criteria</h2><ul>${c.success_criteria.map((x) => `<li>${esc(x)}</li>`).join("")}</ul></div>
+</section>
+
+<section class="section">
+  <h2 class="section-title">Curriculum links</h2>
+  <dl class="cl-vocab">${c.curriculum_links.map((l) => `<div><dt>${esc(l.area)}</dt><dd>${esc(l.detail)}</dd></div>`).join("")}</dl>
+  <p class="muted small">${esc(c.curriculum_note)}</p>
+</section>
+
+<section class="section">
+  <h2 class="section-title">Lesson plan (${total} minutes)</h2>
+  <ol class="cl-steps">${c.lesson
+    .map((s) => `<li><span class="cl-min">${s.minutes} min</span><div><strong>${esc(s.title)}</strong><p>${esc(s.detail)}</p></div></li>`)
+    .join("")}</ol>
+  <p><strong>45-minute version:</strong> ${esc(c.short_version)}</p>
+</section>
+
+<section class="section">
+  <h2 class="section-title">Extension (Years 10–12)</h2>
+  <ul>${c.extension.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
+</section>
+
+<section class="section cl-box">
+  <h2 class="section-title">Running the discussion safely</h2>
+  <ul>${c.sensitivity_notes.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>
+</section>
+
+<section class="section">
+  <h2 class="section-title">Answer guide: source check (Part D)</h2>
+  <p>${esc(sa.answer_guide)}</p>
+  <ul class="cl-sources"><li>${sourceLink(sa.source_a.source_title, sa.source_a.source_url)}</li><li>${sourceLink(sa.source_b.source_title, sa.source_b.source_url)}</li></ul>
+</section>
+
+<section class="section">
+  <h2 class="section-title">How this material was made</h2>
+  <p>${esc(e.disclaimer)} Every fact links to its source and was checked against that source before publishing. Each camp is written the way its own supporters would put it, and every camp gets the same number of arguments.</p>
+</section>`;
+    write(
+      `classroom/${c.slug}/teacher/index.html`,
+      noindex(layout({ title: `${e.topic}: teacher notes`, description: c.overview, body: teacher, bodyClass: "page-classroom", path: `/classroom/${c.slug}/teacher/` }))
+    );
+
+    // Printable worksheet
+    const lines = (n) => `<div class="ws-lines">${"<span></span>".repeat(n)}</div>`;
+    const worksheet = `
+${classroomNav(c.slug, "worksheet")}
+<div class="ws">
+  <div class="ws-head"><h1>${esc(e.topic)}</h1><p>Name: ____________________ &nbsp; Class: ________ &nbsp; Date: ________</p></div>
+  <button type="button" class="ws-print" onclick="window.print()">🖨️ Print worksheet</button>
+
+  <h2>Part A — Where do I stand? <span>(private)</span></h2>
+  <p>Circle one: &nbsp; Strongly for compulsory voting &nbsp;·&nbsp; Lean for &nbsp;·&nbsp; Unsure &nbsp;·&nbsp; Lean against &nbsp;·&nbsp; Strongly against</p>
+  <p>One reason for my view:</p>${lines(2)}
+
+  <h2>Part B — The camps</h2>
+  <table class="ws-table">
+    <thead><tr><th>Camp</th><th>Their view in my words</th><th>Strongest argument</th><th>Weakest argument</th></tr></thead>
+    <tbody>${camps.map((camp, i) => `<tr><td><strong>${String.fromCharCode(65 + i)}</strong><br>${esc(camp.name)}</td><td></td><td></td><td></td></tr>`).join("")}</tbody>
+  </table>
+
+  <h2>Part C — Steelman</h2>
+  <p>Write the strongest case for the camp <em>furthest</em> from your own view, as if you were one of its supporters.</p>${lines(6)}
+
+  <h2>Part D — Source check</h2>
+  <p>${esc(sa.intro)}</p>
+  <div class="ws-sources">
+    <blockquote><strong>${esc(sa.source_a.label)}:</strong> “${esc(sa.source_a.quote)}”<br><small>${esc(sa.source_a.source_title)}</small></blockquote>
+    <blockquote><strong>${esc(sa.source_b.label)}:</strong> ${esc(sa.source_b.quote)}<br><small>${esc(sa.source_b.source_title)}</small></blockquote>
+  </div>
+  <ol>${sa.questions.map((q) => `<li>${esc(q)}${lines(2)}</li>`).join("")}</ol>
+
+  <h2>Part E — Exit reflection</h2>
+  <p>Did your view change, get stronger, or stay the same? What evidence would make you change your mind?</p>${lines(4)}
+</div>`;
+    write(
+      `classroom/${c.slug}/worksheet/index.html`,
+      noindex(layout({ title: `${e.topic}: worksheet`, body: worksheet, bodyClass: "page-classroom page-worksheet", path: `/classroom/${c.slug}/worksheet/` }))
+    );
+  }
+
+  // Classroom landing page
+  const list = lessons.map((c) => topicCard(bySlug[c.slug]).replace(`/topic/${c.slug}/`, `/classroom/${c.slug}/`)).join("");
+  const landing = `
+<span class="cl-badge">Classroom edition · Pilot</span>
+<h1 class="page-title">The Other Side for classrooms</h1>
+<p class="lede">Balanced, sourced material on contested topics for Australian Years 7–12. Each topic comes with a student page (two reading levels), teacher notes with a full lesson plan, and a printable worksheet. Students don’t need accounts, and nothing about their views is collected.</p>
+<div class="grid">${list}</div>`;
+  write("classroom/index.html", noindex(layout({ title: "Classroom edition", body: landing, bodyClass: "page-classroom", path: "/classroom/" })));
+  return lessons;
+}
+
 // ---------- run ----------
 fs.rmSync(DIST, { recursive: true, force: true });
 fs.mkdirSync(DIST, { recursive: true });
@@ -433,6 +654,8 @@ entries.forEach(buildTopic);
 buildSearch();
 build404();
 buildSeoFiles();
+const lessons = buildClassroom();
+if (lessons.length) console.log(`Built ${lessons.length} classroom topic(s)`);
 
 const unknown = entries.filter((e) => !categoryOf(e.cat.parent));
 console.log(`Built ${entries.length} topic page(s) into dist/`);
