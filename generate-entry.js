@@ -11,8 +11,17 @@ import Anthropic from "@anthropic-ai/sdk";
 import fs from "fs";
 import path from "path";
 
+// Load the key from .env if it exists. It takes priority over a key left over in the terminal.
+const envFile = path.join(process.cwd(), ".env");
+if (fs.existsSync(envFile)) {
+  for (const line of fs.readFileSync(envFile, "utf8").replace(/^﻿/, "").split(/\r?\n/)) {
+    const m = line.match(/^\s*([A-Z0-9_]+)\s*=\s*(.*?)\s*$/);
+    if (m) process.env[m[1]] = m[2].replace(/^["']|["']$/g, "");
+  }
+}
+
 const MODEL = "claude-sonnet-5-5";
-const client = new Anthropic(); // reads ANTHROPIC_API_KEY from the environment
+const client = new Anthropic(); // reads ANTHROPIC_API_KEY from the environment (or .env above)
 
 const DISCLAIMER =
   "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. " +
@@ -127,12 +136,15 @@ function parseJson(text) {
 }
 
 async function ask(prompt) {
-  const res = await client.beta.messages.create({
-    ...FALLBACK,
-    model: MODEL,
-    max_tokens: 8000,
-    messages: [{ role: "user", content: prompt }],
-  });
+  // Streamed so the long audit reply (thinking + full rewritten entry) doesn't time out
+  const res = await client.beta.messages
+    .stream({
+      ...FALLBACK,
+      model: MODEL,
+      max_tokens: 32000,
+      messages: [{ role: "user", content: prompt }],
+    })
+    .finalMessage();
   checkStop(res);
   const text = res.content
     .filter((b) => b.type === "text")

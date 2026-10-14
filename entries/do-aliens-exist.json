@@ -1,74 +1,283 @@
 {
   "topic": "Do aliens exist?",
   "category": "Aliens",
-  "hook": "Somewhere between 'the universe is huge' and 'my uncle saw lights over the highway', people land in very different places. Pull up a chair — everyone here has a reason.",
+  "hook": "Either we're the only thinking creatures in the universe, or we're not. Both possibilities are a little dizzying, and people weigh the evidence and the odds in very different ways.",
   "camps": [
     {
-      "name": "Life is out there, just far away",
-      "one_liner": "The universe is so big that life almost certainly exists elsewhere, but it probably hasn't visited us.",
-      "why_people_believe_this": "For many people this view comes from a sense of scale: billions of galaxies, each with billions of stars, make Earth feel unlikely to be unique. It appeals to people who value scientific caution — open to the idea, but wanting evidence before believing in visits.",
+      "name": "The 'Life Is Probably Common' Camp",
+      "one_liner": "The universe is so large that life, and possibly intelligent life, has probably arisen elsewhere.",
+      "why_people_believe_this": "People in this camp point to the pattern since Copernicus, in which each major discovery has moved Earth away from a special position: Earth is not the center of the solar system, the Sun is one star among many, and our galaxy is one among many. They take that pattern as a reason to doubt that Earth is uniquely alive. Many also find the idea of a living cosmos appealing.",
       "strongest_arguments": [
-        { "point": "The numbers are enormous", "explanation": "With so many stars and planets, even a tiny chance of life per planet could add up to a lot of life overall." },
-        { "point": "Life's ingredients are common", "explanation": "The chemical building blocks of life show up in space, meteorites and on other worlds in our own solar system." },
-        { "point": "Life on Earth started early", "explanation": "Life appeared fairly soon after Earth became habitable, which some read as a sign it isn't hard to get going." }
+        {
+          "point": "The scale of the universe",
+          "explanation": "There are a vast number of stars, and astronomers have found that planets are common, including rocky ones in the temperate zone where liquid water could exist. Even a small chance of life per planet adds up when multiplied by that many opportunities."
+        },
+        {
+          "point": "Life on Earth appeared relatively early",
+          "explanation": "Some evidence suggests life took hold on Earth fairly soon after conditions allowed it. Some researchers read that as a hint that the origin of life may not be extremely hard, though others note that a single case can't establish how likely it is."
+        },
+        {
+          "point": "The building blocks are widespread",
+          "explanation": "The elements and many organic molecules that life on Earth relies on are found in gas clouds and meteorites. Supporters see this as a sign that Earth's ingredients are not unusual."
+        }
       ],
       "weakest_arguments": [
-        { "point": "We only have one example", "explanation": "Every estimate is built on a single data point — Earth — so the odds could be far lower than they feel." },
-        { "point": "Big numbers aren't evidence", "explanation": "A huge universe makes life possible, not proven. Until something is detected, it remains a reasonable guess." }
+        {
+          "point": "Big numbers settle it by themselves",
+          "explanation": "Multiplying a huge number by an unknown probability gives an unknown result. If the odds of life starting are extremely small, even a vast universe could contain only one case. The argument depends on an assumption about those odds."
+        },
+        {
+          "point": "Reasoning from one example",
+          "explanation": "Earth is the only known case of life, so it cannot by itself show how often life occurs elsewhere. Treating it as typical is an assumption rather than a finding."
+        },
+        {
+          "point": "Intelligence is treated as a likely outcome",
+          "explanation": "Simple life might be common while technological civilizations are very rare. Moving from 'microbes are likely' to 'neighbors are likely' needs its own support."
+        }
       ]
     },
     {
-      "name": "They're already here",
-      "one_liner": "Some unexplained sightings and encounters are best explained by non-human visitors.",
-      "why_people_believe_this": "People in this camp often start from testimony — their own, or from pilots and witnesses who seem credible and have little to gain. Many also distrust official explanations, feeling that institutions have been slow or unwilling to share what they know.",
+      "name": "The 'Rare Earth' Camp",
+      "one_liner": "Life may be possible elsewhere, but the conditions for complex life, and especially intelligence, may be so unlikely that we are effectively alone.",
+      "why_people_believe_this": "People in this camp point to decades of searching without a confirmed detection, and they take the lack of detection as meaningful. They also note how many circumstances seem to have mattered in Earth's history. Many find the possibility that we are the only observers in the universe awe-inspiring, and some feel it adds weight to caring for Earth.",
       "strongest_arguments": [
-        { "point": "Credible witnesses", "explanation": "Trained observers such as military pilots have described objects that seemed to move in ways they couldn't explain." },
-        { "point": "Governments take it seriously", "explanation": "Official investigations into unidentified aerial phenomena suggest there are cases even experts haven't resolved." },
-        { "point": "Patterns across cultures", "explanation": "Similar accounts come from many countries and decades, which believers see as more than coincidence." }
+        {
+          "point": "The lack of detection so far",
+          "explanation": "If intelligent civilizations were common, some might have spread widely or made themselves obvious. So far there is no confirmed signal and no confirmed sign of anyone's technology. This puzzle, often called the Fermi paradox, is one reason some researchers think intelligent life may be rare."
+        },
+        {
+          "point": "A long chain of required steps",
+          "explanation": "Some researchers argue that complex life on Earth depended on factors such as a stable climate, a large moon, plate tectonics, and rare evolutionary transitions. Each additional required step lowers the odds, although others dispute how many of these are truly required."
+        },
+        {
+          "point": "The origin of life is still unexplained",
+          "explanation": "Scientists do not yet have a complete account of how non-living chemistry became living cells. Without knowing how hard that step is, assuming it is easy is a guess, and it could be extraordinarily difficult."
+        }
       ],
       "weakest_arguments": [
-        { "point": "Unexplained isn't the same as alien", "explanation": "A sighting nobody can explain could still be equipment, weather, drones or perception — 'unknown' doesn't point to one answer." },
-        { "point": "No physical evidence made public", "explanation": "Despite many decades of reports, there's no widely verified object or material that settles the question." }
+        {
+          "point": "Treating the silence as strong evidence",
+          "explanation": "In cosmic terms, the search has covered a small fraction of the sky, for a short time, at limited wavelengths. Critics say this makes the absence of a detection weak evidence of absence."
+        },
+        {
+          "point": "Earth's path is treated as the template",
+          "explanation": "Saying that life needs a moon, plate tectonics, or a Sun-like star may reflect the one example we know rather than real requirements. Life elsewhere might work in ways we haven't imagined."
+        },
+        {
+          "point": "Multiplying guessed odds",
+          "explanation": "Stacking many steps, each with a guessed small probability, can produce a tiny overall number that comes from the assumptions rather than from data. This is the same difficulty that affects arguments built on large numbers."
+        }
       ]
     },
     {
-      "name": "We may well be alone",
-      "one_liner": "Life — especially complex or intelligent life — may be so rare that Earth is the only place it exists, at least nearby.",
-      "why_people_believe_this": "This view often comes from looking closely at how many lucky conditions Earth needed: the right star, a stable orbit, a protective atmosphere and billions of years of calm. For some it's also a source of meaning — if we're rare, we're precious.",
+      "name": "The 'They May Already Be Here' Camp",
+      "one_liner": "Some unexplained sightings and encounters may be best explained by visitors from elsewhere, and official channels may not have told us everything.",
+      "why_people_believe_this": "For many in this camp, the view begins with a personal experience or the account of someone they trust, such as a pilot, a relative, or a neighbor who saw something they could not explain. It is also tied to the view that institutions have at times kept real secrets and given misleading explanations. Many also feel that staying open to something extraordinary is better than dismissing it.",
       "strongest_arguments": [
-        { "point": "The great silence", "explanation": "If the galaxy were full of civilisations, some argue we'd expect to have noticed signs by now — and we haven't." },
-        { "point": "Many steps had to go right", "explanation": "From simple cells to complex animals to technology, each step may have been a long shot." },
-        { "point": "Earth's setup is unusual", "explanation": "Features like a large moon and a stable climate may be less common than we assume." }
+        {
+          "point": "Some sightings remain unexplained",
+          "explanation": "Official investigations have acknowledged cases from trained observers and sensors that were not easily identified. Supporters say 'unidentified' is an accurate description and that dismissing these cases outright is itself unscientific."
+        },
+        {
+          "point": "Governments have kept secrets before",
+          "explanation": "History includes classified programs that were denied until they were revealed. Supporters say this makes it reasonable to doubt official reassurance and to ask for more transparency."
+        },
+        {
+          "point": "Many credible people report strange experiences",
+          "explanation": "Witnesses include people whose careers depend on reliability. Supporters feel that treating all of them as mistaken or dishonest is dismissive, and that the volume of reports deserves serious attention."
+        }
       ],
       "weakest_arguments": [
-        { "point": "We've barely looked", "explanation": "Our searches cover a tiny fraction of space and time, so silence so far may not mean much." },
-        { "point": "Assumes life must be like ours", "explanation": "Life elsewhere might not need Earth-like conditions, which would make 'rare Earth' reasoning less relevant." }
+        {
+          "point": "Unidentified is taken to mean alien",
+          "explanation": "Not knowing what something is does not show that it is extraterrestrial. Unknown objects could be secret human technology, sensor errors, atmospheric effects, or misperceptions. Naming aliens fills a gap in knowledge with one specific answer."
+        },
+        {
+          "point": "No widely verified physical proof has emerged",
+          "explanation": "Despite many decades of reports and widespread cameras, critics note there is no widely accepted artifact or clear recording. A claim that evidence is being hidden is hard to test, because a lack of proof can be read as support for it."
+        },
+        {
+          "point": "Eyewitness accounts have limits",
+          "explanation": "Even sincere, honest witnesses can misjudge distance, speed, and size, especially at night or under stress. Critics argue that sincerity does not guarantee accuracy."
+        }
       ]
     },
     {
-      "name": "We can't know yet",
-      "one_liner": "There isn't enough evidence to say either way, so the honest answer is 'we don't know'.",
-      "why_people_believe_this": "People here value intellectual honesty and are wary of both excitement and dismissal. They'd rather hold the question open than pick an answer the evidence can't yet support.",
+      "name": "The 'Not Enough Evidence Yet' Camp",
+      "one_liner": "We do not yet know, and the sensible position is to keep the question open while continuing to look.",
+      "why_people_believe_this": "People in this camp are comfortable with uncertainty and have often seen confident claims on several sides run ahead of the facts. They would rather not commit to an answer before there is more evidence. Many find the open question exciting and prefer to see how it plays out.",
       "strongest_arguments": [
-        { "point": "Evidence is genuinely missing", "explanation": "No confirmed detection exists, and no one can prove a negative, so suspending judgement fits the facts." },
-        { "point": "Guesses depend on unknowns", "explanation": "Estimates of alien life rest on numbers nobody knows, so confident answers in any direction are premature." }
+        {
+          "point": "The key probabilities are unknown",
+          "explanation": "How likely life is to begin, and how likely it is to become intelligent, are not known. Any firm answer, yes or no, depends on filling in gaps with estimates."
+        },
+        {
+          "point": "New tools may produce data",
+          "explanation": "Telescopes can now study the atmospheres of distant planets, and missions are exploring places in our own solar system where microbial life might exist. Supporters see these as ways to get real data on the question, though results are not guaranteed."
+        },
+        {
+          "point": "Several camps reason from a sample of one",
+          "explanation": "Arguments for common life and for rare life both extrapolate from Earth alone. Supporters say that withholding judgment is consistent when the data cannot yet support a conclusion."
+        }
       ],
       "weakest_arguments": [
-        { "point": "Can feel like dodging", "explanation": "Critics say we make reasonable bets under uncertainty all the time, and refusing to lean either way avoids the question." },
-        { "point": "'Not yet' can last forever", "explanation": "If the evidence never comes, permanent fence-sitting may not be a satisfying position." }
+        {
+          "point": "Not choosing can avoid useful reasoning",
+          "explanation": "People make probability judgments all the time with incomplete information. Critics say that 'we can't know' can sidestep the useful exercise of stating what you would bet on and why."
+        },
+        {
+          "point": "Treating all claims as equally uncertain",
+          "explanation": "Some claims are better supported than others. Saying 'who knows?' about microbes elsewhere and about alien spacecraft over a particular town may blur real differences in the evidence."
+        },
+        {
+          "point": "Waiting could be indefinite",
+          "explanation": "If life is very rare or very far away, we might never get a clear answer. Critics say that pure agnosticism could then amount to a permanent shrug rather than a position."
+        }
+      ]
+    },
+    {
+      "name": "The 'Life Here Has a Special Place' Camp",
+      "one_liner": "Some people hold, on religious, philosophical, or metaphysical grounds, that life, consciousness, or humanity has a distinctive place in the universe, whatever telescopes find.",
+      "why_people_believe_this": "For many in this camp, the view comes from religious teaching, philosophical reflection, or the sense that consciousness cannot be fully reduced to chemistry. These traditions have long addressed the question of humanity's place in creation. Many find that these considerations carry weight alongside, or ahead of, astronomical arguments.",
+      "strongest_arguments": [
+        {
+          "point": "Science has not explained life or consciousness",
+          "explanation": "There is no complete account of how life began or of how conscious experience arises. Supporters say that where science is incomplete, other forms of reasoning can reasonably contribute."
+        },
+        {
+          "point": "Long-standing traditions give weight to human uniqueness",
+          "explanation": "Many religious and philosophical traditions hold that humanity has a distinctive role. Supporters say these traditions represent accumulated reflection that should not be set aside because it is not measured with instruments."
+        },
+        {
+          "point": "The conditions for life seem finely balanced",
+          "explanation": "Some argue that the physical constants and conditions that allow life look delicately balanced. They take this as a reason to think our existence is not simply one of many routine outcomes, though others offer different explanations for this."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "Not testable by observation",
+          "explanation": "A claim based on meaning or purpose cannot be checked by a telescope. Critics say it therefore says little about whether life exists elsewhere as a matter of fact."
+        },
+        {
+          "point": "Assuming faith requires being alone",
+          "explanation": "Many religious and philosophical traditions are open to life elsewhere, and some thinkers within them welcome the idea. Treating uniqueness as a required belief can overstate what the traditions themselves say."
+        },
+        {
+          "point": "Gaps in science are not evidence of purpose",
+          "explanation": "That science cannot yet explain something does not show a particular alternative explanation. Critics say that unexplained origins fit many possible answers."
+        }
       ]
     }
   ],
-  "common_ground": "Almost everyone agrees the universe is vast, that we haven't explored much of it, and that a confirmed discovery — of microbes or messages — would be one of the biggest moments in human history. Most also agree that unexplained sightings deserve honest investigation rather than ridicule.",
+  "common_ground": "People across these camps generally agree that the question is fascinating, that we have only one known example of life, and that confirmed evidence of life elsewhere would be among the biggest discoveries ever made. Many also support continued searching, whether with telescopes, space probes, or careful analysis of unusual reports, though they differ on how much weight current evidence deserves and on which kinds of evidence count.",
   "questions_to_sit_with": [
-    "How would you feel if we found microbes on another planet tomorrow — and would that change how you see Earth?",
-    "What kind of evidence would it take to change your mind, in either direction?",
-    "Why do you think this question matters so much to people?"
+    "If we found only microbes on another world, would that change how you feel about our place in the universe as much as finding intelligent neighbors would?",
+    "How much should the absence of evidence so far shape our beliefs, and how does that depend on how thoroughly we think we have looked?",
+    "Which would you find more unsettling: being completely alone, or knowing that we're not?"
+  ],
+  "key_facts": [
+    {
+      "fact": "The only life confirmed so far is on Earth. NASA states that the only life we know of is right here on planet Earth.",
+      "source_title": "Can We Find Life? - NASA Science",
+      "source_url": "https://science.nasa.gov/exoplanets/can-we-find-life/"
+    },
+    {
+      "fact": "In 2025 the NASA Exoplanet Archive’s count of confirmed planets outside our solar system passed 6,000, with more than 8,000 further candidates awaiting confirmation. The count is of planets, not of habitable or inhabited ones.",
+      "source_title": "The NASA Exoplanet Archive Hits 6,000 Planets",
+      "source_url": "https://www.ipac.caltech.edu/news/the-nasa-exoplanet-archive-hits-6-000-planets"
+    },
+    {
+      "fact": "To date, SETI (Search for Extraterrestrial Intelligence) experiments have not produced a confirmed extraterrestrial signal.",
+      "source_title": "Extraterrestrial intelligence - Radio Searches (Britannica)",
+      "source_url": "https://www.britannica.com/science/extraterrestrial-intelligence/Radio-searches"
+    },
+    {
+      "fact": "In 1961 physicist Frank Drake developed a mathematical equation, now called the Drake equation, to estimate the number of intelligent civilizations in our galaxy.",
+      "source_title": "The Fermi Paradox: Where Are All the Aliens? (Britannica)",
+      "source_url": "https://www.britannica.com/story/the-fermi-paradox-where-are-all-the-aliens"
+    },
+    {
+      "fact": "In its 2024 historical report, the Pentagon’s All-domain Anomaly Resolution Office (AARO) said it found no evidence that any U.S. government investigation, academic-sponsored research or official review panel has confirmed that a sighting of an unidentified anomalous phenomenon (UAP) represented extraterrestrial technology. The report also notes that many UAP reports remain unsolved or unidentified, which AARO attributes mainly to a lack of data.",
+      "source_title": "Pentagon UFO office finds 'no empirical evidence' for alien technology in new report (Space.com)",
+      "source_url": "https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology"
+    }
   ],
   "disclaimer": "Written by AI and checked by AI for bias. AI can get things wrong or miss viewpoints. This page isn't telling you what to believe — it's showing you what other people believe and why.",
-  "generated_at": "2026-10-13T00:00:00.000Z",
+  "generated_at": "2026-10-14T02:35:13.655Z",
   "audit": {
-    "problems_fixed": [],
-    "note": "Sample entry written by hand for testing the site. Replace it by running: node generate-entry.js \"Do aliens exist?\" \"Aliens\""
+    "balance_score_of_draft": "6",
+    "problems_fixed": [
+      {
+        "issue": "Motive framing is flattering to some camps and pointed against others. Optimists are 'moved by humility', skeptics are 'driven by respect for evidence over enthusiasm' and 'wary of wishful thinking', and agnostics value 'intellectual honesty'. Each flattering description implies that rival camps are arrogant, wishful or dishonest.",
+        "favoured_camp": "Rare Earth Skeptics, Agnostics, and (more mildly) Optimists",
+        "fix": "Rewrote every 'why_people_believe_this' in the same neutral register: what the camp finds persuasive, with no contrast against other camps and no virtue words."
+      },
+      {
+        "issue": "The optimist 'why' says that believing in unique life 'feels like a throwback to the idea that we're special'. This frames the opposing camp as pre-scientific. It also gives the optimists the Copernican story with heroic overtones, and no other camp gets a comparable narrative.",
+        "favoured_camp": "Numbers Optimists",
+        "fix": "Kept the Copernican reasoning but stated it as the camp's own view, and removed the dig at the opposing view."
+      },
+      {
+        "issue": "Camp labels carry connotations. 'Optimists' sounds hopeful, 'Skeptics' sounds rigorous, and 'Wait for Evidence' sounds sensible. 'Believers' is also the only label that sounds faith-based.",
+        "favoured_camp": "Rare Earth Skeptics, Agnostics",
+        "fix": "Renamed the camps with descriptive, parallel labels based on what each claims."
+      },
+      {
+        "issue": "The Skeptic argument 'The silence is real data' is headlined assertively and called 'a serious reason to wonder'. This editorial praise is not given to the other camps' arguments. Its weakest argument, 'We've searched and found nothing', is really an outside rebuttal of that strongest argument, so the camp's own flaws are never named. The weakest list also includes a motive-guessing item, 'Rarity can slide into special-ness', that no real skeptic is shown making, and it ends with a lecture that the same reasoning should apply to this comfort too.",
+        "favoured_camp": "Rare Earth Skeptics (argument framing); Numbers Optimists (the skeptic weak points are softer or are motive attacks)",
+        "fix": "Neutralized the headline and removed the praise. Replaced the motive-guessing weak point with a parallel to the optimists' weakest point: stacking guessed probabilities can produce tiny odds that rest on assumptions. Kept the 'sparse search' critique, relabelled as a critique of treating silence as strong evidence."
+      },
+      {
+        "issue": "The optimist argument about early life is stated one-sidedly: 'If it were a one-in-a-trillion fluke, you might expect it to take much longer'. That inference is contested, because a single case limits what can be concluded. The strongest optimist arguments also use strong wording: 'extremely common' planets and 'nothing about Earth's ingredients looks unique'.",
+        "favoured_camp": "Numbers Optimists",
+        "fix": "Softened the wording and added the standard caveat in the same sentence. Gave the skeptic 'chain of lucky steps' argument the same treatment, noting that how many steps are truly required is disputed."
+      },
+      {
+        "issue": "The optimists' weakest arguments are phrased as sharp, vivid rebuttals (the lottery analogy), while the believer and skeptic weak points are more hedged. The believers' weakest list includes the unsourced assertion that 'some famous cases later turned out to have mundane explanations'. It also describes the cover-up claim as 'unfalsifiable', which is the author's verdict.",
+        "favoured_camp": "Rare Earth Skeptics, Agnostics (their weak points are gentler)",
+        "fix": "Made the weak-argument critiques similar in tone and length across camps. Removed the lottery analogy and the editorial 'unfalsifiable' verdict, and stated the critique as a logical problem instead."
+      },
+      {
+        "issue": "Missing camp. Many real people hold that humanity or life has a unique place on religious, philosophical or metaphysical grounds. Others are open to life elsewhere on religious grounds, which the entry never acknowledges. The only 'uniqueness' view in the entry was the skeptics' motive-guessing bullet, which treated it as a flaw.",
+        "favoured_camp": "All camps that are not religious or philosophical",
+        "fix": "Added a fifth camp covering religious and philosophical views on Earth's or humanity's uniqueness, with strongest and weakest arguments in the same format and length as the others."
+      },
+      {
+        "issue": "Agnostics are placed last, with the one-liner 'the honest answer is to say so'. The 'Evidence could arrive soon' argument says 'the question is moving from philosophy toward measurement'. Together these imply that the agnostic stance is the mature, correct one and that the others are not honest.",
+        "favoured_camp": "Wait for Evidence Agnostics",
+        "fix": "Removed 'honest answer' and the 'moving from philosophy to measurement' line. Reworded the 'both rely on assumptions' argument to describe the camp's view rather than the author's."
+      },
+      {
+        "issue": "The believers' camp is described mostly in terms of experience and distrust of institutions. It is not described in terms of reasoning, and the wording 'distrust of institutions' and the 'official reassurance' framing may read as psychologizing. Yet the believers' strongest arguments are fairly reasonable. This is a tone mismatch that could make the camp seem emotional while the other camps seem analytical.",
+        "favoured_camp": "Rare Earth Skeptics, Agnostics, Numbers Optimists (relative to believers)",
+        "fix": "Gave the believers' 'why' a parallel structure (what the camp finds persuasive) and kept the sourcing of their claims clear. Kept the weak points about evidence, but made them match the other camps in tone."
+      },
+      {
+        "issue": "The hook uses a vivid statistic ('more stars than grains of sand on Earth's beaches') that is a popular rhetorical image that fits the optimists' framing. It is not cited, and the hook implies the dilemma is symmetrical.",
+        "favoured_camp": "Numbers Optimists",
+        "fix": "Rewrote the hook without the sand comparison and with neutral framing of both possibilities."
+      },
+      {
+        "issue": "Key fact on the exoplanet count (6,000) is cherry-picked in effect. It supports the optimist 'planets are common' argument but gives no counterweight, and the number alone says nothing about habitability.",
+        "favoured_camp": "Numbers Optimists",
+        "fix": "Reworded to state that it is a count of confirmed planets, not of habitable or inhabited ones."
+      },
+      {
+        "issue": "Key fact on SETI ('No confirmed extraterrestrial signals have been found') is phrased as an absolute and supports the skeptic camp without noting the question of how much has been searched.",
+        "favoured_camp": "Rare Earth Skeptics",
+        "fix": "Reworded to 'to date, SETI experiments have not produced a confirmed extraterrestrial signal', keeping it as a plain statement of fact."
+      },
+      {
+        "issue": "Key fact on the AARO report is the only fact that directly addresses a camp's central claim, and it does so negatively. No fact supports or contextualizes the believers' position. The wording 'found no evidence' could be read as a stronger statement than the report's scope supports.",
+        "favoured_camp": "Rare Earth Skeptics, Agnostics (against Believers)",
+        "fix": "Reworded to say what AARO reported about the cases it reviewed, without extending it to a general claim. I cannot add facts, so the fact is kept, with scope made explicit."
+      },
+      {
+        "issue": "Common ground and questions lean. 'Claims should be judged on the quality of evidence rather than on how much we want them to be true' implies that some camps are wishful. 'Almost everyone agrees' and 'Most also agree' are unsupported generalizations. The second question ('given how little of the universe we've actually searched') presupposes a premise that undercuts skeptics.",
+        "favoured_camp": "Numbers Optimists / Agnostics",
+        "fix": "Softened the generalizations, removed the wishful-thinking jab, and made the second question neutral."
+      }
+    ],
+    "note": "Key facts were checked against their sources by hand on 2026-10-14; facts 2, 4 and 5 were edited for accuracy and balance."
   }
 }
