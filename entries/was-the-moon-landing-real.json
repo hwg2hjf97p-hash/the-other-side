@@ -10,15 +10,15 @@
       "strongest_arguments": [
         {
           "point": "Evidence from outside NASA",
-          "explanation": "The Soviet Union, NASA's rival, tracked the missions and had a strong motive to expose a fake, yet did not. Observatories around the world can still bounce lasers off reflectors left on the surface, and lunar orbiters from several countries have imaged the landing sites. Critics reply that the reflectors show only that something was placed there, not that people did it, since uncrewed Soviet missions also carried reflectors. They also say the Soviets may have had their own reasons for silence. Supporters respond that the combined weight of several independent lines of evidence is what matters."
+          "explanation": "The Soviet Union, NASA's rival, tracked the missions and had a strong motive to expose a fake, yet did not. Observatories around the world can still bounce lasers off reflectors left on the surface, and lunar orbiters from several countries have imaged the landing sites. They also say the Soviets may have had their own reasons for silence. Supporters respond that the combined weight of several independent lines of evidence is what matters."
         },
         {
           "point": "The lunar samples",
-          "explanation": "Several hundred kilograms of lunar material were returned and shared with researchers in many countries, and researchers argue its properties are hard to reproduce on Earth. Critics note that the samples' origin still ultimately traces to NASA's custody, and that uncrewed missions can also return samples. Supporters point to decades of independent analysis that has not found a problem."
+          "explanation": "Several hundred kilograms of lunar material were returned and shared with researchers in many countries, and researchers argue its properties are hard to reproduce on Earth. Supporters point to decades of independent analysis that has not found a problem."
         },
         {
           "point": "The difficulty of faking it",
-          "explanation": "Supporters argue that simulating low gravity, the behaviour of dust in vacuum, and hours of continuous live footage with 1960s technology would have been very demanding, and that the missions involved large numbers of people across companies, agencies and countries. Critics reply that difficulty is not impossibility and that a well-funded state project can keep a lot of people quiet or compartmentalised."
+          "explanation": "Supporters argue that simulating low gravity, the behaviour of dust in vacuum, and hours of continuous live footage with 1960s technology would have been very demanding, and that the missions involved large numbers of people across companies, agencies and countries."
         }
       ],
       "weakest_arguments": [
@@ -43,15 +43,15 @@
       "strongest_arguments": [
         {
           "point": "Governments really have deceived the public",
-          "explanation": "The Vietnam and Watergate eras damaged public trust. If officials misled people about wars and break-ins, supporters of this view say it is reasonable to ask what else might have been presented selectively. Critics reply that past dishonesty on other topics is not evidence about this one, and that the Moon missions were observable by other countries."
+          "explanation": "The Vietnam and Watergate eras damaged public trust. If officials misled people about wars and break-ins, supporters of this view say it is reasonable to ask what else might have been presented selectively."
         },
         {
           "point": "The motive was real",
-          "explanation": "Beating the USSR was a defining national goal, and President Kennedy had set a deadline of the end of the decade. Supporters of this view say a strong incentive to succeed, or to appear to, is fair to notice. Critics reply that motive alone is not evidence of fabrication, since the same motive would also drive a real effort."
+          "explanation": "Beating the USSR was a defining national goal, and President Kennedy had set a deadline of the end of the decade. Supporters of this view say a strong incentive to succeed, or to appear to, is fair to notice."
         },
         {
           "point": "Missing original material, and no return since 1972",
-          "explanation": "The original higher-quality telemetry tapes were reportedly overwritten or lost, and nobody has walked on the Moon since 1972. Supporters of this view see these as unexplained gaps. Critics point to routine tape reuse at the time, and to cost and shifting priorities for the lack of later missions."
+          "explanation": "The original higher-quality telemetry tapes were reportedly overwritten or lost, and nobody has walked on the Moon since 1972. Supporters of this view see these as unexplained gaps."
         }
       ],
       "weakest_arguments": [
@@ -76,15 +76,15 @@
       "strongest_arguments": [
         {
           "point": "Big institutions manage their image",
-          "explanation": "Agencies curate what the public sees, and some imagery is staged, cleaned up or recreated for training and publicity. People in this camp want to separate the core event from the publicity. Critics reply that curation is routine and does not show anything was invented, and that this view needs specific evidence to go further."
+          "explanation": "Agencies curate what the public sees, and some imagery is staged, cleaned up or recreated for training and publicity. People in this camp want to separate the core event from the publicity."
         },
         {
           "point": "It doesn't require taking a side",
-          "explanation": "Supporters say you can accept the engineering achievement and still ask questions about transparency, such as why original recordings were lost. Critics say a middle position can be a way of avoiding commitment to either evidence or doubt."
+          "explanation": "Supporters say you can accept the engineering achievement and still ask questions about transparency, such as why original recordings were lost."
         },
         {
           "point": "Trust should be assessed claim by claim",
-          "explanation": "Supporters say accepting or rejecting everything is easier than weighing each claim separately. Critics reply that weighing claims separately only works if someone actually does the weighing against evidence."
+          "explanation": "Supporters say accepting or rejecting everything is easier than weighing each claim separately."
         }
       ],
       "weakest_arguments": [
@@ -109,11 +109,15 @@
       "strongest_arguments": [
         {
           "point": "Honest uncertainty",
-          "explanation": "Supporters say it is reasonable not to claim more confidence than you have. Critics reply that evidence is available, including from non-NASA sources, and that staying undecided can mean ignoring it."
+          "explanation": "Supporters say it is reasonable not to claim more confidence than you have."
         },
         {
           "point": "Limited time and expertise",
-          "explanation": "Supporters argue nobody can personally verify every claim, so withholding judgement on a question that doesn't affect daily life is rational. Critics reply that relying on trusted experts and independent checks is a normal way to settle such questions."
+          "explanation": "Supporters argue nobody can personally verify every claim, so withholding judgement on a question that doesn't affect daily life is rational."
+        },
+        {
+          "point": "Caution about official claims is consistent, not targeted",
+          "explanation": "People in this camp note that governments, media and other institutions have sometimes been wrong or misleading on other matters. They say keeping an open, cautious view on any big claim they can’t check for themselves is simply being consistent, not a judgement against the Moon landings in particular."
         }
       ],
       "weakest_arguments": [
@@ -124,6 +128,10 @@
         {
           "point": "\"It doesn't matter either way\"",
           "explanation": "Critics argue the question bears on how we judge evidence and institutions, so it is worth caring about. Supporters reply that people can reasonably prioritise other things."
+        },
+        {
+          "point": "Treating every claim as equally uncertain",
+          "explanation": "Critics say not all questions are equally open: some have far more independent evidence behind them than others, and a standing ‘undecided’ can treat them all the same."
         }
       ]
     }

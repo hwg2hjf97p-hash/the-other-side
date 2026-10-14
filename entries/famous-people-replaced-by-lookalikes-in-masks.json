@@ -5,76 +5,51 @@
   "camps": [
     {
       "name": "The Swap Spotters",
-      "one_liner": "Some celebrities and public figures really have been replaced, and the clues are visible if you look closely.",
+      "one_liner": "Some famous people really have been replaced, and the clues are there if you look closely.",
       "why_people_believe_this": "People in this camp often point to real cases where official accounts turned out to be incomplete or false, and conclude that public stories deserve scrutiny. Fame also makes verification hard. Famous people are carefully managed and rarely seen without a team, so outsiders can't easily check anything for themselves. Spotting a detail that others overlook can also be satisfying, and online communities make it a shared pursuit.",
       "strongest_arguments": [
         {
-          "point": "Doubles and impostors are a documented part of history.",
-          "explanation": "Body doubles are routine in film. In wartime, a look-alike was used to impersonate a senior Allied general as a decoy. Rulers have been rumored or known to use stand-ins for security. So the basic idea of someone standing in for a famous person is not made up, and believers argue the question is how far it goes, not whether it exists."
+          "point": "Masks and doubles have already fooled people in real life.",
+          "explanation": "This is not science fiction. A fraud gang used a custom silicone mask of France’s defence minister on video calls and conned wealthy people out of millions of euros. In a 2020 experiment, most people doing a close-up passport check on a man wearing a hyper-realistic mask did not flag it. Governments have used look-alikes too: in the Second World War, Britain used a double of General Montgomery to mislead German intelligence. If disguises can fool victims, officials and enemy spies, believers ask why they couldn’t fool an audience watching on a screen."
         },
         {
-          "point": "Modern effects make convincing disguises more plausible than they used to be, and denials are not independent evidence.",
-          "explanation": "Film makeup and silicone prosthetics can look startlingly lifelike, and digital editing can polish or alter images. Believers point out that we can no longer trust our eyes the way we once did. They also note that the people who would issue a denial, such as publicists, studios, or governments, are the ones with a motive to protect the story, so a denial alone does not settle the matter."
+          "point": "Faces are hard to verify, and the people who could confirm a swap have every reason to stay quiet.",
+          "explanation": "Research shows even trained passport officers wrongly accept a different person’s photo about one time in seven. Fans see stars mostly through edited photos and tightly managed appearances, so a careful replacement could slip past. And the people best placed to confirm or deny it, such as publicists, studios and management, are the ones with the most to lose if it came out, so believers argue their denials prove nothing."
         }
       ],
       "weakest_arguments": [
         {
           "point": "Small differences between photos are treated as proof of a different person.",
-          "explanation": "Ear shape, face width, or a mole's position can appear to change because of camera angle, lens, lighting, weight, aging, makeup, or editing. Critics say these factors need to be ruled out first. Believers often respond that the pattern across many photos matters, but that pattern is rarely tested against ordinary variation in photos of people known not to have been swapped."
+          "explanation": "Ear shape, face width or the position of a mole can appear to change because of camera angle, lens, lighting, weight, ageing, makeup or editing. Critics say these factors need to be ruled out first. Believers respond that it is the pattern across many photos that matters, while critics say that pattern is rarely compared against the ordinary variation in photos of people nobody claims were swapped."
         },
         {
           "point": "Missing evidence is read as evidence of a cover-up.",
-          "explanation": "A swapped celebrity would have family, friends, doctors, and colleagues who knew them closely. Believers typically answer that these people were paid, threatened, or are part of the plan. Critics say that answer is hard to test, because no result could count against the theory. That makes it difficult to tell the claim apart from one that is simply false."
+          "explanation": "A replaced celebrity would have family, friends, doctors and colleagues who knew them closely. Believers typically answer that these people were paid, pressured or are in on it. Critics say that answer is hard to test, because no result could count against it."
         }
       ]
     },
     {
-      "name": "The Pattern-Matching Skeptics",
-      "one_liner": "These claims come from how human perception works and how the internet amplifies it, not from actual replacements.",
-      "why_people_believe_this": "People in this camp tend to put weight on documented, checkable evidence and are wary of how easily a compelling story can spread. Many have seen a rumor take off, or have been sure of something that turned out to be a trick of memory or lighting. Many also find these theories interesting as psychology. Like any camp, they can be drawn to a self-image as the person who is not fooled.",
+      "name": "The ‘Can’t Rule It Out’ Camp",
+      "one_liner": "Nobody has proved a swap, but the technology and the precedents mean it can’t simply be dismissed either.",
+      "why_people_believe_this": "People here aren’t sure any particular star was replaced, but they are uneasy with being told it’s impossible. They know masks, doubles and digital editing have fooled people before, and that the public only ever sees a managed version of famous lives. They would rather keep the question open than fully trust either the believers or the debunkers.",
       "strongest_arguments": [
         {
-          "point": "Human faces change a lot across time and context.",
-          "explanation": "People age, gain and lose weight, get cosmetic work, change hair and makeup, and are photographed with different cameras and filters. Research on face matching suggests people are less accurate at comparing photos of unfamiliar faces than they expect. That makes 'they look different' a weak basis for 'they are different.'"
+          "point": "‘Impossible’ has been the wrong answer before.",
+          "explanation": "Things once dismissed as paranoid, from wartime decoys to elaborate impersonation scams, turned out to be real. Large organisations have kept secrets, at least for a while. Given that history, this camp argues the honest verdict on swap claims is ‘unproven’, not ‘impossible’."
         },
         {
-          "point": "A simpler explanation covers the same observations.",
-          "explanation": "A singer who looks different at 40 than at 20 is explained by ordinary change. A swap theory adds a secret replacement, a cover-up, and many silent people. Skeptics argue that each extra layer needs its own evidence, and they say they have not seen such evidence for specific claims."
+          "point": "Outsiders have no way to check.",
+          "explanation": "Ordinary people can’t compare a celebrity’s DNA, fingerprints or private records. All the public gets are photos, videos and statements controlled by the star’s own team. When something can’t be independently verified, this camp says the fair response is to suspend judgement rather than accept the official version by default."
         }
       ],
       "weakest_arguments": [
         {
-          "point": "'The simplest explanation' is a rule of thumb, not proof.",
-          "explanation": "Simpler explanations have sometimes turned out wrong, and what counts as simple is partly a matter of perspective. Debunking one claim, such as a single photo, also does not rule out every other claim. Skeptics are on firmer ground when they test each claim on its own evidence."
+          "point": "Keeping every door open can stall thinking.",
+          "explanation": "Almost nothing can be completely ruled out. Critics argue that treating ‘possible’ as if it meant ‘plausible’ gives every claim equal weight, whatever the evidence behind it."
         },
         {
-          "point": "Treating the whole idea as obviously silly can skip over real cases and alienate people.",
-          "explanation": "Impostors, doubles, and decoys have existed, and the line between 'impossible' and 'unlikely' matters. Waving the topic away with a laugh can make believers feel unheard and push them further into the theory. The 'someone would have leaked it' argument can be overstated in the same way, since large groups have sometimes kept secrets, at least for a while."
-        }
-      ]
-    },
-    {
-      "name": "The 'Doubles Are Real, But Limited' Realists",
-      "one_liner": "Look-alikes and disguises exist and get used in narrow situations, but a full secret replacement of a major star doesn't fit how fame actually works.",
-      "why_people_believe_this": "Some people here have worked in film, security, or media, or somewhere else that things get staged, and they know illusions are real but have limits. They distrust both 'everything is fake' and 'nothing is ever staged.' They want to know what's feasible, who benefits, and what it would cost.",
-      "strongest_arguments": [
-        {
-          "point": "Doubles are used for specific jobs, not for living someone's life.",
-          "explanation": "A stunt double, a stand-in for a lighting setup, or a decoy for a single appearance is a short, controlled task. Living as a famous person day after day means handling voice, mannerisms, relationships, contracts, and personal history. Realists argue that is a much harder problem than covering one scene."
-        },
-        {
-          "point": "Masks are built for specific, controlled situations.",
-          "explanation": "Prosthetics are usually made for particular shots, with careful lighting and angles. Real life involves close conversations, eating, sweating, weather, and live events. Realists argue a long-term mask would have to hold up in all of those. Others reply that some masks have fooled people in live settings, so the limits are an open question."
-        }
-      ],
-      "weakest_arguments": [
-        {
-          "point": "'I've seen how effects work, so I know it couldn't happen' can overreach.",
-          "explanation": "Professional experience is valuable, but technology moves fast and nobody sees all of it. Confidence about what is impossible can run ahead of what anyone actually knows, especially about private or well-funded projects."
-        },
-        {
-          "point": "The middle position can slide into 'it's probably nothing' without checking specific claims.",
-          "explanation": "Saying that doubles exist but replacement is unlikely is a reasonable general view. But each individual claim still deserves a look at its own evidence, and the realist camp sometimes skips that step because the general case seems settled."
+          "point": "It can shift the burden of proof.",
+          "explanation": "Asking people to prove a swap didn’t happen asks for something that is usually impossible to provide. Critics say those claiming a swap should bring positive evidence for a specific case."
         }
       ]
     },
@@ -104,27 +79,52 @@
       ]
     },
     {
-      "name": "The Just-for-Fun Sleuths",
-      "one_liner": "Spotting 'swaps' is a game, a meme, and a community pastime, and nobody needs to believe it for it to be enjoyable.",
-      "why_people_believe_this": "People in this camp enjoy the puzzle-solving, the in-jokes, and the shared storytelling around the theories. They may play along with the theories without taking the literal claim seriously. For them the appeal is creativity and community rather than a conviction about the world.",
+      "name": "The 'Doubles Are Real, But Limited' Realists",
+      "one_liner": "Look-alikes and disguises exist and get used in narrow situations, but a full secret replacement of a major star doesn't fit how fame actually works.",
+      "why_people_believe_this": "Some people here have worked in film, security, or media, or somewhere else that things get staged, and they know illusions are real but have limits. They distrust both 'everything is fake' and 'nothing is ever staged.' They want to know what's feasible, who benefits, and what it would cost.",
       "strongest_arguments": [
         {
-          "point": "Playing with a far-fetched idea is a harmless and old tradition.",
-          "explanation": "People have long enjoyed urban legends, fan theories, and mysteries without acting on them. Treating swap theories as a game lets people practice close observation and debate in a low-stakes way."
+          "point": "Doubles are used for specific jobs, not for living someone's life.",
+          "explanation": "A stunt double, a stand-in for a lighting setup, or a decoy for a single appearance is a short, controlled task. Living as a famous person day after day means handling voice, mannerisms, relationships, contracts, and personal history. Realists argue that is a much harder problem than covering one scene."
         },
         {
-          "point": "Playing along can build media literacy.",
-          "explanation": "Hunting for visual 'evidence' and then seeing how easily lighting, angles, and editing explain it can teach people how images mislead. Some participants say the game makes them more careful about what they trust online."
+          "point": "Masks are built for specific, controlled situations.",
+          "explanation": "Prosthetics are usually made for particular shots, with careful lighting and angles. Real life involves close conversations, eating, sweating, weather and live events. Realists argue a mask worn long-term would have to hold up in all of those, which is a far harder job than fooling a camera for one scene."
         }
       ],
       "weakest_arguments": [
         {
-          "point": "The line between a joke and a belief is blurry online.",
-          "explanation": "Content made as a joke can be shared by others who take it literally, and it is often hard to tell which is which. 'It's just for fun' can understate how the material spreads."
+          "point": "'I've seen how effects work, so I know it couldn't happen' can overreach.",
+          "explanation": "Professional experience is valuable, but technology moves fast and nobody sees all of it. Confidence about what is impossible can run ahead of what anyone actually knows, especially about private or well-funded projects."
         },
         {
-          "point": "'Harmless' ignores the people being talked about.",
-          "explanation": "Famous people and their families can find constant claims that they are fake or dead distressing, even if the audience is mostly playing. Treating it purely as a game can overlook that cost."
+          "point": "The middle position can slide into 'it's probably nothing' without checking specific claims.",
+          "explanation": "Saying that doubles exist but replacement is unlikely is a reasonable general view. But each individual claim still deserves a look at its own evidence, and the realist camp sometimes skips that step because the general case seems settled."
+        }
+      ]
+    },
+    {
+      "name": "The Pattern-Matching Skeptics",
+      "one_liner": "These claims come from how human perception works and how the internet amplifies it, not from actual replacements.",
+      "why_people_believe_this": "People in this camp tend to put weight on documented, checkable evidence and are wary of how easily a compelling story can spread. Many have seen a rumor take off, or have been sure of something that turned out to be a trick of memory or lighting. Many also find these theories interesting as psychology. Like any camp, they can be drawn to a self-image as the person who is not fooled.",
+      "strongest_arguments": [
+        {
+          "point": "Human faces change a lot across time and context.",
+          "explanation": "People age, gain and lose weight, get cosmetic work, change hair and makeup, and are photographed with different cameras and filters. Research on face matching suggests people are less accurate at comparing photos of unfamiliar faces than they expect. That makes 'they look different' a weak basis for 'they are different.'"
+        },
+        {
+          "point": "A simpler explanation covers the same observations.",
+          "explanation": "A singer who looks different at 40 than at 20 is explained by ordinary change. A swap theory adds a secret replacement, a cover-up, and many silent people. Skeptics argue that each extra layer needs its own evidence, and they say they have not seen such evidence for specific claims."
+        }
+      ],
+      "weakest_arguments": [
+        {
+          "point": "'The simplest explanation' is a rule of thumb, not proof.",
+          "explanation": "Simpler explanations have sometimes turned out wrong, and what counts as simple is partly a matter of perspective. Debunking one claim, such as a single photo, also does not rule out every other claim. Skeptics are on firmer ground when they test each claim on its own evidence."
+        },
+        {
+          "point": "Treating the whole idea as obviously silly can skip over real cases and alienate people.",
+          "explanation": "Impostors, doubles, and decoys have existed, and the line between 'impossible' and 'unlikely' matters. Waving the topic away with a laugh can make believers feel unheard and push them further into the theory. The 'someone would have leaked it' argument can be overstated in the same way, since large groups have sometimes kept secrets, at least for a while."
         }
       ]
     }
@@ -239,6 +239,6 @@
         "fix": "Kept all six facts but neutralised wording. Kept the existing 'unfamiliar faces' limiter on the passport-officer fact and the 'controlled experiment' limiter on the mask fact. Did not add facts."
       }
     ],
-    "note": "Key facts were checked against their sources by hand on 2026-10-14 and edited for accuracy; one study fact was corrected against the published abstract."
+    "note": "Key facts were checked against their sources by hand on 2026-10-14. On 2026-10-15 the camps were rebalanced by hand after a reader review found the page leaned against believers: a ‘Can’t Rule It Out’ camp replaced the ‘Just-for-Fun Sleuths’, the believers’ strongest arguments now use the verified evidence they would cite, and rebuttals were moved out of strongest arguments."
   }
 }

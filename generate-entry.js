@@ -44,6 +44,9 @@ Rules:
 - Use the same length, warmth and effort for every camp.
 - Do not invent statistics, studies, quotes or sources. If you mention evidence, describe it generally.
 - Never label a camp "right", "wrong", "fringe" or "mainstream".
+- Write each camp's strongest arguments the way its most persuasive supporters would make them, using the best real evidence they would point to. Never add a rebuttal, caveat or "critics say" inside a strongest argument; counterpoints belong only in that camp's weakest arguments.
+- Give every camp the same number of strongest arguments and the same number of weakest arguments.
+- Don't stack the camps. On a yes/no question, don't let one answer get most of the camps by splitting it into several flavours while the other answer gets one camp; group the camps so each main position is fairly represented.
 
 Return ONLY valid JSON, no other text, in exactly this shape:
 {
@@ -108,6 +111,10 @@ Argue as hard as you can that it unfairly favours one camp. Hunt for:
 - Weak arguments that are actually strawmen (no real believer would make them)
 - A missing camp that real people hold
 - Any sentence that quietly implies which camp is correct
+- A rebuttal, caveat or "critics say" sentence inside any camp's strongest arguments (move it to that camp's weakest arguments or remove it)
+- A camp whose strongest arguments are vaguer or less concrete than the others', or that leaves out the real evidence its supporters would cite
+- Camps stacked on one side: one answer to the main question split across several camps while the other answer gets only one
+- Camps with different numbers of strongest or weakest arguments
 - Any invented statistic, study or quote
 - Any item in "key_facts" that is cherry-picked to help one camp, that some camp would reasonably dispute, or whose wording leans one way
 - A "key_facts" set that, taken together, mostly helps one camp
