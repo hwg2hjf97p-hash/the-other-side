@@ -250,6 +250,30 @@ function campCard(camp, i) {
 </article>`;
 }
 
+// Sourced facts every camp accepts. Only http(s) links, and they open in a new tab.
+function factsSection(facts) {
+  const list = (facts || []).filter((f) => f.fact && /^https?:\/\//.test(f.source_url || ""));
+  if (!list.length) return "";
+  const host = (u) => {
+    try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return ""; }
+  };
+  return `
+  <section class="section facts">
+    <h2 class="section-title">📚 The facts everyone starts from</h2>
+    <p class="muted small">Things people in every camp tend to accept — they just read them differently. Each one links to its source.</p>
+    <ul class="fact-list">${list
+      .map(
+        (f) => `
+      <li>
+        <p>${esc(f.fact)}</p>
+        <a class="fact-source" href="${esc(f.source_url)}" target="_blank" rel="noopener nofollow">${esc(f.source_title || host(f.source_url))} <span class="muted">· ${esc(host(f.source_url))} ↗</span></a>
+      </li>`
+      )
+      .join("")}
+    </ul>
+  </section>`;
+}
+
 function buildTopic(e) {
   const camps = e.camps || [];
   const catLink = categoryOf(e.cat.parent)
@@ -274,6 +298,7 @@ function buildTopic(e) {
   <summary>How this page was made</summary>
   <p>An AI wrote a first draft explaining every camp. A second AI was then told to assume the draft was biased, hunt for unfairness, and rewrite it.
   ${audit.balance_score_of_draft ? `It scored the first draft <strong>${esc(audit.balance_score_of_draft)}/10</strong> for even-handedness` : ""}${problems.length ? ` and fixed ${problems.length} problem${problems.length === 1 ? "" : "s"}:` : "."}</p>
+  ${(e.key_facts || []).length ? `<p>The key facts were found with a web search, and we only kept facts whose source link actually came back from that search. The bias check could remove or reword facts, but not add new ones.</p>` : ""}
   ${problems.length ? `<ul>${problems.map((p) => `<li>${esc(p.issue)} <span class="muted">— fix: ${esc(p.fix)}</span></li>`).join("")}</ul>` : ""}
   ${audit.note ? `<p class="muted">${esc(audit.note)}</p>` : ""}
   <p class="muted">Generated ${esc(String(e.generated_at || "").slice(0, 10))}.</p>
@@ -313,6 +338,8 @@ ${adSlot("topic-top")}
       ${camps.map(campCard).join("")}
     </div>
   </section>
+
+  ${factsSection(e.key_facts)}
 
   <section class="section common">
     <h2 class="section-title">🤝 Where most people agree</h2>

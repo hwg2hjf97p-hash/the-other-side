@@ -163,6 +163,12 @@ button { font: inherit; cursor: pointer; }
 .arg-list li { display: flex; flex-direction: column; gap: 2px; padding: 12px; border-radius: 10px; background: var(--bg); font-size: .95rem; }
 .arg-list span { color: var(--muted); }
 
+.fact-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.fact-list li { padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+.fact-list p { margin: 0 0 6px; }
+.fact-source { font-size: .85rem; text-decoration: none; word-break: break-word; }
+.fact-source:hover { text-decoration: underline; }
+
 .common p { font-size: 1.05rem; }
 .questions { padding-left: 1.2em; }
 .questions li { margin-bottom: .6em; font-family: var(--font-head); font-size: 1.15rem; }
